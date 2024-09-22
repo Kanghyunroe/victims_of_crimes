@@ -1,1245 +1,1245 @@
 id,report_year,category,subtype,assault_subtype,sex,age_group,age_cohort,count
-1,2014,Crimes Against the Person,Burglary,N/A,M,Youth,NA,468
-2,2019,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,3
-3,2019,Crimes Against the Person,Assault,N/A,F,Child,NA,323
-4,2019,Crimes Against the Person,Assault,N/A,F,Unknown,NA,118
-5,2018,Crimes Against the Person,Theft,N/A,F,Unknown,NA,308
-6,2014,Crimes Against the Person,Other,N/A,U,Adult,NA,330
-7,2014,Crimes Against the Person,Other,N/A,U,Unknown,NA,62
-8,2017,Crimes Against the Person,Other,N/A,M,Adult,NA,125
-9,2021,Crimes Against the Person,Burglary,N/A,F,Youth,NA,370
-10,2023,Crimes Against the Person,Other,N/A,F,Youth,NA,66
-11,2018,Crimes Against the Person,Assault,N/A,F,Adult,NA,24
-12,2016,Crimes Against the Person,Other,N/A,M,Youth,NA,116
-13,2019,Crimes Against the Person,Assault,N/A,F,Unknown,NA,293
-14,2018,Crimes Against the Person,Assault,N/A,U,Adult,NA,491
-15,2020,Crimes Against the Person,Theft,N/A,U,Adult,NA,124
-16,2014,Crimes Against the Person,Theft,N/A,U,Child,NA,134
-17,2020,Crimes Against the Person,Theft,N/A,M,Youth,NA,190
-18,2016,Crimes Against the Person,Other,N/A,U,Unknown,NA,136
-19,2021,Crimes Against the Person,Burglary,N/A,M,Youth,NA,177
-20,2022,Crimes Against the Person,Theft,N/A,F,Youth,NA,365
-21,2018,Crimes Against the Person,Burglary,N/A,F,Adult,NA,464
-22,2015,Crimes Against the Person,Burglary,N/A,M,Child,NA,426
-23,2019,Crimes Against the Person,Assault,N/A,M,Child,NA,310
-24,2020,Crimes Against the Person,Other,N/A,M,Adult,NA,21
-25,2021,Crimes Against the Person,Assault,N/A,F,Adult,NA,453
-26,2017,Crimes Against the Person,Theft,N/A,F,Youth,NA,182
-27,2021,Crimes Against the Person,Other,N/A,F,Adult,NA,205
-28,2016,Crimes Against the Person,Burglary,N/A,U,Child,NA,40
-29,2022,Crimes Against the Person,Assault,N/A,F,Adult,NA,185
-30,2016,Crimes Against the Person,Assault,N/A,M,Child,NA,418
-31,2019,Crimes Against the Person,Assault,N/A,U,Adult,NA,209
-32,2023,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,215
-33,2023,Crimes Against the Person,Other,N/A,U,Child,NA,452
-34,2017,Crimes Against the Person,Assault,N/A,U,Child,NA,144
-35,2021,Crimes Against the Person,Theft,N/A,U,Unknown,NA,482
-36,2021,Crimes Against the Person,Burglary,N/A,U,Youth,NA,436
-37,2014,Crimes Against the Person,Other,N/A,M,Child,NA,341
-38,2017,Crimes Against the Person,Other,N/A,M,Adult,NA,439
-39,2016,Crimes Against the Person,Assault,N/A,U,Child,NA,437
-40,2021,Crimes Against the Person,Assault,N/A,F,Child,NA,127
-41,2014,Crimes Against the Person,Theft,N/A,U,Adult,NA,442
-42,2017,Crimes Against the Person,Assault,N/A,U,Child,NA,17
-43,2021,Crimes Against the Person,Assault,N/A,F,Youth,NA,373
-44,2015,Crimes Against the Person,Assault,N/A,U,Unknown,NA,162
-45,2019,Crimes Against the Person,Assault,N/A,F,Child,NA,272
-46,2018,Crimes Against the Person,Other,N/A,M,Adult,NA,305
-47,2016,Crimes Against the Person,Theft,N/A,F,Adult,NA,192
-48,2019,Crimes Against the Person,Other,N/A,M,Youth,NA,432
-49,2022,Crimes Against the Person,Theft,N/A,M,Unknown,NA,44
-50,2018,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,251
-51,2021,Crimes Against the Person,Other,N/A,F,Youth,NA,372
-52,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,151
-53,2018,Crimes Against the Person,Burglary,N/A,F,Adult,NA,327
-54,2014,Crimes Against the Person,Other,N/A,F,Unknown,NA,379
-55,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,39
-56,2020,Crimes Against the Person,Theft,N/A,U,Unknown,NA,446
-57,2018,Crimes Against the Person,Assault,N/A,M,Child,NA,220
-58,2023,Crimes Against the Person,Burglary,N/A,U,Youth,NA,225
-59,2020,Crimes Against the Person,Other,N/A,U,Youth,NA,167
-60,2018,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,117
-61,2016,Crimes Against the Person,Other,N/A,F,Youth,NA,22
-62,2020,Crimes Against the Person,Assault,N/A,U,Adult,NA,359
-63,2014,Crimes Against the Person,Assault,N/A,U,Adult,NA,228
-64,2015,Crimes Against the Person,Assault,N/A,M,Child,NA,321
-65,2019,Crimes Against the Person,Theft,N/A,M,Child,NA,307
-66,2017,Crimes Against the Person,Assault,N/A,F,Unknown,NA,166
-67,2021,Crimes Against the Person,Other,N/A,F,Unknown,NA,283
-68,2016,Crimes Against the Person,Theft,N/A,U,Child,NA,92
-69,2020,Crimes Against the Person,Theft,N/A,M,Adult,NA,51
-70,2021,Crimes Against the Person,Theft,N/A,F,Adult,NA,498
-71,2020,Crimes Against the Person,Other,N/A,U,Youth,NA,108
-72,2020,Crimes Against the Person,Other,N/A,F,Unknown,NA,4
-73,2015,Crimes Against the Person,Theft,N/A,M,Adult,NA,293
-74,2021,Crimes Against the Person,Assault,N/A,U,Adult,NA,20
-75,2020,Crimes Against the Person,Theft,N/A,U,Youth,NA,375
-76,2019,Crimes Against the Person,Other,N/A,M,Child,NA,409
-77,2021,Crimes Against the Person,Theft,N/A,M,Youth,NA,99
-78,2018,Crimes Against the Person,Assault,N/A,M,Adult,NA,325
-79,2023,Crimes Against the Person,Other,N/A,U,Unknown,NA,94
-80,2020,Crimes Against the Person,Theft,N/A,F,Child,NA,264
-81,2015,Crimes Against the Person,Theft,N/A,F,Adult,NA,495
-82,2017,Crimes Against the Person,Other,N/A,U,Child,NA,449
-83,2023,Crimes Against the Person,Theft,N/A,F,Child,NA,59
-84,2023,Crimes Against the Person,Assault,N/A,U,Child,NA,71
-85,2016,Crimes Against the Person,Other,N/A,U,Youth,NA,297
-86,2020,Crimes Against the Person,Theft,N/A,F,Unknown,NA,354
-87,2015,Crimes Against the Person,Assault,N/A,F,Unknown,NA,483
-88,2022,Crimes Against the Person,Burglary,N/A,U,Adult,NA,338
-89,2017,Crimes Against the Person,Burglary,N/A,U,Adult,NA,228
-90,2017,Crimes Against the Person,Other,N/A,U,Child,NA,93
-91,2019,Crimes Against the Person,Other,N/A,M,Unknown,NA,50
-92,2014,Crimes Against the Person,Burglary,N/A,M,Youth,NA,315
-93,2017,Crimes Against the Person,Assault,N/A,F,Adult,NA,412
-94,2014,Crimes Against the Person,Other,N/A,F,Unknown,NA,232
-95,2018,Crimes Against the Person,Other,N/A,U,Unknown,NA,354
-96,2014,Crimes Against the Person,Theft,N/A,M,Adult,NA,140
-97,2014,Crimes Against the Person,Other,N/A,M,Youth,NA,205
-98,2023,Crimes Against the Person,Other,N/A,M,Adult,NA,496
-99,2021,Crimes Against the Person,Theft,N/A,M,Adult,NA,79
-100,2021,Crimes Against the Person,Other,N/A,M,Youth,NA,325
-101,2014,Crimes Against the Person,Burglary,N/A,U,Adult,NA,443
-102,2017,Crimes Against the Person,Assault,N/A,F,Adult,NA,497
-103,2020,Crimes Against the Person,Other,N/A,F,Unknown,NA,351
-104,2019,Crimes Against the Person,Burglary,N/A,U,Adult,NA,164
-105,2021,Crimes Against the Person,Other,N/A,M,Unknown,NA,72
-106,2023,Crimes Against the Person,Other,N/A,U,Child,NA,233
-107,2015,Crimes Against the Person,Theft,N/A,U,Unknown,NA,351
-108,2019,Crimes Against the Person,Assault,N/A,F,Adult,NA,328
-109,2017,Crimes Against the Person,Theft,N/A,M,Unknown,NA,112
-110,2015,Crimes Against the Person,Assault,N/A,F,Unknown,NA,274
-111,2019,Crimes Against the Person,Other,N/A,M,Unknown,NA,163
-112,2021,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,377
-113,2023,Crimes Against the Person,Burglary,N/A,M,Child,NA,3
-114,2017,Crimes Against the Person,Assault,N/A,F,Child,NA,151
-115,2016,Crimes Against the Person,Burglary,N/A,U,Child,NA,217
-116,2018,Crimes Against the Person,Other,N/A,U,Unknown,NA,322
-117,2023,Crimes Against the Person,Theft,N/A,F,Unknown,NA,294
-118,2020,Crimes Against the Person,Burglary,N/A,U,Youth,NA,23
-119,2022,Crimes Against the Person,Other,N/A,F,Child,NA,92
-120,2015,Crimes Against the Person,Burglary,N/A,F,Youth,NA,337
-121,2016,Crimes Against the Person,Burglary,N/A,U,Adult,NA,71
-122,2014,Crimes Against the Person,Assault,N/A,M,Child,NA,99
-123,2022,Crimes Against the Person,Burglary,N/A,F,Adult,NA,337
-124,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,155
-125,2018,Crimes Against the Person,Burglary,N/A,M,Adult,NA,31
-126,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,477
-127,2019,Crimes Against the Person,Other,N/A,U,Youth,NA,124
-128,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,249
-129,2023,Crimes Against the Person,Other,N/A,U,Adult,NA,20
-130,2020,Crimes Against the Person,Assault,N/A,F,Adult,NA,88
-131,2023,Crimes Against the Person,Theft,N/A,F,Adult,NA,460
-132,2019,Crimes Against the Person,Burglary,N/A,F,Youth,NA,123
-133,2023,Crimes Against the Person,Other,N/A,M,Youth,NA,192
-134,2018,Crimes Against the Person,Other,N/A,M,Child,NA,122
-135,2018,Crimes Against the Person,Theft,N/A,M,Child,NA,187
-136,2019,Crimes Against the Person,Assault,N/A,F,Child,NA,13
-137,2016,Crimes Against the Person,Burglary,N/A,M,Youth,NA,483
-138,2017,Crimes Against the Person,Theft,N/A,F,Adult,NA,160
-139,2014,Crimes Against the Person,Other,N/A,U,Unknown,NA,286
-140,2021,Crimes Against the Person,Theft,N/A,F,Adult,NA,329
-141,2023,Crimes Against the Person,Other,N/A,F,Child,NA,495
-142,2019,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,256
-143,2020,Crimes Against the Person,Burglary,N/A,M,Child,NA,457
-144,2014,Crimes Against the Person,Theft,N/A,F,Child,NA,73
-145,2017,Crimes Against the Person,Other,N/A,U,Unknown,NA,282
-146,2020,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,171
-147,2014,Crimes Against the Person,Burglary,N/A,U,Child,NA,384
-148,2020,Crimes Against the Person,Other,N/A,M,Youth,NA,402
-149,2018,Crimes Against the Person,Assault,N/A,U,Youth,NA,217
-150,2019,Crimes Against the Person,Other,N/A,U,Adult,NA,198
-151,2022,Crimes Against the Person,Assault,N/A,F,Child,NA,297
-152,2022,Crimes Against the Person,Other,N/A,F,Youth,NA,32
-153,2021,Crimes Against the Person,Burglary,N/A,M,Adult,NA,222
-154,2017,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,5
-155,2022,Crimes Against the Person,Assault,N/A,F,Child,NA,46
-156,2020,Crimes Against the Person,Theft,N/A,U,Youth,NA,52
-157,2016,Crimes Against the Person,Theft,N/A,U,Adult,NA,214
-158,2016,Crimes Against the Person,Other,N/A,U,Child,NA,303
-159,2017,Crimes Against the Person,Theft,N/A,U,Unknown,NA,322
-160,2022,Crimes Against the Person,Other,N/A,U,Youth,NA,118
-161,2015,Crimes Against the Person,Theft,N/A,F,Adult,NA,16
-162,2021,Crimes Against the Person,Assault,N/A,M,Youth,NA,441
-163,2016,Crimes Against the Person,Other,N/A,M,Unknown,NA,178
-164,2015,Crimes Against the Person,Theft,N/A,U,Youth,NA,241
-165,2015,Crimes Against the Person,Burglary,N/A,F,Adult,NA,351
-166,2023,Crimes Against the Person,Other,N/A,U,Unknown,NA,231
-167,2016,Crimes Against the Person,Assault,N/A,F,Unknown,NA,205
-168,2022,Crimes Against the Person,Theft,N/A,U,Adult,NA,428
-169,2019,Crimes Against the Person,Theft,N/A,M,Unknown,NA,305
-170,2021,Crimes Against the Person,Theft,N/A,U,Unknown,NA,270
-171,2014,Crimes Against the Person,Other,N/A,M,Child,NA,93
-172,2023,Crimes Against the Person,Other,N/A,U,Unknown,NA,441
-173,2020,Crimes Against the Person,Theft,N/A,M,Adult,NA,177
-174,2020,Crimes Against the Person,Assault,N/A,M,Unknown,NA,316
-175,2023,Crimes Against the Person,Assault,N/A,F,Unknown,NA,77
-176,2015,Crimes Against the Person,Assault,N/A,U,Adult,NA,107
-177,2020,Crimes Against the Person,Other,N/A,F,Unknown,NA,168
-178,2014,Crimes Against the Person,Assault,N/A,U,Child,NA,235
-179,2021,Crimes Against the Person,Burglary,N/A,U,Child,NA,346
-180,2016,Crimes Against the Person,Assault,N/A,F,Adult,NA,357
-181,2017,Crimes Against the Person,Other,N/A,U,Adult,NA,303
-182,2014,Crimes Against the Person,Burglary,N/A,U,Adult,NA,65
-183,2022,Crimes Against the Person,Other,N/A,U,Child,NA,403
-184,2015,Crimes Against the Person,Burglary,N/A,F,Child,NA,140
-185,2022,Crimes Against the Person,Burglary,N/A,F,Child,NA,205
-186,2022,Crimes Against the Person,Theft,N/A,M,Child,NA,161
-187,2021,Crimes Against the Person,Assault,N/A,F,Child,NA,8
-188,2017,Crimes Against the Person,Other,N/A,U,Youth,NA,409
-189,2022,Crimes Against the Person,Assault,N/A,F,Adult,NA,426
-190,2017,Crimes Against the Person,Other,N/A,M,Child,NA,181
-191,2017,Crimes Against the Person,Theft,N/A,F,Adult,NA,105
-192,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,162
-193,2018,Crimes Against the Person,Burglary,N/A,U,Adult,NA,343
-194,2017,Crimes Against the Person,Theft,N/A,U,Adult,NA,10
-195,2020,Crimes Against the Person,Theft,N/A,F,Child,NA,174
-196,2023,Crimes Against the Person,Burglary,N/A,U,Youth,NA,94
-197,2022,Crimes Against the Person,Burglary,N/A,F,Youth,NA,393
-198,2018,Crimes Against the Person,Other,N/A,M,Child,NA,74
-199,2014,Crimes Against the Person,Assault,N/A,U,Child,NA,479
-200,2017,Crimes Against the Person,Theft,N/A,U,Youth,NA,229
-201,2014,Crimes Against the Person,Assault,N/A,F,Adult,NA,475
-202,2014,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,311
-203,2019,Crimes Against the Person,Assault,N/A,U,Unknown,NA,110
-204,2023,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,396
-205,2023,Crimes Against the Person,Other,N/A,M,Child,NA,480
-206,2018,Crimes Against the Person,Theft,N/A,M,Adult,NA,81
-207,2019,Crimes Against the Person,Burglary,N/A,F,Adult,NA,429
-208,2020,Crimes Against the Person,Other,N/A,F,Child,NA,169
-209,2017,Crimes Against the Person,Burglary,N/A,M,Child,NA,225
-210,2023,Crimes Against the Person,Assault,N/A,U,Adult,NA,479
-211,2023,Crimes Against the Person,Assault,N/A,U,Child,NA,207
-212,2015,Crimes Against the Person,Theft,N/A,F,Child,NA,482
-213,2023,Crimes Against the Person,Theft,N/A,M,Child,NA,233
-214,2014,Crimes Against the Person,Burglary,N/A,U,Child,NA,26
-215,2015,Crimes Against the Person,Burglary,N/A,F,Adult,NA,100
-216,2014,Crimes Against the Person,Theft,N/A,F,Child,NA,370
-217,2014,Crimes Against the Person,Assault,N/A,F,Adult,NA,208
-218,2015,Crimes Against the Person,Other,N/A,F,Adult,NA,335
-219,2016,Crimes Against the Person,Other,N/A,F,Adult,NA,365
-220,2016,Crimes Against the Person,Other,N/A,M,Unknown,NA,6
-221,2021,Crimes Against the Person,Other,N/A,F,Child,NA,459
-222,2017,Crimes Against the Person,Assault,N/A,U,Youth,NA,402
-223,2017,Crimes Against the Person,Other,N/A,U,Unknown,NA,473
-224,2015,Crimes Against the Person,Theft,N/A,M,Adult,NA,40
-225,2019,Crimes Against the Person,Assault,N/A,F,Child,NA,205
-226,2014,Crimes Against the Person,Other,N/A,F,Adult,NA,100
-227,2015,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,482
-228,2023,Crimes Against the Person,Other,N/A,M,Adult,NA,40
-229,2014,Crimes Against the Person,Burglary,N/A,U,Child,NA,390
-230,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,417
-231,2018,Crimes Against the Person,Burglary,N/A,M,Adult,NA,213
-232,2018,Crimes Against the Person,Other,N/A,U,Adult,NA,338
-233,2015,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,176
-234,2022,Crimes Against the Person,Assault,N/A,U,Child,NA,380
-235,2015,Crimes Against the Person,Assault,N/A,M,Adult,NA,337
-236,2020,Crimes Against the Person,Theft,N/A,U,Child,NA,437
-237,2021,Crimes Against the Person,Assault,N/A,U,Adult,NA,348
-238,2015,Crimes Against the Person,Theft,N/A,U,Youth,NA,375
-239,2023,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,423
-240,2016,Crimes Against the Person,Theft,N/A,F,Child,NA,390
-241,2020,Crimes Against the Person,Assault,N/A,F,Adult,NA,449
-242,2023,Crimes Against the Person,Theft,N/A,M,Adult,NA,403
-243,2014,Crimes Against the Person,Other,N/A,U,Unknown,NA,344
-244,2023,Crimes Against the Person,Burglary,N/A,U,Youth,NA,309
-245,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,17
-246,2020,Crimes Against the Person,Other,N/A,F,Adult,NA,304
-247,2023,Crimes Against the Person,Assault,N/A,M,Child,NA,486
-248,2018,Crimes Against the Person,Assault,N/A,U,Child,NA,374
-249,2018,Crimes Against the Person,Theft,N/A,U,Unknown,NA,16
-250,2020,Crimes Against the Person,Theft,N/A,U,Unknown,NA,144
-251,2017,Crimes Against the Person,Theft,N/A,F,Adult,NA,447
-252,2016,Crimes Against the Person,Burglary,N/A,M,Adult,NA,277
-253,2018,Crimes Against the Person,Other,N/A,M,Unknown,NA,102
-254,2021,Crimes Against the Person,Assault,N/A,F,Unknown,NA,340
-255,2023,Crimes Against the Person,Burglary,N/A,U,Child,NA,254
-256,2022,Crimes Against the Person,Assault,N/A,F,Unknown,NA,93
-257,2017,Crimes Against the Person,Other,N/A,F,Adult,NA,402
-258,2022,Crimes Against the Person,Theft,N/A,F,Unknown,NA,161
-259,2017,Crimes Against the Person,Burglary,N/A,M,Youth,NA,147
-260,2019,Crimes Against the Person,Burglary,N/A,F,Adult,NA,377
-261,2018,Crimes Against the Person,Theft,N/A,U,Unknown,NA,111
-262,2020,Crimes Against the Person,Assault,N/A,M,Child,NA,466
-263,2014,Crimes Against the Person,Other,N/A,M,Youth,NA,497
-264,2018,Crimes Against the Person,Other,N/A,M,Child,NA,226
-265,2019,Crimes Against the Person,Other,N/A,M,Unknown,NA,1
-266,2019,Crimes Against the Person,Other,N/A,F,Child,NA,285
-267,2016,Crimes Against the Person,Assault,N/A,F,Adult,NA,292
-268,2019,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,242
-269,2014,Crimes Against the Person,Other,N/A,F,Unknown,NA,405
-270,2017,Crimes Against the Person,Theft,N/A,U,Youth,NA,438
-271,2021,Crimes Against the Person,Other,N/A,U,Unknown,NA,238
-272,2014,Crimes Against the Person,Burglary,N/A,F,Adult,NA,350
-273,2020,Crimes Against the Person,Assault,N/A,F,Unknown,NA,27
-274,2017,Crimes Against the Person,Assault,N/A,M,Child,NA,242
-275,2014,Crimes Against the Person,Burglary,N/A,F,Child,NA,150
-276,2015,Crimes Against the Person,Theft,N/A,F,Unknown,NA,36
-277,2018,Crimes Against the Person,Other,N/A,F,Child,NA,210
-278,2014,Crimes Against the Person,Theft,N/A,M,Youth,NA,290
-279,2016,Crimes Against the Person,Theft,N/A,F,Unknown,NA,79
-280,2016,Crimes Against the Person,Other,N/A,M,Youth,NA,143
-281,2022,Crimes Against the Person,Assault,N/A,F,Adult,NA,63
-282,2022,Crimes Against the Person,Assault,N/A,M,Youth,NA,174
-283,2018,Crimes Against the Person,Theft,N/A,F,Adult,NA,135
-284,2022,Crimes Against the Person,Theft,N/A,M,Youth,NA,445
-285,2016,Crimes Against the Person,Burglary,N/A,F,Child,NA,473
-286,2016,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,301
-287,2020,Crimes Against the Person,Assault,N/A,U,Adult,NA,250
-288,2020,Crimes Against the Person,Theft,N/A,M,Unknown,NA,331
-289,2014,Crimes Against the Person,Burglary,N/A,U,Child,NA,369
-290,2014,Crimes Against the Person,Assault,N/A,M,Youth,NA,301
-291,2020,Crimes Against the Person,Burglary,N/A,U,Adult,NA,104
-292,2014,Crimes Against the Person,Assault,N/A,F,Unknown,NA,326
-293,2023,Crimes Against the Person,Other,N/A,U,Child,NA,212
-294,2016,Crimes Against the Person,Assault,N/A,F,Child,NA,285
-295,2022,Crimes Against the Person,Other,N/A,U,Unknown,NA,139
-296,2018,Crimes Against the Person,Assault,N/A,M,Unknown,NA,463
-297,2020,Crimes Against the Person,Other,N/A,F,Child,NA,362
-298,2014,Crimes Against the Person,Burglary,N/A,F,Adult,NA,395
-299,2019,Crimes Against the Person,Assault,N/A,M,Youth,NA,153
-300,2023,Crimes Against the Person,Assault,N/A,F,Adult,NA,68
-301,2016,Crimes Against the Person,Assault,N/A,F,Youth,NA,394
-302,2017,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,290
-303,2018,Crimes Against the Person,Burglary,N/A,M,Adult,NA,242
-304,2020,Crimes Against the Person,Theft,N/A,U,Child,NA,381
-305,2023,Crimes Against the Person,Other,N/A,M,Youth,NA,41
-306,2016,Crimes Against the Person,Other,N/A,U,Adult,NA,326
-307,2020,Crimes Against the Person,Burglary,N/A,M,Adult,NA,24
-308,2018,Crimes Against the Person,Assault,N/A,F,Child,NA,457
-309,2016,Crimes Against the Person,Burglary,N/A,U,Adult,NA,408
-310,2021,Crimes Against the Person,Other,N/A,U,Adult,NA,6
-311,2014,Crimes Against the Person,Burglary,N/A,F,Adult,NA,299
-312,2015,Crimes Against the Person,Theft,N/A,U,Adult,NA,434
-313,2019,Crimes Against the Person,Theft,N/A,M,Adult,NA,469
-314,2023,Crimes Against the Person,Other,N/A,M,Child,NA,405
-315,2019,Crimes Against the Person,Theft,N/A,M,Youth,NA,461
-316,2023,Crimes Against the Person,Theft,N/A,U,Child,NA,343
-317,2019,Crimes Against the Person,Other,N/A,M,Unknown,NA,152
-318,2015,Crimes Against the Person,Other,N/A,F,Adult,NA,411
-319,2014,Crimes Against the Person,Theft,N/A,F,Adult,NA,123
-320,2023,Crimes Against the Person,Assault,N/A,U,Adult,NA,313
-321,2023,Crimes Against the Person,Assault,N/A,M,Youth,NA,72
-322,2017,Crimes Against the Person,Other,N/A,M,Child,NA,312
-323,2020,Crimes Against the Person,Theft,N/A,M,Youth,NA,36
-324,2021,Crimes Against the Person,Theft,N/A,M,Unknown,NA,197
-325,2023,Crimes Against the Person,Other,N/A,F,Unknown,NA,309
-326,2014,Crimes Against the Person,Assault,N/A,F,Unknown,NA,183
-327,2017,Crimes Against the Person,Burglary,N/A,F,Child,NA,183
-328,2016,Crimes Against the Person,Other,N/A,U,Child,NA,25
-329,2023,Crimes Against the Person,Theft,N/A,M,Youth,NA,188
-330,2021,Crimes Against the Person,Assault,N/A,M,Child,NA,202
-331,2017,Crimes Against the Person,Burglary,N/A,M,Adult,NA,389
-332,2020,Crimes Against the Person,Theft,N/A,M,Child,NA,436
-333,2019,Crimes Against the Person,Theft,N/A,F,Child,NA,284
-334,2023,Crimes Against the Person,Burglary,N/A,F,Youth,NA,429
-335,2020,Crimes Against the Person,Theft,N/A,M,Unknown,NA,465
-336,2014,Crimes Against the Person,Theft,N/A,M,Youth,NA,429
-337,2021,Crimes Against the Person,Other,N/A,M,Unknown,NA,319
-338,2020,Crimes Against the Person,Theft,N/A,U,Youth,NA,154
-339,2016,Crimes Against the Person,Other,N/A,M,Child,NA,434
-340,2019,Crimes Against the Person,Other,N/A,U,Child,NA,187
-341,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,489
-342,2016,Crimes Against the Person,Theft,N/A,M,Youth,NA,356
-343,2020,Crimes Against the Person,Assault,N/A,M,Adult,NA,410
-344,2023,Crimes Against the Person,Assault,N/A,F,Youth,NA,421
-345,2019,Crimes Against the Person,Assault,N/A,M,Adult,NA,275
-346,2014,Crimes Against the Person,Other,N/A,U,Adult,NA,55
-347,2015,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,76
-348,2019,Crimes Against the Person,Theft,N/A,M,Child,NA,166
-349,2014,Crimes Against the Person,Other,N/A,U,Adult,NA,415
-350,2021,Crimes Against the Person,Burglary,N/A,M,Youth,NA,244
-351,2021,Crimes Against the Person,Theft,N/A,F,Child,NA,402
-352,2016,Crimes Against the Person,Assault,N/A,U,Unknown,NA,16
-353,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,77
-354,2014,Crimes Against the Person,Theft,N/A,F,Youth,NA,465
-355,2016,Crimes Against the Person,Assault,N/A,U,Unknown,NA,215
-356,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,97
-357,2020,Crimes Against the Person,Theft,N/A,U,Child,NA,65
-358,2021,Crimes Against the Person,Burglary,N/A,M,Adult,NA,346
-359,2023,Crimes Against the Person,Theft,N/A,M,Child,NA,169
-360,2016,Crimes Against the Person,Theft,N/A,F,Adult,NA,129
-361,2017,Crimes Against the Person,Assault,N/A,U,Unknown,NA,499
-362,2021,Crimes Against the Person,Burglary,N/A,M,Youth,NA,491
-363,2019,Crimes Against the Person,Burglary,N/A,F,Adult,NA,205
-364,2014,Crimes Against the Person,Assault,N/A,F,Adult,NA,293
-365,2014,Crimes Against the Person,Burglary,N/A,M,Adult,NA,153
-366,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,335
-367,2015,Crimes Against the Person,Other,N/A,U,Youth,NA,51
-368,2014,Crimes Against the Person,Theft,N/A,F,Youth,NA,435
-369,2015,Crimes Against the Person,Assault,N/A,M,Child,NA,148
-370,2018,Crimes Against the Person,Assault,N/A,F,Child,NA,76
-371,2023,Crimes Against the Person,Theft,N/A,M,Child,NA,321
-372,2016,Crimes Against the Person,Other,N/A,U,Adult,NA,154
-373,2017,Crimes Against the Person,Theft,N/A,F,Child,NA,128
-374,2015,Crimes Against the Person,Theft,N/A,M,Unknown,NA,477
-375,2019,Crimes Against the Person,Theft,N/A,F,Youth,NA,126
-376,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,259
-377,2023,Crimes Against the Person,Burglary,N/A,M,Youth,NA,105
-378,2020,Crimes Against the Person,Theft,N/A,F,Youth,NA,279
-379,2020,Crimes Against the Person,Assault,N/A,F,Unknown,NA,175
-380,2016,Crimes Against the Person,Other,N/A,M,Adult,NA,295
-381,2020,Crimes Against the Person,Other,N/A,F,Unknown,NA,322
-382,2021,Crimes Against the Person,Assault,N/A,U,Youth,NA,482
-383,2015,Crimes Against the Person,Other,N/A,F,Child,NA,465
-384,2015,Crimes Against the Person,Other,N/A,M,Adult,NA,134
-385,2018,Crimes Against the Person,Other,N/A,F,Unknown,NA,36
-386,2015,Crimes Against the Person,Burglary,N/A,M,Youth,NA,494
-387,2016,Crimes Against the Person,Assault,N/A,F,Child,NA,260
-388,2020,Crimes Against the Person,Theft,N/A,F,Youth,NA,458
-389,2016,Crimes Against the Person,Other,N/A,U,Child,NA,379
-390,2019,Crimes Against the Person,Assault,N/A,F,Unknown,NA,298
-391,2019,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,422
-392,2016,Crimes Against the Person,Assault,N/A,U,Youth,NA,19
-393,2020,Crimes Against the Person,Theft,N/A,U,Child,NA,145
-394,2022,Crimes Against the Person,Theft,N/A,F,Adult,NA,81
-395,2016,Crimes Against the Person,Burglary,N/A,F,Child,NA,385
-396,2018,Crimes Against the Person,Other,N/A,F,Child,NA,490
-397,2022,Crimes Against the Person,Assault,N/A,U,Adult,NA,494
-398,2020,Crimes Against the Person,Theft,N/A,M,Unknown,NA,145
-399,2023,Crimes Against the Person,Other,N/A,M,Unknown,NA,296
-400,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,465
-401,2016,Crimes Against the Person,Assault,N/A,M,Adult,NA,50
-402,2018,Crimes Against the Person,Theft,N/A,M,Child,NA,341
-403,2019,Crimes Against the Person,Theft,N/A,U,Unknown,NA,280
-404,2019,Crimes Against the Person,Theft,N/A,M,Youth,NA,232
-405,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,222
-406,2022,Crimes Against the Person,Theft,N/A,M,Child,NA,210
-407,2015,Crimes Against the Person,Other,N/A,M,Youth,NA,138
-408,2018,Crimes Against the Person,Burglary,N/A,F,Child,NA,192
-409,2015,Crimes Against the Person,Theft,N/A,M,Child,NA,368
-410,2015,Crimes Against the Person,Other,N/A,M,Child,NA,451
-411,2018,Crimes Against the Person,Theft,N/A,U,Youth,NA,47
-412,2018,Crimes Against the Person,Assault,N/A,U,Child,NA,489
-413,2023,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,496
-414,2014,Crimes Against the Person,Other,N/A,F,Child,NA,146
-415,2015,Crimes Against the Person,Other,N/A,U,Unknown,NA,218
-416,2015,Crimes Against the Person,Other,N/A,M,Youth,NA,128
-417,2018,Crimes Against the Person,Theft,N/A,F,Unknown,NA,157
-418,2017,Crimes Against the Person,Burglary,N/A,M,Youth,NA,382
-419,2020,Crimes Against the Person,Burglary,N/A,M,Youth,NA,110
-420,2023,Crimes Against the Person,Assault,N/A,F,Youth,NA,55
-421,2015,Crimes Against the Person,Other,N/A,U,Unknown,NA,211
-422,2014,Crimes Against the Person,Other,N/A,F,Child,NA,305
-423,2017,Crimes Against the Person,Theft,N/A,F,Child,NA,34
-424,2017,Crimes Against the Person,Assault,N/A,U,Unknown,NA,35
-425,2017,Crimes Against the Person,Assault,N/A,M,Youth,NA,344
-426,2022,Crimes Against the Person,Theft,N/A,M,Adult,NA,157
-427,2020,Crimes Against the Person,Other,N/A,U,Unknown,NA,159
-428,2021,Crimes Against the Person,Assault,N/A,F,Youth,NA,173
-429,2017,Crimes Against the Person,Other,N/A,M,Adult,NA,500
-430,2021,Crimes Against the Person,Theft,N/A,M,Child,NA,157
-431,2018,Crimes Against the Person,Burglary,N/A,M,Youth,NA,94
-432,2016,Crimes Against the Person,Other,N/A,M,Unknown,NA,106
-433,2014,Crimes Against the Person,Other,N/A,F,Youth,NA,453
-434,2018,Crimes Against the Person,Theft,N/A,F,Adult,NA,264
-435,2017,Crimes Against the Person,Theft,N/A,M,Unknown,NA,266
-436,2023,Crimes Against the Person,Other,N/A,U,Youth,NA,172
-437,2018,Crimes Against the Person,Theft,N/A,M,Unknown,NA,364
-438,2018,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,406
-439,2019,Crimes Against the Person,Other,N/A,M,Unknown,NA,191
-440,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,267
-441,2015,Crimes Against the Person,Assault,N/A,U,Youth,NA,382
-442,2015,Crimes Against the Person,Assault,N/A,U,Child,NA,120
-443,2016,Crimes Against the Person,Theft,N/A,M,Child,NA,224
-444,2023,Crimes Against the Person,Other,N/A,U,Adult,NA,92
-445,2014,Crimes Against the Person,Other,N/A,M,Youth,NA,86
-446,2015,Crimes Against the Person,Assault,N/A,F,Adult,NA,210
-447,2022,Crimes Against the Person,Assault,N/A,M,Youth,NA,371
-448,2015,Crimes Against the Person,Burglary,N/A,F,Youth,NA,17
-449,2019,Crimes Against the Person,Theft,N/A,M,Adult,NA,36
-450,2015,Crimes Against the Person,Assault,N/A,U,Unknown,NA,8
-451,2014,Crimes Against the Person,Theft,N/A,M,Adult,NA,305
-452,2016,Crimes Against the Person,Assault,N/A,M,Youth,NA,461
-453,2015,Crimes Against the Person,Other,N/A,M,Unknown,NA,67
-454,2020,Crimes Against the Person,Burglary,N/A,F,Youth,NA,332
-455,2021,Crimes Against the Person,Burglary,N/A,U,Youth,NA,431
-456,2019,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,338
-457,2014,Crimes Against the Person,Burglary,N/A,M,Child,NA,94
-458,2018,Crimes Against the Person,Theft,N/A,F,Youth,NA,314
-459,2020,Crimes Against the Person,Burglary,N/A,F,Adult,NA,363
-460,2015,Crimes Against the Person,Theft,N/A,U,Unknown,NA,296
-461,2021,Crimes Against the Person,Assault,N/A,F,Adult,NA,343
-462,2019,Crimes Against the Person,Other,N/A,U,Youth,NA,235
-463,2022,Crimes Against the Person,Assault,N/A,M,Child,NA,370
-464,2021,Crimes Against the Person,Assault,N/A,U,Youth,NA,273
-465,2015,Crimes Against the Person,Other,N/A,M,Youth,NA,368
-466,2017,Crimes Against the Person,Assault,N/A,U,Youth,NA,182
-467,2016,Crimes Against the Person,Theft,N/A,F,Adult,NA,213
-468,2023,Crimes Against the Person,Other,N/A,U,Youth,NA,338
-469,2023,Crimes Against the Person,Theft,N/A,M,Unknown,NA,141
-470,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,500
-471,2022,Crimes Against the Person,Assault,N/A,U,Youth,NA,385
-472,2021,Crimes Against the Person,Burglary,N/A,F,Adult,NA,296
-473,2021,Crimes Against the Person,Burglary,N/A,F,Youth,NA,248
-474,2022,Crimes Against the Person,Theft,N/A,M,Child,NA,39
-475,2014,Crimes Against the Person,Burglary,N/A,M,Youth,NA,352
-476,2019,Crimes Against the Person,Burglary,N/A,F,Child,NA,3
-477,2015,Crimes Against the Person,Other,N/A,M,Youth,NA,122
-478,2022,Crimes Against the Person,Assault,N/A,U,Adult,NA,350
-479,2020,Crimes Against the Person,Theft,N/A,F,Unknown,NA,298
-480,2020,Crimes Against the Person,Theft,N/A,M,Adult,NA,45
-481,2019,Crimes Against the Person,Other,N/A,F,Child,NA,107
-482,2014,Crimes Against the Person,Burglary,N/A,F,Adult,NA,71
-483,2020,Crimes Against the Person,Burglary,N/A,M,Adult,NA,378
-484,2015,Crimes Against the Person,Burglary,N/A,M,Adult,NA,145
-485,2023,Crimes Against the Person,Burglary,N/A,F,Adult,NA,234
-486,2022,Crimes Against the Person,Other,N/A,M,Unknown,NA,26
-487,2023,Crimes Against the Person,Assault,N/A,M,Youth,NA,136
-488,2014,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,489
-489,2023,Crimes Against the Person,Other,N/A,F,Adult,NA,184
-490,2014,Crimes Against the Person,Burglary,N/A,F,Youth,NA,489
-491,2021,Crimes Against the Person,Burglary,N/A,M,Adult,NA,195
-492,2022,Crimes Against the Person,Burglary,N/A,U,Child,NA,455
-493,2020,Crimes Against the Person,Assault,N/A,U,Youth,NA,19
-494,2016,Crimes Against the Person,Theft,N/A,F,Youth,NA,268
-495,2019,Crimes Against the Person,Theft,N/A,F,Child,NA,494
-496,2014,Crimes Against the Person,Theft,N/A,U,Child,NA,29
-497,2020,Crimes Against the Person,Burglary,N/A,U,Child,NA,338
-498,2017,Crimes Against the Person,Burglary,N/A,F,Child,NA,215
-499,2022,Crimes Against the Person,Assault,N/A,F,Adult,NA,20
-500,2018,Crimes Against the Person,Theft,N/A,F,Child,NA,377
-501,2014,Crimes Against the Person,Assault,N/A,U,Youth,NA,326
-502,2019,Crimes Against the Person,Theft,N/A,F,Adult,NA,172
-503,2016,Crimes Against the Person,Burglary,N/A,F,Child,NA,442
-504,2022,Crimes Against the Person,Theft,N/A,M,Unknown,NA,146
-505,2021,Crimes Against the Person,Theft,N/A,F,Unknown,NA,143
-506,2021,Crimes Against the Person,Assault,N/A,U,Unknown,NA,390
-507,2022,Crimes Against the Person,Theft,N/A,M,Child,NA,44
-508,2022,Crimes Against the Person,Burglary,N/A,M,Child,NA,234
-509,2020,Crimes Against the Person,Assault,N/A,M,Adult,NA,490
-510,2015,Crimes Against the Person,Theft,N/A,M,Adult,NA,206
-511,2020,Crimes Against the Person,Burglary,N/A,U,Adult,NA,48
-512,2022,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,225
-513,2016,Crimes Against the Person,Assault,N/A,M,Youth,NA,330
-514,2016,Crimes Against the Person,Burglary,N/A,U,Child,NA,51
-515,2015,Crimes Against the Person,Burglary,N/A,F,Youth,NA,297
-516,2017,Crimes Against the Person,Theft,N/A,M,Adult,NA,108
-517,2020,Crimes Against the Person,Assault,N/A,F,Adult,NA,21
-518,2016,Crimes Against the Person,Theft,N/A,M,Unknown,NA,218
-519,2018,Crimes Against the Person,Other,N/A,U,Youth,NA,3
-520,2019,Crimes Against the Person,Burglary,N/A,M,Child,NA,342
-521,2016,Crimes Against the Person,Assault,N/A,U,Unknown,NA,474
-522,2020,Crimes Against the Person,Theft,N/A,M,Adult,NA,41
-523,2016,Crimes Against the Person,Theft,N/A,M,Youth,NA,486
-524,2023,Crimes Against the Person,Burglary,N/A,M,Youth,NA,252
-525,2015,Crimes Against the Person,Other,N/A,F,Adult,NA,457
-526,2023,Crimes Against the Person,Other,N/A,U,Unknown,NA,77
-527,2015,Crimes Against the Person,Theft,N/A,F,Child,NA,249
-528,2021,Crimes Against the Person,Other,N/A,F,Unknown,NA,162
-529,2020,Crimes Against the Person,Theft,N/A,M,Adult,NA,177
-530,2017,Crimes Against the Person,Burglary,N/A,U,Youth,NA,95
-531,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,50
-532,2023,Crimes Against the Person,Theft,N/A,M,Adult,NA,132
-533,2019,Crimes Against the Person,Burglary,N/A,U,Adult,NA,38
-534,2016,Crimes Against the Person,Theft,N/A,M,Unknown,NA,27
-535,2022,Crimes Against the Person,Theft,N/A,U,Adult,NA,61
-536,2018,Crimes Against the Person,Assault,N/A,U,Unknown,NA,314
-537,2014,Crimes Against the Person,Theft,N/A,U,Unknown,NA,397
-538,2018,Crimes Against the Person,Other,N/A,M,Unknown,NA,326
-539,2019,Crimes Against the Person,Assault,N/A,U,Adult,NA,56
-540,2014,Crimes Against the Person,Assault,N/A,U,Adult,NA,327
-541,2018,Crimes Against the Person,Theft,N/A,M,Unknown,NA,332
-542,2019,Crimes Against the Person,Burglary,N/A,U,Child,NA,479
-543,2016,Crimes Against the Person,Assault,N/A,M,Unknown,NA,481
-544,2023,Crimes Against the Person,Assault,N/A,M,Youth,NA,450
-545,2023,Crimes Against the Person,Other,N/A,F,Adult,NA,260
-546,2015,Crimes Against the Person,Burglary,N/A,U,Youth,NA,179
-547,2016,Crimes Against the Person,Assault,N/A,U,Child,NA,108
-548,2020,Crimes Against the Person,Assault,N/A,M,Youth,NA,453
-549,2021,Crimes Against the Person,Theft,N/A,M,Unknown,NA,27
-550,2014,Crimes Against the Person,Assault,N/A,F,Youth,NA,227
-551,2019,Crimes Against the Person,Assault,N/A,U,Child,NA,253
-552,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,360
-553,2014,Crimes Against the Person,Theft,N/A,M,Child,NA,312
-554,2022,Crimes Against the Person,Burglary,N/A,U,Child,NA,65
-555,2021,Crimes Against the Person,Theft,N/A,F,Youth,NA,375
-556,2019,Crimes Against the Person,Assault,N/A,M,Unknown,NA,391
-557,2023,Crimes Against the Person,Theft,N/A,U,Child,NA,318
-558,2016,Crimes Against the Person,Assault,N/A,F,Child,NA,294
-559,2014,Crimes Against the Person,Theft,N/A,F,Adult,NA,38
-560,2014,Crimes Against the Person,Assault,N/A,M,Youth,NA,361
-561,2021,Crimes Against the Person,Other,N/A,U,Adult,NA,196
-562,2015,Crimes Against the Person,Burglary,N/A,U,Adult,NA,397
-563,2022,Crimes Against the Person,Assault,N/A,M,Adult,NA,397
-564,2019,Crimes Against the Person,Other,N/A,U,Adult,NA,471
-565,2020,Crimes Against the Person,Assault,N/A,U,Unknown,NA,150
-566,2018,Crimes Against the Person,Other,N/A,M,Adult,NA,339
-567,2018,Crimes Against the Person,Other,N/A,U,Youth,NA,57
-568,2018,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,368
-569,2021,Crimes Against the Person,Other,N/A,F,Child,NA,475
-570,2022,Crimes Against the Person,Theft,N/A,U,Child,NA,400
-571,2019,Crimes Against the Person,Other,N/A,U,Adult,NA,344
-572,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,56
-573,2023,Crimes Against the Person,Assault,N/A,M,Youth,NA,282
-574,2017,Crimes Against the Person,Burglary,N/A,M,Youth,NA,443
-575,2014,Crimes Against the Person,Other,N/A,U,Youth,NA,363
-576,2014,Crimes Against the Person,Burglary,N/A,M,Child,NA,204
-577,2017,Crimes Against the Person,Burglary,N/A,F,Child,NA,46
-578,2020,Crimes Against the Person,Theft,N/A,M,Adult,NA,436
-579,2022,Crimes Against the Person,Assault,N/A,U,Child,NA,408
-580,2015,Crimes Against the Person,Other,N/A,F,Youth,NA,210
-581,2020,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,217
-582,2023,Crimes Against the Person,Assault,N/A,M,Youth,NA,11
-583,2018,Crimes Against the Person,Burglary,N/A,M,Youth,NA,382
-584,2016,Crimes Against the Person,Other,N/A,M,Unknown,NA,320
-585,2019,Crimes Against the Person,Other,N/A,M,Child,NA,359
-586,2020,Crimes Against the Person,Assault,N/A,U,Unknown,NA,488
-587,2017,Crimes Against the Person,Other,N/A,U,Adult,NA,31
-588,2022,Crimes Against the Person,Theft,N/A,M,Unknown,NA,481
-589,2022,Crimes Against the Person,Other,N/A,M,Unknown,NA,496
-590,2020,Crimes Against the Person,Burglary,N/A,M,Youth,NA,312
-591,2015,Crimes Against the Person,Theft,N/A,M,Child,NA,188
-592,2023,Crimes Against the Person,Burglary,N/A,U,Adult,NA,165
-593,2018,Crimes Against the Person,Burglary,N/A,U,Youth,NA,398
-594,2014,Crimes Against the Person,Theft,N/A,M,Child,NA,26
-595,2017,Crimes Against the Person,Other,N/A,F,Adult,NA,385
-596,2019,Crimes Against the Person,Assault,N/A,M,Youth,NA,39
-597,2019,Crimes Against the Person,Assault,N/A,M,Adult,NA,485
-598,2018,Crimes Against the Person,Other,N/A,M,Unknown,NA,316
-599,2018,Crimes Against the Person,Burglary,N/A,U,Child,NA,400
-600,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,254
-601,2019,Crimes Against the Person,Other,N/A,F,Child,NA,464
-602,2023,Crimes Against the Person,Other,N/A,F,Child,NA,42
-603,2018,Crimes Against the Person,Burglary,N/A,F,Youth,NA,401
-604,2023,Crimes Against the Person,Other,N/A,M,Unknown,NA,324
-605,2021,Crimes Against the Person,Other,N/A,F,Child,NA,334
-606,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,494
-607,2020,Crimes Against the Person,Other,N/A,M,Youth,NA,389
-608,2021,Crimes Against the Person,Assault,N/A,F,Unknown,NA,179
-609,2014,Crimes Against the Person,Burglary,N/A,M,Adult,NA,475
-610,2019,Crimes Against the Person,Theft,N/A,F,Child,NA,281
-611,2019,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,41
-612,2021,Crimes Against the Person,Theft,N/A,M,Unknown,NA,272
-613,2020,Crimes Against the Person,Theft,N/A,M,Child,NA,209
-614,2020,Crimes Against the Person,Assault,N/A,F,Unknown,NA,327
-615,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,94
-616,2021,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,137
-617,2016,Crimes Against the Person,Burglary,N/A,F,Adult,NA,46
-618,2018,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,48
-619,2017,Crimes Against the Person,Burglary,N/A,F,Child,NA,447
-620,2020,Crimes Against the Person,Assault,N/A,F,Child,NA,483
-621,2018,Crimes Against the Person,Burglary,N/A,M,Adult,NA,436
-622,2023,Crimes Against the Person,Other,N/A,M,Youth,NA,207
-623,2019,Crimes Against the Person,Other,N/A,F,Adult,NA,319
-624,2018,Crimes Against the Person,Theft,N/A,M,Child,NA,324
-625,2023,Crimes Against the Person,Burglary,N/A,F,Youth,NA,182
-626,2018,Crimes Against the Person,Burglary,N/A,U,Child,NA,73
-627,2019,Crimes Against the Person,Other,N/A,U,Youth,NA,368
-628,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,142
-629,2018,Crimes Against the Person,Theft,N/A,M,Child,NA,95
-630,2021,Crimes Against the Person,Burglary,N/A,M,Child,NA,57
-631,2019,Crimes Against the Person,Other,N/A,M,Unknown,NA,394
-632,2017,Crimes Against the Person,Theft,N/A,M,Adult,NA,95
-633,2018,Crimes Against the Person,Assault,N/A,M,Adult,NA,31
-634,2021,Crimes Against the Person,Other,N/A,F,Unknown,NA,396
-635,2022,Crimes Against the Person,Burglary,N/A,M,Youth,NA,141
-636,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,241
-637,2015,Crimes Against the Person,Theft,N/A,U,Unknown,NA,398
-638,2019,Crimes Against the Person,Theft,N/A,F,Child,NA,260
-639,2017,Crimes Against the Person,Burglary,N/A,M,Child,NA,163
-640,2017,Crimes Against the Person,Theft,N/A,F,Child,NA,131
-641,2017,Crimes Against the Person,Theft,N/A,F,Adult,NA,305
-642,2016,Crimes Against the Person,Burglary,N/A,U,Adult,NA,307
-643,2016,Crimes Against the Person,Assault,N/A,M,Child,NA,119
-644,2019,Crimes Against the Person,Other,N/A,U,Child,NA,10
-645,2023,Crimes Against the Person,Assault,N/A,U,Youth,NA,262
-646,2023,Crimes Against the Person,Assault,N/A,M,Adult,NA,267
-647,2015,Crimes Against the Person,Assault,N/A,U,Adult,NA,144
-648,2022,Crimes Against the Person,Theft,N/A,U,Adult,NA,376
-649,2021,Crimes Against the Person,Other,N/A,U,Youth,NA,342
-650,2021,Crimes Against the Person,Theft,N/A,F,Child,NA,112
-651,2020,Crimes Against the Person,Assault,N/A,M,Youth,NA,62
-652,2015,Crimes Against the Person,Other,N/A,U,Child,NA,323
-653,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,45
-654,2019,Crimes Against the Person,Other,N/A,M,Adult,NA,163
-655,2016,Crimes Against the Person,Assault,N/A,M,Child,NA,266
-656,2016,Crimes Against the Person,Other,N/A,F,Unknown,NA,235
-657,2021,Crimes Against the Person,Other,N/A,F,Youth,NA,450
-658,2021,Crimes Against the Person,Burglary,N/A,F,Child,NA,163
-659,2019,Crimes Against the Person,Theft,N/A,F,Unknown,NA,5
-660,2019,Crimes Against the Person,Assault,N/A,M,Adult,NA,14
-661,2015,Crimes Against the Person,Theft,N/A,F,Unknown,NA,54
-662,2022,Crimes Against the Person,Assault,N/A,M,Youth,NA,158
-663,2018,Crimes Against the Person,Other,N/A,U,Youth,NA,399
-664,2017,Crimes Against the Person,Other,N/A,F,Adult,NA,22
-665,2018,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,369
-666,2014,Crimes Against the Person,Other,N/A,F,Child,NA,100
-667,2021,Crimes Against the Person,Other,N/A,F,Youth,NA,48
-668,2022,Crimes Against the Person,Theft,N/A,F,Adult,NA,274
-669,2020,Crimes Against the Person,Other,N/A,U,Youth,NA,174
-670,2014,Crimes Against the Person,Other,N/A,U,Youth,NA,463
-671,2018,Crimes Against the Person,Other,N/A,F,Adult,NA,280
-672,2023,Crimes Against the Person,Assault,N/A,M,Unknown,NA,105
-673,2017,Crimes Against the Person,Burglary,N/A,F,Adult,NA,470
-674,2018,Crimes Against the Person,Burglary,N/A,F,Adult,NA,192
-675,2023,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,62
-676,2016,Crimes Against the Person,Other,N/A,M,Unknown,NA,192
-677,2015,Crimes Against the Person,Assault,N/A,F,Youth,NA,37
-678,2018,Crimes Against the Person,Assault,N/A,F,Child,NA,476
-679,2022,Crimes Against the Person,Other,N/A,M,Child,NA,4
-680,2021,Crimes Against the Person,Burglary,N/A,M,Youth,NA,215
-681,2019,Crimes Against the Person,Burglary,N/A,F,Child,NA,193
-682,2014,Crimes Against the Person,Burglary,N/A,F,Adult,NA,174
-683,2018,Crimes Against the Person,Assault,N/A,U,Adult,NA,149
-684,2020,Crimes Against the Person,Assault,N/A,U,Unknown,NA,303
-685,2021,Crimes Against the Person,Theft,N/A,F,Child,NA,163
-686,2017,Crimes Against the Person,Burglary,N/A,U,Child,NA,88
-687,2016,Crimes Against the Person,Theft,N/A,M,Unknown,NA,13
-688,2016,Crimes Against the Person,Assault,N/A,M,Child,NA,401
-689,2019,Crimes Against the Person,Other,N/A,F,Unknown,NA,38
-690,2020,Crimes Against the Person,Assault,N/A,F,Adult,NA,318
-691,2014,Crimes Against the Person,Other,N/A,U,Adult,NA,111
-692,2014,Crimes Against the Person,Assault,N/A,M,Unknown,NA,87
-693,2021,Crimes Against the Person,Other,N/A,U,Child,NA,417
-694,2023,Crimes Against the Person,Theft,N/A,M,Adult,NA,399
-695,2021,Crimes Against the Person,Theft,N/A,F,Adult,NA,394
-696,2017,Crimes Against the Person,Assault,N/A,M,Adult,NA,481
-697,2021,Crimes Against the Person,Assault,N/A,U,Youth,NA,93
-698,2016,Crimes Against the Person,Theft,N/A,U,Adult,NA,10
-699,2014,Crimes Against the Person,Other,N/A,M,Youth,NA,95
-700,2021,Crimes Against the Person,Theft,N/A,U,Child,NA,234
-701,2021,Crimes Against the Person,Assault,N/A,U,Youth,NA,173
-702,2016,Crimes Against the Person,Theft,N/A,F,Youth,NA,469
-703,2017,Crimes Against the Person,Theft,N/A,U,Unknown,NA,47
-704,2018,Crimes Against the Person,Burglary,N/A,M,Adult,NA,87
-705,2021,Crimes Against the Person,Burglary,N/A,F,Youth,NA,249
-706,2023,Crimes Against the Person,Burglary,N/A,U,Youth,NA,143
-707,2017,Crimes Against the Person,Other,N/A,M,Unknown,NA,405
-708,2022,Crimes Against the Person,Other,N/A,M,Adult,NA,458
-709,2021,Crimes Against the Person,Theft,N/A,M,Adult,NA,324
-710,2019,Crimes Against the Person,Assault,N/A,U,Unknown,NA,401
-711,2023,Crimes Against the Person,Other,N/A,M,Child,NA,399
-712,2017,Crimes Against the Person,Burglary,N/A,F,Adult,NA,127
-713,2019,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,407
-714,2023,Crimes Against the Person,Theft,N/A,U,Adult,NA,157
-715,2021,Crimes Against the Person,Assault,N/A,F,Child,NA,489
-716,2022,Crimes Against the Person,Theft,N/A,U,Adult,NA,438
-717,2022,Crimes Against the Person,Burglary,N/A,F,Child,NA,475
-718,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,293
-719,2021,Crimes Against the Person,Theft,N/A,U,Youth,NA,156
-720,2021,Crimes Against the Person,Theft,N/A,U,Youth,NA,35
-721,2018,Crimes Against the Person,Other,N/A,F,Child,NA,456
-722,2015,Crimes Against the Person,Other,N/A,M,Youth,NA,261
-723,2015,Crimes Against the Person,Theft,N/A,M,Youth,NA,146
-724,2017,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,399
-725,2015,Crimes Against the Person,Other,N/A,M,Youth,NA,153
-726,2021,Crimes Against the Person,Assault,N/A,U,Youth,NA,48
-727,2023,Crimes Against the Person,Assault,N/A,U,Adult,NA,340
-728,2020,Crimes Against the Person,Other,N/A,U,Adult,NA,373
-729,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,184
-730,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,385
-731,2018,Crimes Against the Person,Burglary,N/A,U,Adult,NA,447
-732,2020,Crimes Against the Person,Other,N/A,U,Youth,NA,229
-733,2017,Crimes Against the Person,Burglary,N/A,U,Child,NA,259
-734,2020,Crimes Against the Person,Other,N/A,F,Youth,NA,124
-735,2017,Crimes Against the Person,Theft,N/A,F,Child,NA,24
-736,2016,Crimes Against the Person,Theft,N/A,F,Unknown,NA,399
-737,2015,Crimes Against the Person,Other,N/A,F,Youth,NA,286
-738,2017,Crimes Against the Person,Other,N/A,F,Youth,NA,98
-739,2022,Crimes Against the Person,Theft,N/A,F,Child,NA,446
-740,2018,Crimes Against the Person,Assault,N/A,F,Child,NA,420
-741,2022,Crimes Against the Person,Other,N/A,M,Adult,NA,174
-742,2017,Crimes Against the Person,Assault,N/A,M,Child,NA,192
-743,2014,Crimes Against the Person,Other,N/A,U,Child,NA,366
-744,2014,Crimes Against the Person,Theft,N/A,F,Child,NA,421
-745,2020,Crimes Against the Person,Theft,N/A,U,Adult,NA,275
-746,2019,Crimes Against the Person,Theft,N/A,M,Youth,NA,470
-747,2017,Crimes Against the Person,Other,N/A,M,Adult,NA,153
-748,2021,Crimes Against the Person,Theft,N/A,U,Youth,NA,476
-749,2022,Crimes Against the Person,Theft,N/A,M,Unknown,NA,221
-750,2017,Crimes Against the Person,Assault,N/A,F,Youth,NA,176
-751,2019,Crimes Against the Person,Assault,N/A,F,Child,NA,133
-752,2019,Crimes Against the Person,Burglary,N/A,F,Child,NA,71
-753,2023,Crimes Against the Person,Burglary,N/A,M,Adult,NA,305
-754,2019,Crimes Against the Person,Theft,N/A,M,Adult,NA,465
-755,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,395
-756,2018,Crimes Against the Person,Other,N/A,U,Unknown,NA,27
-757,2018,Crimes Against the Person,Other,N/A,F,Unknown,NA,67
-758,2022,Crimes Against the Person,Other,N/A,M,Child,NA,373
-759,2021,Crimes Against the Person,Burglary,N/A,M,Youth,NA,260
-760,2023,Crimes Against the Person,Other,N/A,U,Youth,NA,437
-761,2022,Crimes Against the Person,Theft,N/A,F,Unknown,NA,421
-762,2020,Crimes Against the Person,Assault,N/A,U,Adult,NA,242
-763,2019,Crimes Against the Person,Assault,N/A,M,Adult,NA,417
-764,2015,Crimes Against the Person,Theft,N/A,M,Adult,NA,57
-765,2023,Crimes Against the Person,Other,N/A,M,Unknown,NA,445
-766,2018,Crimes Against the Person,Other,N/A,F,Unknown,NA,415
-767,2023,Crimes Against the Person,Assault,N/A,M,Unknown,NA,232
-768,2018,Crimes Against the Person,Other,N/A,U,Child,NA,98
-769,2014,Crimes Against the Person,Assault,N/A,F,Unknown,NA,287
-770,2020,Crimes Against the Person,Assault,N/A,U,Unknown,NA,175
-771,2016,Crimes Against the Person,Other,N/A,F,Adult,NA,6
-772,2022,Crimes Against the Person,Theft,N/A,M,Youth,NA,117
-773,2020,Crimes Against the Person,Theft,N/A,F,Adult,NA,219
-774,2017,Crimes Against the Person,Assault,N/A,M,Child,NA,233
-775,2014,Crimes Against the Person,Theft,N/A,M,Adult,NA,269
-776,2014,Crimes Against the Person,Other,N/A,M,Adult,NA,448
-777,2020,Crimes Against the Person,Theft,N/A,F,Youth,NA,81
-778,2019,Crimes Against the Person,Assault,N/A,U,Child,NA,486
-779,2023,Crimes Against the Person,Assault,N/A,M,Adult,NA,432
-780,2023,Crimes Against the Person,Theft,N/A,M,Child,NA,138
-781,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,105
-782,2023,Crimes Against the Person,Burglary,N/A,U,Child,NA,91
-783,2023,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,433
-784,2023,Crimes Against the Person,Other,N/A,M,Unknown,NA,184
-785,2019,Crimes Against the Person,Assault,N/A,F,Child,NA,268
-786,2015,Crimes Against the Person,Assault,N/A,F,Unknown,NA,287
-787,2021,Crimes Against the Person,Burglary,N/A,U,Child,NA,169
-788,2016,Crimes Against the Person,Burglary,N/A,M,Youth,NA,181
-789,2021,Crimes Against the Person,Other,N/A,F,Unknown,NA,122
-790,2019,Crimes Against the Person,Assault,N/A,M,Adult,NA,121
-791,2020,Crimes Against the Person,Theft,N/A,F,Unknown,NA,82
-792,2021,Crimes Against the Person,Burglary,N/A,U,Child,NA,45
-793,2019,Crimes Against the Person,Assault,N/A,M,Child,NA,125
-794,2018,Crimes Against the Person,Assault,N/A,M,Unknown,NA,375
-795,2014,Crimes Against the Person,Burglary,N/A,M,Adult,NA,291
-796,2023,Crimes Against the Person,Assault,N/A,M,Unknown,NA,132
-797,2019,Crimes Against the Person,Other,N/A,M,Child,NA,360
-798,2015,Crimes Against the Person,Other,N/A,U,Adult,NA,165
-799,2021,Crimes Against the Person,Assault,N/A,F,Child,NA,307
-800,2021,Crimes Against the Person,Assault,N/A,F,Child,NA,378
-801,2015,Crimes Against the Person,Other,N/A,M,Youth,NA,294
-802,2023,Crimes Against the Person,Theft,N/A,U,Child,NA,327
-803,2016,Crimes Against the Person,Assault,N/A,F,Unknown,NA,374
-804,2022,Crimes Against the Person,Other,N/A,U,Adult,NA,279
-805,2018,Crimes Against the Person,Burglary,N/A,M,Youth,NA,17
-806,2020,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,14
-807,2020,Crimes Against the Person,Assault,N/A,U,Youth,NA,349
-808,2022,Crimes Against the Person,Other,N/A,F,Child,NA,312
-809,2019,Crimes Against the Person,Burglary,N/A,M,Child,NA,185
-810,2016,Crimes Against the Person,Other,N/A,F,Child,NA,295
-811,2017,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,103
-812,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,77
-813,2016,Crimes Against the Person,Other,N/A,F,Child,NA,12
-814,2014,Crimes Against the Person,Theft,N/A,U,Adult,NA,398
-815,2014,Crimes Against the Person,Theft,N/A,U,Child,NA,458
-816,2021,Crimes Against the Person,Assault,N/A,F,Adult,NA,322
-817,2018,Crimes Against the Person,Other,N/A,M,Child,NA,268
-818,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,293
-819,2018,Crimes Against the Person,Theft,N/A,M,Unknown,NA,369
-820,2015,Crimes Against the Person,Theft,N/A,F,Child,NA,320
-821,2021,Crimes Against the Person,Burglary,N/A,U,Child,NA,90
-822,2015,Crimes Against the Person,Assault,N/A,U,Youth,NA,12
-823,2023,Crimes Against the Person,Theft,N/A,M,Youth,NA,275
-824,2023,Crimes Against the Person,Burglary,N/A,U,Adult,NA,233
-825,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,71
-826,2019,Crimes Against the Person,Other,N/A,M,Child,NA,238
-827,2014,Crimes Against the Person,Assault,N/A,F,Adult,NA,390
-828,2014,Crimes Against the Person,Theft,N/A,U,Unknown,NA,277
-829,2022,Crimes Against the Person,Other,N/A,M,Unknown,NA,473
-830,2021,Crimes Against the Person,Other,N/A,M,Youth,NA,98
-831,2023,Crimes Against the Person,Assault,N/A,F,Youth,NA,106
-832,2020,Crimes Against the Person,Other,N/A,U,Child,NA,8
-833,2015,Crimes Against the Person,Other,N/A,U,Unknown,NA,174
-834,2016,Crimes Against the Person,Assault,N/A,M,Unknown,NA,150
-835,2018,Crimes Against the Person,Assault,N/A,F,Adult,NA,2
-836,2014,Crimes Against the Person,Burglary,N/A,F,Adult,NA,339
-837,2023,Crimes Against the Person,Theft,N/A,U,Adult,NA,428
-838,2015,Crimes Against the Person,Theft,N/A,F,Unknown,NA,148
-839,2018,Crimes Against the Person,Other,N/A,U,Adult,NA,401
-840,2016,Crimes Against the Person,Theft,N/A,U,Child,NA,125
-841,2018,Crimes Against the Person,Burglary,N/A,U,Youth,NA,14
-842,2014,Crimes Against the Person,Burglary,N/A,M,Adult,NA,156
-843,2017,Crimes Against the Person,Burglary,N/A,F,Child,NA,358
-844,2021,Crimes Against the Person,Other,N/A,F,Child,NA,204
-845,2018,Crimes Against the Person,Burglary,N/A,F,Adult,NA,104
-846,2018,Crimes Against the Person,Other,N/A,F,Adult,NA,443
-847,2016,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,405
-848,2016,Crimes Against the Person,Theft,N/A,F,Unknown,NA,212
-849,2020,Crimes Against the Person,Theft,N/A,F,Youth,NA,19
-850,2016,Crimes Against the Person,Other,N/A,M,Youth,NA,416
-851,2020,Crimes Against the Person,Theft,N/A,U,Adult,NA,464
-852,2016,Crimes Against the Person,Theft,N/A,U,Adult,NA,254
-853,2018,Crimes Against the Person,Other,N/A,M,Unknown,NA,412
-854,2018,Crimes Against the Person,Assault,N/A,M,Adult,NA,171
-855,2018,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,228
-856,2018,Crimes Against the Person,Theft,N/A,F,Child,NA,156
-857,2022,Crimes Against the Person,Other,N/A,U,Youth,NA,60
-858,2016,Crimes Against the Person,Theft,N/A,M,Youth,NA,71
-859,2023,Crimes Against the Person,Assault,N/A,F,Youth,NA,73
-860,2016,Crimes Against the Person,Other,N/A,M,Unknown,NA,387
-861,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,34
-862,2020,Crimes Against the Person,Assault,N/A,U,Child,NA,473
-863,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,40
-864,2021,Crimes Against the Person,Theft,N/A,U,Unknown,NA,496
-865,2019,Crimes Against the Person,Burglary,N/A,M,Youth,NA,222
-866,2021,Crimes Against the Person,Other,N/A,U,Unknown,NA,206
-867,2021,Crimes Against the Person,Other,N/A,M,Child,NA,386
-868,2020,Crimes Against the Person,Other,N/A,F,Child,NA,333
-869,2020,Crimes Against the Person,Other,N/A,F,Child,NA,423
-870,2023,Crimes Against the Person,Assault,N/A,M,Adult,NA,218
-871,2019,Crimes Against the Person,Assault,N/A,U,Adult,NA,372
-872,2023,Crimes Against the Person,Other,N/A,M,Child,NA,388
-873,2020,Crimes Against the Person,Theft,N/A,F,Youth,NA,124
-874,2020,Crimes Against the Person,Burglary,N/A,U,Child,NA,378
-875,2022,Crimes Against the Person,Theft,N/A,F,Child,NA,55
-876,2015,Crimes Against the Person,Theft,N/A,F,Adult,NA,375
-877,2014,Crimes Against the Person,Assault,N/A,F,Child,NA,156
-878,2016,Crimes Against the Person,Theft,N/A,F,Child,NA,254
-879,2021,Crimes Against the Person,Assault,N/A,F,Unknown,NA,263
-880,2017,Crimes Against the Person,Theft,N/A,F,Child,NA,473
-881,2021,Crimes Against the Person,Assault,N/A,M,Child,NA,384
-882,2021,Crimes Against the Person,Other,N/A,U,Adult,NA,258
-883,2016,Crimes Against the Person,Other,N/A,F,Unknown,NA,120
-884,2020,Crimes Against the Person,Assault,N/A,U,Child,NA,88
-885,2019,Crimes Against the Person,Assault,N/A,U,Adult,NA,265
-886,2023,Crimes Against the Person,Assault,N/A,F,Adult,NA,478
-887,2015,Crimes Against the Person,Burglary,N/A,U,Child,NA,364
-888,2021,Crimes Against the Person,Other,N/A,F,Child,NA,69
-889,2014,Crimes Against the Person,Other,N/A,F,Child,NA,492
-890,2019,Crimes Against the Person,Theft,N/A,M,Child,NA,391
-891,2015,Crimes Against the Person,Theft,N/A,F,Unknown,NA,48
-892,2016,Crimes Against the Person,Theft,N/A,F,Child,NA,368
-893,2021,Crimes Against the Person,Theft,N/A,F,Child,NA,143
-894,2015,Crimes Against the Person,Other,N/A,M,Child,NA,164
-895,2022,Crimes Against the Person,Other,N/A,U,Unknown,NA,142
-896,2023,Crimes Against the Person,Burglary,N/A,F,Adult,NA,210
-897,2017,Crimes Against the Person,Assault,N/A,M,Unknown,NA,115
-898,2014,Crimes Against the Person,Other,N/A,U,Unknown,NA,147
-899,2022,Crimes Against the Person,Burglary,N/A,U,Child,NA,428
-900,2021,Crimes Against the Person,Assault,N/A,U,Adult,NA,110
-901,2020,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,180
-902,2021,Crimes Against the Person,Burglary,N/A,M,Adult,NA,411
-903,2020,Crimes Against the Person,Other,N/A,F,Unknown,NA,344
-904,2019,Crimes Against the Person,Burglary,N/A,U,Adult,NA,112
-905,2016,Crimes Against the Person,Theft,N/A,M,Child,NA,409
-906,2022,Crimes Against the Person,Theft,N/A,M,Youth,NA,289
-907,2019,Crimes Against the Person,Assault,N/A,F,Adult,NA,491
-908,2023,Crimes Against the Person,Theft,N/A,F,Child,NA,306
-909,2022,Crimes Against the Person,Theft,N/A,F,Adult,NA,344
-910,2014,Crimes Against the Person,Theft,N/A,M,Adult,NA,95
-911,2015,Crimes Against the Person,Assault,N/A,M,Youth,NA,214
-912,2021,Crimes Against the Person,Assault,N/A,M,Youth,NA,415
-913,2019,Crimes Against the Person,Burglary,N/A,F,Youth,NA,357
-914,2016,Crimes Against the Person,Theft,N/A,F,Adult,NA,300
-915,2022,Crimes Against the Person,Theft,N/A,F,Youth,NA,494
-916,2022,Crimes Against the Person,Other,N/A,U,Child,NA,162
-917,2021,Crimes Against the Person,Other,N/A,F,Child,NA,73
-918,2020,Crimes Against the Person,Theft,N/A,F,Child,NA,351
-919,2016,Crimes Against the Person,Assault,N/A,U,Unknown,NA,422
-920,2022,Crimes Against the Person,Assault,N/A,M,Adult,NA,402
-921,2016,Crimes Against the Person,Assault,N/A,F,Adult,NA,205
-922,2023,Crimes Against the Person,Other,N/A,F,Youth,NA,21
-923,2023,Crimes Against the Person,Burglary,N/A,U,Adult,NA,252
-924,2021,Crimes Against the Person,Assault,N/A,F,Child,NA,320
-925,2020,Crimes Against the Person,Assault,N/A,M,Child,NA,428
-926,2023,Crimes Against the Person,Other,N/A,F,Unknown,NA,360
-927,2015,Crimes Against the Person,Burglary,N/A,F,Child,NA,30
-928,2016,Crimes Against the Person,Other,N/A,U,Adult,NA,474
-929,2015,Crimes Against the Person,Assault,N/A,M,Child,NA,247
-930,2019,Crimes Against the Person,Other,N/A,F,Child,NA,23
-931,2014,Crimes Against the Person,Other,N/A,U,Child,NA,76
-932,2018,Crimes Against the Person,Theft,N/A,U,Youth,NA,460
-933,2016,Crimes Against the Person,Theft,N/A,F,Youth,NA,171
-934,2015,Crimes Against the Person,Burglary,N/A,M,Adult,NA,319
-935,2022,Crimes Against the Person,Burglary,N/A,U,Child,NA,19
-936,2014,Crimes Against the Person,Burglary,N/A,U,Child,NA,153
-937,2020,Crimes Against the Person,Burglary,N/A,M,Youth,NA,413
-938,2021,Crimes Against the Person,Burglary,N/A,M,Adult,NA,156
-939,2020,Crimes Against the Person,Theft,N/A,U,Youth,NA,360
-940,2022,Crimes Against the Person,Theft,N/A,M,Child,NA,385
-941,2023,Crimes Against the Person,Theft,N/A,F,Unknown,NA,417
-942,2021,Crimes Against the Person,Assault,N/A,M,Adult,NA,106
-943,2017,Crimes Against the Person,Burglary,N/A,M,Adult,NA,75
-944,2015,Crimes Against the Person,Theft,N/A,M,Unknown,NA,181
-945,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,473
-946,2021,Crimes Against the Person,Assault,N/A,M,Adult,NA,76
-947,2021,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,102
-948,2017,Crimes Against the Person,Assault,N/A,U,Unknown,NA,327
-949,2016,Crimes Against the Person,Burglary,N/A,M,Youth,NA,221
-950,2019,Crimes Against the Person,Burglary,N/A,M,Child,NA,372
-951,2022,Crimes Against the Person,Other,N/A,F,Youth,NA,148
-952,2018,Crimes Against the Person,Other,N/A,M,Unknown,NA,445
-953,2015,Crimes Against the Person,Theft,N/A,U,Youth,NA,300
-954,2020,Crimes Against the Person,Theft,N/A,M,Youth,NA,479
-955,2018,Crimes Against the Person,Other,N/A,U,Youth,NA,308
-956,2016,Crimes Against the Person,Other,N/A,M,Unknown,NA,178
-957,2015,Crimes Against the Person,Burglary,N/A,F,Youth,NA,223
-958,2021,Crimes Against the Person,Other,N/A,F,Unknown,NA,100
-959,2021,Crimes Against the Person,Other,N/A,U,Youth,NA,98
-960,2020,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,15
-961,2023,Crimes Against the Person,Assault,N/A,M,Adult,NA,380
-962,2015,Crimes Against the Person,Burglary,N/A,U,Child,NA,147
-963,2022,Crimes Against the Person,Other,N/A,U,Youth,NA,140
-964,2018,Crimes Against the Person,Assault,N/A,U,Adult,NA,499
-965,2018,Crimes Against the Person,Burglary,N/A,U,Youth,NA,329
-966,2014,Crimes Against the Person,Theft,N/A,F,Youth,NA,279
-967,2016,Crimes Against the Person,Theft,N/A,F,Child,NA,46
-968,2022,Crimes Against the Person,Theft,N/A,F,Adult,NA,397
-969,2022,Crimes Against the Person,Theft,N/A,M,Adult,NA,187
-970,2021,Crimes Against the Person,Assault,N/A,M,Child,NA,499
-971,2018,Crimes Against the Person,Other,N/A,U,Unknown,NA,122
-972,2014,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,59
-973,2015,Crimes Against the Person,Theft,N/A,U,Child,NA,298
-974,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,441
-975,2018,Crimes Against the Person,Other,N/A,F,Child,NA,375
-976,2021,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,238
-977,2019,Crimes Against the Person,Assault,N/A,U,Unknown,NA,187
-978,2015,Crimes Against the Person,Burglary,N/A,F,Youth,NA,97
-979,2014,Crimes Against the Person,Other,N/A,U,Child,NA,60
-980,2018,Crimes Against the Person,Burglary,N/A,F,Youth,NA,100
-981,2023,Crimes Against the Person,Assault,N/A,U,Child,NA,33
-982,2021,Crimes Against the Person,Other,N/A,M,Adult,NA,202
-983,2017,Crimes Against the Person,Burglary,N/A,F,Youth,NA,113
-984,2016,Crimes Against the Person,Other,N/A,M,Adult,NA,368
-985,2022,Crimes Against the Person,Burglary,N/A,M,Adult,NA,74
-986,2014,Crimes Against the Person,Burglary,N/A,F,Youth,NA,462
-987,2020,Crimes Against the Person,Burglary,N/A,M,Child,NA,384
-988,2021,Crimes Against the Person,Assault,N/A,M,Youth,NA,31
-989,2019,Crimes Against the Person,Assault,N/A,M,Adult,NA,61
-990,2019,Crimes Against the Person,Assault,N/A,M,Unknown,NA,477
-991,2022,Crimes Against the Person,Assault,N/A,U,Youth,NA,298
-992,2015,Crimes Against the Person,Assault,N/A,F,Adult,NA,406
-993,2021,Crimes Against the Person,Theft,N/A,M,Adult,NA,234
-994,2014,Crimes Against the Person,Other,N/A,M,Youth,NA,315
-995,2018,Crimes Against the Person,Theft,N/A,U,Youth,NA,103
-996,2016,Crimes Against the Person,Theft,N/A,M,Youth,NA,124
-997,2022,Crimes Against the Person,Burglary,N/A,U,Youth,NA,135
-998,2019,Crimes Against the Person,Theft,N/A,F,Unknown,NA,321
-999,2021,Crimes Against the Person,Other,N/A,F,Adult,NA,108
-1000,2018,Crimes Against the Person,Burglary,N/A,U,Youth,NA,492
-1001,2021,Crimes Against the Person,Other,N/A,F,Adult,NA,346
-1002,2023,Crimes Against the Person,Other,N/A,F,Child,NA,211
-1003,2014,Crimes Against the Person,Other,N/A,F,Youth,NA,249
-1004,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,14
-1005,2022,Crimes Against the Person,Theft,N/A,F,Child,NA,8
-1006,2017,Crimes Against the Person,Burglary,N/A,F,Child,NA,157
-1007,2018,Crimes Against the Person,Theft,N/A,F,Unknown,NA,435
-1008,2017,Crimes Against the Person,Assault,N/A,U,Adult,NA,270
-1009,2014,Crimes Against the Person,Theft,N/A,U,Adult,NA,379
-1010,2018,Crimes Against the Person,Other,N/A,F,Adult,NA,96
-1011,2020,Crimes Against the Person,Assault,N/A,F,Unknown,NA,364
-1012,2018,Crimes Against the Person,Assault,N/A,F,Child,NA,445
-1013,2021,Crimes Against the Person,Assault,N/A,F,Youth,NA,221
-1014,2018,Crimes Against the Person,Other,N/A,M,Youth,NA,425
-1015,2014,Crimes Against the Person,Other,N/A,M,Youth,NA,207
-1016,2019,Crimes Against the Person,Theft,N/A,M,Youth,NA,408
-1017,2021,Crimes Against the Person,Other,N/A,U,Unknown,NA,490
-1018,2023,Crimes Against the Person,Assault,N/A,U,Youth,NA,182
-1019,2022,Crimes Against the Person,Burglary,N/A,F,Adult,NA,102
-1020,2016,Crimes Against the Person,Assault,N/A,F,Unknown,NA,388
-1021,2019,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,180
-1022,2016,Crimes Against the Person,Assault,N/A,F,Unknown,NA,438
-1023,2017,Crimes Against the Person,Burglary,N/A,U,Adult,NA,427
-1024,2020,Crimes Against the Person,Assault,N/A,U,Youth,NA,230
-1025,2020,Crimes Against the Person,Other,N/A,U,Youth,NA,453
-1026,2015,Crimes Against the Person,Other,N/A,U,Adult,NA,403
-1027,2018,Crimes Against the Person,Theft,N/A,F,Unknown,NA,84
-1028,2019,Crimes Against the Person,Assault,N/A,U,Adult,NA,3
-1029,2020,Crimes Against the Person,Burglary,N/A,F,Youth,NA,377
-1030,2023,Crimes Against the Person,Other,N/A,M,Youth,NA,121
-1031,2018,Crimes Against the Person,Other,N/A,F,Child,NA,286
-1032,2020,Crimes Against the Person,Burglary,N/A,U,Adult,NA,478
-1033,2017,Crimes Against the Person,Theft,N/A,M,Child,NA,375
-1034,2022,Crimes Against the Person,Assault,N/A,U,Unknown,NA,300
-1035,2020,Crimes Against the Person,Burglary,N/A,F,Child,NA,483
-1036,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,438
-1037,2022,Crimes Against the Person,Assault,N/A,U,Unknown,NA,428
-1038,2023,Crimes Against the Person,Theft,N/A,U,Unknown,NA,165
-1039,2021,Crimes Against the Person,Theft,N/A,F,Youth,NA,70
-1040,2018,Crimes Against the Person,Other,N/A,F,Unknown,NA,56
-1041,2019,Crimes Against the Person,Theft,N/A,M,Youth,NA,405
-1042,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,320
-1043,2022,Crimes Against the Person,Theft,N/A,F,Child,NA,149
-1044,2018,Crimes Against the Person,Burglary,N/A,M,Adult,NA,308
-1045,2017,Crimes Against the Person,Theft,N/A,U,Youth,NA,413
-1046,2014,Crimes Against the Person,Burglary,N/A,M,Child,NA,476
-1047,2019,Crimes Against the Person,Burglary,N/A,F,Youth,NA,173
-1048,2023,Crimes Against the Person,Assault,N/A,U,Child,NA,65
-1049,2023,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,393
-1050,2023,Crimes Against the Person,Other,N/A,U,Unknown,NA,61
-1051,2017,Crimes Against the Person,Theft,N/A,M,Youth,NA,447
-1052,2015,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,106
-1053,2023,Crimes Against the Person,Assault,N/A,M,Child,NA,457
-1054,2019,Crimes Against the Person,Theft,N/A,U,Adult,NA,13
-1055,2022,Crimes Against the Person,Assault,N/A,U,Unknown,NA,414
-1056,2021,Crimes Against the Person,Other,N/A,F,Unknown,NA,184
-1057,2022,Crimes Against the Person,Theft,N/A,U,Unknown,NA,317
-1058,2018,Crimes Against the Person,Theft,N/A,M,Adult,NA,129
-1059,2015,Crimes Against the Person,Other,N/A,U,Adult,NA,451
-1060,2021,Crimes Against the Person,Theft,N/A,F,Youth,NA,486
-1061,2017,Crimes Against the Person,Theft,N/A,U,Unknown,NA,228
-1062,2016,Crimes Against the Person,Burglary,N/A,U,Adult,NA,161
-1063,2014,Crimes Against the Person,Assault,N/A,M,Unknown,NA,348
-1064,2021,Crimes Against the Person,Theft,N/A,U,Youth,NA,211
-1065,2016,Crimes Against the Person,Burglary,N/A,U,Adult,NA,441
-1066,2021,Crimes Against the Person,Theft,N/A,U,Unknown,NA,253
-1067,2022,Crimes Against the Person,Assault,N/A,M,Unknown,NA,223
-1068,2018,Crimes Against the Person,Theft,N/A,M,Adult,NA,223
-1069,2018,Crimes Against the Person,Other,N/A,F,Adult,NA,476
-1070,2021,Crimes Against the Person,Other,N/A,F,Child,NA,400
-1071,2014,Crimes Against the Person,Burglary,N/A,U,Adult,NA,193
-1072,2015,Crimes Against the Person,Other,N/A,F,Child,NA,130
-1073,2019,Crimes Against the Person,Other,N/A,U,Adult,NA,266
-1074,2018,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,139
-1075,2019,Crimes Against the Person,Theft,N/A,F,Child,NA,312
-1076,2015,Crimes Against the Person,Theft,N/A,U,Youth,NA,441
-1077,2023,Crimes Against the Person,Theft,N/A,F,Child,NA,81
-1078,2017,Crimes Against the Person,Other,N/A,U,Adult,NA,248
-1079,2014,Crimes Against the Person,Theft,N/A,U,Unknown,NA,293
-1080,2016,Crimes Against the Person,Other,N/A,U,Adult,NA,167
-1081,2018,Crimes Against the Person,Assault,N/A,F,Adult,NA,392
-1082,2016,Crimes Against the Person,Other,N/A,M,Adult,NA,161
-1083,2019,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,305
-1084,2016,Crimes Against the Person,Assault,N/A,U,Youth,NA,232
-1085,2014,Crimes Against the Person,Theft,N/A,F,Unknown,NA,135
-1086,2021,Crimes Against the Person,Theft,N/A,U,Unknown,NA,66
-1087,2018,Crimes Against the Person,Other,N/A,M,Adult,NA,13
-1088,2014,Crimes Against the Person,Burglary,N/A,F,Adult,NA,436
-1089,2023,Crimes Against the Person,Other,N/A,F,Youth,NA,195
-1090,2022,Crimes Against the Person,Theft,N/A,F,Unknown,NA,340
-1091,2018,Crimes Against the Person,Burglary,N/A,F,Adult,NA,86
-1092,2014,Crimes Against the Person,Burglary,N/A,M,Youth,NA,176
-1093,2018,Crimes Against the Person,Other,N/A,U,Unknown,NA,159
-1094,2023,Crimes Against the Person,Burglary,N/A,M,Youth,NA,186
-1095,2015,Crimes Against the Person,Theft,N/A,M,Child,NA,393
-1096,2018,Crimes Against the Person,Theft,N/A,M,Adult,NA,439
-1097,2014,Crimes Against the Person,Burglary,N/A,F,Child,NA,223
-1098,2017,Crimes Against the Person,Burglary,N/A,M,Child,NA,222
-1099,2016,Crimes Against the Person,Assault,N/A,M,Unknown,NA,399
-1100,2016,Crimes Against the Person,Theft,N/A,U,Youth,NA,151
-1101,2022,Crimes Against the Person,Assault,N/A,F,Youth,NA,27
-1102,2018,Crimes Against the Person,Burglary,N/A,M,Adult,NA,324
-1103,2018,Crimes Against the Person,Theft,N/A,M,Youth,NA,320
-1104,2022,Crimes Against the Person,Other,N/A,F,Youth,NA,435
-1105,2017,Crimes Against the Person,Assault,N/A,M,Youth,NA,335
-1106,2015,Crimes Against the Person,Burglary,N/A,U,Adult,NA,428
-1107,2022,Crimes Against the Person,Burglary,N/A,F,Youth,NA,121
-1108,2023,Crimes Against the Person,Burglary,N/A,F,Adult,NA,485
-1109,2023,Crimes Against the Person,Assault,N/A,U,Youth,NA,270
-1110,2020,Crimes Against the Person,Other,N/A,M,Unknown,NA,139
-1111,2023,Crimes Against the Person,Burglary,N/A,M,Adult,NA,286
-1112,2016,Crimes Against the Person,Assault,N/A,M,Adult,NA,361
-1113,2021,Crimes Against the Person,Other,N/A,M,Youth,NA,334
-1114,2017,Crimes Against the Person,Theft,N/A,F,Adult,NA,245
-1115,2021,Crimes Against the Person,Burglary,N/A,U,Adult,NA,447
-1116,2021,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,31
-1117,2022,Crimes Against the Person,Assault,N/A,U,Youth,NA,373
-1118,2021,Crimes Against the Person,Theft,N/A,F,Child,NA,228
-1119,2021,Crimes Against the Person,Other,N/A,U,Youth,NA,244
-1120,2022,Crimes Against the Person,Assault,N/A,F,Adult,NA,409
-1121,2015,Crimes Against the Person,Theft,N/A,U,Child,NA,93
-1122,2018,Crimes Against the Person,Assault,N/A,M,Adult,NA,48
-1123,2023,Crimes Against the Person,Assault,N/A,M,Child,NA,151
-1124,2016,Crimes Against the Person,Burglary,N/A,U,Child,NA,374
-1125,2023,Crimes Against the Person,Assault,N/A,F,Youth,NA,133
-1126,2021,Crimes Against the Person,Assault,N/A,M,Child,NA,59
-1127,2014,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,285
-1128,2014,Crimes Against the Person,Theft,N/A,F,Child,NA,251
-1129,2022,Crimes Against the Person,Assault,N/A,M,Unknown,NA,280
-1130,2016,Crimes Against the Person,Theft,N/A,U,Youth,NA,464
-1131,2015,Crimes Against the Person,Theft,N/A,F,Unknown,NA,37
-1132,2017,Crimes Against the Person,Burglary,N/A,F,Adult,NA,384
-1133,2017,Crimes Against the Person,Theft,N/A,F,Youth,NA,182
-1134,2021,Crimes Against the Person,Assault,N/A,M,Unknown,NA,236
-1135,2017,Crimes Against the Person,Theft,N/A,M,Adult,NA,238
-1136,2023,Crimes Against the Person,Theft,N/A,M,Youth,NA,10
-1137,2023,Crimes Against the Person,Burglary,N/A,U,Adult,NA,191
-1138,2023,Crimes Against the Person,Theft,N/A,M,Child,NA,11
-1139,2016,Crimes Against the Person,Theft,N/A,U,Adult,NA,475
-1140,2021,Crimes Against the Person,Other,N/A,M,Adult,NA,92
-1141,2016,Crimes Against the Person,Theft,N/A,F,Adult,NA,31
-1142,2016,Crimes Against the Person,Theft,N/A,U,Adult,NA,25
-1143,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,14
-1144,2017,Crimes Against the Person,Burglary,N/A,M,Youth,NA,48
-1145,2018,Crimes Against the Person,Assault,N/A,M,Child,NA,19
-1146,2022,Crimes Against the Person,Assault,N/A,F,Child,NA,352
-1147,2017,Crimes Against the Person,Theft,N/A,M,Adult,NA,103
-1148,2022,Crimes Against the Person,Other,N/A,F,Child,NA,245
-1149,2022,Crimes Against the Person,Theft,N/A,F,Youth,NA,155
-1150,2019,Crimes Against the Person,Assault,N/A,M,Child,NA,315
-1151,2021,Crimes Against the Person,Burglary,N/A,F,Adult,NA,426
-1152,2019,Crimes Against the Person,Assault,N/A,U,Unknown,NA,100
-1153,2021,Crimes Against the Person,Burglary,N/A,U,Youth,NA,408
-1154,2015,Crimes Against the Person,Assault,N/A,F,Youth,NA,157
-1155,2017,Crimes Against the Person,Theft,N/A,F,Child,NA,91
-1156,2018,Crimes Against the Person,Other,N/A,M,Adult,NA,164
-1157,2018,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,357
-1158,2016,Crimes Against the Person,Theft,N/A,U,Youth,NA,431
-1159,2016,Crimes Against the Person,Assault,N/A,F,Child,NA,139
-1160,2016,Crimes Against the Person,Assault,N/A,F,Adult,NA,305
-1161,2023,Crimes Against the Person,Other,N/A,M,Child,NA,199
-1162,2022,Crimes Against the Person,Other,N/A,M,Adult,NA,224
-1163,2017,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,317
-1164,2015,Crimes Against the Person,Other,N/A,F,Unknown,NA,402
-1165,2016,Crimes Against the Person,Other,N/A,M,Adult,NA,278
-1166,2018,Crimes Against the Person,Assault,N/A,U,Child,NA,150
-1167,2019,Crimes Against the Person,Burglary,N/A,U,Unknown,NA,186
-1168,2018,Crimes Against the Person,Theft,N/A,F,Adult,NA,478
-1169,2021,Crimes Against the Person,Assault,N/A,U,Unknown,NA,259
-1170,2018,Crimes Against the Person,Other,N/A,U,Child,NA,158
-1171,2018,Crimes Against the Person,Other,N/A,F,Child,NA,111
-1172,2014,Crimes Against the Person,Other,N/A,M,Child,NA,359
-1173,2017,Crimes Against the Person,Other,N/A,F,Youth,NA,163
-1174,2023,Crimes Against the Person,Theft,N/A,M,Youth,NA,380
-1175,2016,Crimes Against the Person,Burglary,N/A,M,Adult,NA,384
-1176,2017,Crimes Against the Person,Assault,N/A,M,Youth,NA,161
-1177,2023,Crimes Against the Person,Other,N/A,F,Adult,NA,87
-1178,2018,Crimes Against the Person,Assault,N/A,F,Unknown,NA,386
-1179,2020,Crimes Against the Person,Theft,N/A,F,Youth,NA,135
-1180,2020,Crimes Against the Person,Assault,N/A,U,Youth,NA,305
-1181,2015,Crimes Against the Person,Other,N/A,U,Adult,NA,162
-1182,2018,Crimes Against the Person,Theft,N/A,U,Unknown,NA,425
-1183,2014,Crimes Against the Person,Burglary,N/A,M,Child,NA,360
-1184,2019,Crimes Against the Person,Assault,N/A,U,Youth,NA,214
-1185,2016,Crimes Against the Person,Assault,N/A,U,Child,NA,465
-1186,2014,Crimes Against the Person,Burglary,N/A,U,Youth,NA,54
-1187,2022,Crimes Against the Person,Assault,N/A,M,Youth,NA,427
-1188,2023,Crimes Against the Person,Assault,N/A,U,Youth,NA,74
-1189,2014,Crimes Against the Person,Assault,N/A,U,Adult,NA,80
-1190,2023,Crimes Against the Person,Theft,N/A,M,Unknown,NA,357
-1191,2017,Crimes Against the Person,Other,N/A,M,Unknown,NA,58
-1192,2016,Crimes Against the Person,Theft,N/A,F,Adult,NA,36
-1193,2018,Crimes Against the Person,Theft,N/A,U,Youth,NA,92
-1194,2023,Crimes Against the Person,Theft,N/A,M,Child,NA,345
-1195,2022,Crimes Against the Person,Burglary,N/A,F,Youth,NA,9
-1196,2014,Crimes Against the Person,Burglary,N/A,U,Child,NA,288
-1197,2017,Crimes Against the Person,Burglary,N/A,F,Unknown,NA,219
-1198,2017,Crimes Against the Person,Assault,N/A,F,Adult,NA,90
-1199,2022,Crimes Against the Person,Theft,N/A,M,Adult,NA,385
-1200,2022,Crimes Against the Person,Burglary,N/A,F,Child,NA,108
-1201,2014,Crimes Against the Person,Assault,N/A,U,Youth,NA,404
-1202,2015,Crimes Against the Person,Theft,N/A,F,Unknown,NA,143
-1203,2021,Crimes Against the Person,Burglary,N/A,F,Adult,NA,95
-1204,2023,Crimes Against the Person,Assault,N/A,F,Unknown,NA,456
-1205,2020,Crimes Against the Person,Theft,N/A,F,Adult,NA,258
-1206,2019,Crimes Against the Person,Assault,N/A,M,Unknown,NA,7
-1207,2020,Crimes Against the Person,Theft,N/A,M,Youth,NA,348
-1208,2017,Crimes Against the Person,Other,N/A,U,Youth,NA,454
-1209,2017,Crimes Against the Person,Theft,N/A,M,Unknown,NA,169
-1210,2014,Crimes Against the Person,Assault,N/A,F,Unknown,NA,379
-1211,2017,Crimes Against the Person,Burglary,N/A,M,Adult,NA,46
-1212,2023,Crimes Against the Person,Theft,N/A,F,Child,NA,180
-1213,2020,Crimes Against the Person,Other,N/A,U,Youth,NA,404
-1214,2015,Crimes Against the Person,Theft,N/A,F,Child,NA,280
-1215,2023,Crimes Against the Person,Burglary,N/A,M,Adult,NA,238
-1216,2019,Crimes Against the Person,Burglary,N/A,F,Adult,NA,428
-1217,2014,Crimes Against the Person,Theft,N/A,M,Child,NA,265
-1218,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,121
-1219,2017,Crimes Against the Person,Burglary,N/A,U,Youth,NA,346
-1220,2016,Crimes Against the Person,Burglary,N/A,M,Youth,NA,212
-1221,2014,Crimes Against the Person,Other,N/A,F,Youth,NA,77
-1222,2015,Crimes Against the Person,Assault,N/A,M,Unknown,NA,403
-1223,2021,Crimes Against the Person,Burglary,N/A,M,Adult,NA,494
-1224,2021,Crimes Against the Person,Other,N/A,F,Unknown,NA,339
-1225,2014,Crimes Against the Person,Burglary,N/A,M,Unknown,NA,48
-1226,2018,Crimes Against the Person,Burglary,N/A,F,Youth,NA,20
-1227,2020,Crimes Against the Person,Assault,N/A,U,Unknown,NA,234
-1228,2022,Crimes Against the Person,Other,N/A,F,Adult,NA,120
-1229,2021,Crimes Against the Person,Theft,N/A,F,Unknown,NA,340
-1230,2022,Crimes Against the Person,Assault,N/A,U,Unknown,NA,354
-1231,2014,Crimes Against the Person,Other,N/A,U,Unknown,NA,36
-1232,2015,Crimes Against the Person,Theft,N/A,U,Unknown,NA,13
-1233,2015,Crimes Against the Person,Assault,N/A,M,Child,NA,449
-1234,2014,Crimes Against the Person,Theft,N/A,M,Adult,NA,51
-1235,2014,Crimes Against the Person,Other,N/A,F,Unknown,NA,146
-1236,2021,Crimes Against the Person,Other,N/A,U,Child,NA,346
-1237,2018,Crimes Against the Person,Theft,N/A,U,Unknown,NA,383
-1238,2018,Crimes Against the Person,Burglary,N/A,M,Child,NA,280
-1239,2016,Crimes Against the Person,Other,N/A,U,Child,NA,19
-1240,2014,Crimes Against the Person,Other,N/A,F,Child,NA,191
-1241,2017,Crimes Against the Person,Other,N/A,U,Youth,NA,398
-1242,2020,Crimes Against the Person,Assault,N/A,U,Child,NA,336
-1243,2020,Crimes Against the Person,Burglary,N/A,M,Youth,NA,277
-1244,2022,Crimes Against the Person,Assault,N/A,M,Adult,NA,346
+1,2021,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,308
+2,2014,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,365
+3,2022,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,191
+4,2014,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,24
+5,2022,Crimes Against the Person,Burglary,N/A,U,Adult,65+,72
+6,2023,Crimes Against the Person,Other,N/A,M,Child,<12,477
+7,2014,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,401
+8,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Adult,65+,87
+9,2021,Crimes Against the Person,Assault,Assault Peace Officer,F,Child,<12,106
+10,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Unknown,Unknown,252
+11,2019,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Adult,35 to 44,476
+12,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,35 to 44,308
+13,2017,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,218
+14,2019,Crimes Against the Person,Theft,N/A,U,Adult,55 to 64,126
+15,2022,Crimes Against the Person,Other,N/A,M,Adult,25 to 34,53
+16,2017,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,384
+17,2021,Crimes Against the Person,Theft,N/A,U,Adult,55 to 64,86
+18,2020,Crimes Against the Person,Assault,Assault Resist Arrest,M,Adult,25 to 34,331
+19,2020,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,231
+20,2021,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,151
+21,2023,Crimes Against the Person,Assault,Assault Resist Arrest,U,Adult,25 to 34,121
+22,2017,Crimes Against the Person,Burglary,N/A,F,Adult,45 to 54,361
+23,2018,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,129
+24,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,216
+25,2019,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,178
+26,2020,Crimes Against the Person,Theft,N/A,U,Adult,55 to 64,194
+27,2017,Crimes Against the Person,Other,N/A,U,Adult,18 to 24,21
+28,2015,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,472
+29,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Child,<12,73
+30,2018,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,332
+31,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Adult,45 to 54,35
+32,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Child,<12,241
+33,2015,Crimes Against the Person,Other,N/A,M,Adult,25 to 34,277
+34,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Unknown,Unknown,458
+35,2020,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,307
+36,2019,Crimes Against the Person,Other,N/A,M,Child,<12,169
+37,2017,Crimes Against the Person,Other,N/A,U,Adult,55 to 64,153
+38,2023,Crimes Against the Person,Burglary,N/A,M,Child,<12,466
+39,2021,Crimes Against the Person,Theft,N/A,F,Adult,55 to 64,18
+40,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Adult,25 to 34,255
+41,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Youth,12 to 17,366
+42,2016,Crimes Against the Person,Other,N/A,F,Adult,65+,340
+43,2023,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,210
+44,2017,Crimes Against the Person,Burglary,N/A,F,Adult,45 to 54,159
+45,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,408
+46,2021,Crimes Against the Person,Theft,N/A,M,Child,<12,255
+47,2017,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,34
+48,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,283
+49,2023,Crimes Against the Person,Other,N/A,M,Child,<12,45
+50,2020,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,164
+51,2018,Crimes Against the Person,Burglary,N/A,F,Adult,35 to 44,61
+52,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,300
+53,2018,Crimes Against the Person,Theft,N/A,F,Child,<12,108
+54,2015,Crimes Against the Person,Assault,Assault Resist Arrest,U,Adult,45 to 54,342
+55,2023,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,221
+56,2021,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,44
+57,2023,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,186
+58,2015,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,412
+59,2021,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,85
+60,2022,Crimes Against the Person,Other,N/A,M,Adult,18 to 24,94
+61,2014,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,290
+62,2016,Crimes Against the Person,Other,N/A,F,Child,<12,36
+63,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Youth,12 to 17,120
+64,2019,Crimes Against the Person,Other,N/A,U,Adult,65+,310
+65,2020,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,131
+66,2014,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,326
+67,2018,Crimes Against the Person,Burglary,N/A,M,Child,<12,402
+68,2017,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,64
+69,2018,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,409
+70,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,154
+71,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,181
+72,2015,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,180
+73,2020,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,241
+74,2023,Crimes Against the Person,Theft,N/A,M,Adult,25 to 34,175
+75,2019,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Adult,65+,263
+76,2016,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,120
+77,2017,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,356
+78,2014,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,26
+79,2017,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,258
+80,2017,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,35 to 44,300
+81,2014,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,243
+82,2016,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,417
+83,2020,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,18 to 24,158
+84,2023,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,315
+85,2022,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,78
+86,2014,Crimes Against the Person,Theft,N/A,F,Adult,25 to 34,33
+87,2016,Crimes Against the Person,Other,N/A,M,Adult,55 to 64,31
+88,2017,Crimes Against the Person,Other,N/A,F,Child,<12,348
+89,2018,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,408
+90,2021,Crimes Against the Person,Burglary,N/A,U,Child,<12,111
+91,2015,Crimes Against the Person,Other,N/A,M,Child,<12,378
+92,2014,Crimes Against the Person,Burglary,N/A,F,Adult,55 to 64,360
+93,2018,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Unknown,Unknown,158
+94,2018,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,425
+95,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,35
+96,2021,Crimes Against the Person,Other,N/A,U,Child,<12,188
+97,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Child,<12,109
+98,2020,Crimes Against the Person,Burglary,N/A,M,Adult,35 to 44,236
+99,2014,Crimes Against the Person,Theft,N/A,F,Child,<12,187
+100,2020,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,161
+101,2021,Crimes Against the Person,Other,N/A,F,Child,<12,256
+102,2014,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,243
+103,2015,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,94
+104,2021,Crimes Against the Person,Other,N/A,M,Child,<12,153
+105,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,500
+106,2021,Crimes Against the Person,Other,N/A,F,Child,<12,64
+107,2014,Crimes Against the Person,Other,N/A,M,Child,<12,389
+108,2014,Crimes Against the Person,Other,N/A,U,Child,<12,428
+109,2016,Crimes Against the Person,Theft,N/A,U,Adult,45 to 54,2
+110,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Unknown,Unknown,55
+111,2017,Crimes Against the Person,Burglary,N/A,U,Adult,25 to 34,439
+112,2017,Crimes Against the Person,Burglary,N/A,M,Adult,25 to 34,400
+113,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,18 to 24,223
+114,2023,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,224
+115,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,276
+116,2022,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,485
+117,2017,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Youth,12 to 17,178
+118,2020,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,9
+119,2023,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,100
+120,2014,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,2
+121,2020,Crimes Against the Person,Theft,N/A,M,Adult,18 to 24,216
+122,2014,Crimes Against the Person,Theft,N/A,M,Child,<12,244
+123,2017,Crimes Against the Person,Theft,N/A,U,Adult,65+,219
+124,2018,Crimes Against the Person,Other,N/A,F,Adult,65+,462
+125,2015,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,461
+126,2021,Crimes Against the Person,Burglary,N/A,F,Adult,65+,454
+127,2016,Crimes Against the Person,Theft,N/A,U,Adult,35 to 44,107
+128,2018,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,366
+129,2016,Crimes Against the Person,Other,N/A,F,Child,<12,97
+130,2023,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,273
+131,2016,Crimes Against the Person,Other,N/A,M,Adult,55 to 64,62
+132,2023,Crimes Against the Person,Other,N/A,F,Child,<12,447
+133,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,116
+134,2022,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,390
+135,2023,Crimes Against the Person,Other,N/A,M,Adult,45 to 54,327
+136,2021,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,171
+137,2021,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,147
+138,2018,Crimes Against the Person,Other,N/A,M,Child,<12,128
+139,2022,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,144
+140,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,35 to 44,471
+141,2018,Crimes Against the Person,Other,N/A,F,Child,<12,139
+142,2014,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,70
+143,2022,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,186
+144,2017,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,472
+145,2020,Crimes Against the Person,Burglary,N/A,U,Child,<12,99
+146,2015,Crimes Against the Person,Theft,N/A,M,Adult,65+,190
+147,2018,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,8
+148,2022,Crimes Against the Person,Theft,N/A,M,Adult,65+,421
+149,2022,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,65+,430
+150,2014,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,104
+151,2017,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,379
+152,2014,Crimes Against the Person,Burglary,N/A,U,Adult,18 to 24,173
+153,2015,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,73
+154,2016,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,332
+155,2023,Crimes Against the Person,Theft,N/A,M,Child,<12,466
+156,2023,Crimes Against the Person,Other,N/A,F,Child,<12,321
+157,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,362
+158,2021,Crimes Against the Person,Assault,Assault Resist Arrest,F,Adult,65+,361
+159,2023,Crimes Against the Person,Theft,N/A,F,Child,<12,412
+160,2022,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,318
+161,2018,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,29
+162,2016,Crimes Against the Person,Theft,N/A,F,Child,<12,94
+163,2021,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,431
+164,2018,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,315
+165,2019,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,290
+166,2019,Crimes Against the Person,Assault,Assault Peace Officer,U,Unknown,Unknown,364
+167,2019,Crimes Against the Person,Other,N/A,M,Adult,35 to 44,365
+168,2017,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,466
+169,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Child,<12,90
+170,2021,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,450
+171,2018,Crimes Against the Person,Theft,N/A,M,Child,<12,302
+172,2014,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,182
+173,2020,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,483
+174,2019,Crimes Against the Person,Theft,N/A,U,Child,<12,40
+175,2016,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,203
+176,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,234
+177,2023,Crimes Against the Person,Other,N/A,F,Child,<12,436
+178,2014,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,398
+179,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Unknown,Unknown,62
+180,2021,Crimes Against the Person,Other,N/A,U,Adult,18 to 24,109
+181,2022,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,242
+182,2021,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,186
+183,2020,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,494
+184,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Unknown,Unknown,351
+185,2017,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,138
+186,2019,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,344
+187,2023,Crimes Against the Person,Assault,Assault Peace Officer,F,Youth,12 to 17,102
+188,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,353
+189,2015,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,154
+190,2016,Crimes Against the Person,Other,N/A,M,Child,<12,174
+191,2016,Crimes Against the Person,Theft,N/A,F,Child,<12,428
+192,2023,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,482
+193,2015,Crimes Against the Person,Other,N/A,M,Adult,35 to 44,19
+194,2016,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,195
+195,2017,Crimes Against the Person,Other,N/A,M,Adult,45 to 54,216
+196,2018,Crimes Against the Person,Other,N/A,F,Child,<12,364
+197,2018,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,119
+198,2022,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,88
+199,2021,Crimes Against the Person,Burglary,N/A,F,Adult,35 to 44,356
+200,2018,Crimes Against the Person,Other,N/A,M,Adult,45 to 54,406
+201,2023,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Youth,12 to 17,286
+202,2019,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,375
+203,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Unknown,Unknown,145
+204,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Child,<12,28
+205,2015,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,188
+206,2018,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,387
+207,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,51
+208,2022,Crimes Against the Person,Theft,N/A,F,Adult,45 to 54,268
+209,2015,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,234
+210,2022,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,229
+211,2014,Crimes Against the Person,Other,N/A,F,Child,<12,386
+212,2019,Crimes Against the Person,Assault,Assault Peace Officer,F,Child,<12,36
+213,2020,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,178
+214,2018,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,371
+215,2019,Crimes Against the Person,Theft,N/A,F,Adult,18 to 24,155
+216,2023,Crimes Against the Person,Assault,Assault Peace Officer,F,Youth,12 to 17,118
+217,2018,Crimes Against the Person,Assault,Assault Peace Officer,U,Unknown,Unknown,267
+218,2019,Crimes Against the Person,Burglary,N/A,U,Child,<12,256
+219,2022,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,195
+220,2022,Crimes Against the Person,Theft,N/A,M,Adult,65+,294
+221,2015,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,108
+222,2015,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,25
+223,2014,Crimes Against the Person,Assault,Assault Peace Officer,M,Adult,45 to 54,469
+224,2019,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,65
+225,2014,Crimes Against the Person,Burglary,N/A,F,Child,<12,26
+226,2014,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,429
+227,2021,Crimes Against the Person,Theft,N/A,U,Child,<12,212
+228,2017,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,47
+229,2022,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,489
+230,2018,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,456
+231,2018,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,242
+232,2015,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,350
+233,2022,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,42
+234,2021,Crimes Against the Person,Burglary,N/A,F,Child,<12,448
+235,2019,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,474
+236,2016,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,457
+237,2018,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Child,<12,143
+238,2021,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,366
+239,2023,Crimes Against the Person,Other,N/A,M,Adult,18 to 24,199
+240,2015,Crimes Against the Person,Other,N/A,F,Child,<12,272
+241,2016,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,180
+242,2017,Crimes Against the Person,Assault,Assault Resist Arrest,M,Adult,45 to 54,444
+243,2022,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,325
+244,2016,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,456
+245,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Child,<12,131
+246,2022,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,73
+247,2019,Crimes Against the Person,Burglary,N/A,U,Child,<12,388
+248,2014,Crimes Against the Person,Other,N/A,U,Adult,45 to 54,7
+249,2019,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,473
+250,2021,Crimes Against the Person,Burglary,N/A,F,Child,<12,133
+251,2021,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,411
+252,2018,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,2
+253,2015,Crimes Against the Person,Other,N/A,M,Adult,18 to 24,400
+254,2021,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,175
+255,2022,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,264
+256,2016,Crimes Against the Person,Theft,N/A,M,Child,<12,448
+257,2022,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,218
+258,2021,Crimes Against the Person,Theft,N/A,M,Adult,18 to 24,452
+259,2019,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,384
+260,2014,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,167
+261,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Youth,12 to 17,485
+262,2016,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,25 to 34,34
+263,2016,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,116
+264,2019,Crimes Against the Person,Theft,N/A,M,Adult,65+,197
+265,2022,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,128
+266,2022,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,25 to 34,26
+267,2023,Crimes Against the Person,Assault,Assault Peace Officer,F,Child,<12,123
+268,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Child,<12,287
+269,2019,Crimes Against the Person,Burglary,N/A,U,Child,<12,246
+270,2014,Crimes Against the Person,Theft,N/A,F,Child,<12,76
+271,2018,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,281
+272,2017,Crimes Against the Person,Burglary,N/A,U,Child,<12,401
+273,2021,Crimes Against the Person,Other,N/A,M,Adult,18 to 24,454
+274,2015,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,184
+275,2014,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,97
+276,2021,Crimes Against the Person,Assault,Assault Resist Arrest,U,Child,<12,45
+277,2023,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,115
+278,2016,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,436
+279,2017,Crimes Against the Person,Other,N/A,M,Adult,55 to 64,211
+280,2016,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,232
+281,2023,Crimes Against the Person,Assault,Assault Resist Arrest,U,Child,<12,287
+282,2016,Crimes Against the Person,Other,N/A,U,Child,<12,60
+283,2015,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,255
+284,2021,Crimes Against the Person,Other,N/A,U,Child,<12,307
+285,2023,Crimes Against the Person,Assault,Assault Peace Officer,M,Child,<12,183
+286,2016,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,278
+287,2021,Crimes Against the Person,Other,N/A,U,Adult,18 to 24,234
+288,2016,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,364
+289,2016,Crimes Against the Person,Burglary,N/A,F,Adult,35 to 44,114
+290,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Unknown,Unknown,234
+291,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Unknown,Unknown,71
+292,2018,Crimes Against the Person,Other,N/A,M,Adult,25 to 34,165
+293,2023,Crimes Against the Person,Burglary,N/A,U,Child,<12,95
+294,2019,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,206
+295,2021,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,63
+296,2017,Crimes Against the Person,Theft,N/A,U,Child,<12,16
+297,2015,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,215
+298,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Youth,12 to 17,327
+299,2015,Crimes Against the Person,Other,N/A,M,Child,<12,149
+300,2019,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,421
+301,2014,Crimes Against the Person,Burglary,N/A,F,Child,<12,55
+302,2015,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,157
+303,2020,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,173
+304,2019,Crimes Against the Person,Assault,Assault Peace Officer,U,Adult,55 to 64,4
+305,2017,Crimes Against the Person,Assault,Assault Peace Officer,M,Adult,25 to 34,41
+306,2020,Crimes Against the Person,Other,N/A,U,Child,<12,406
+307,2019,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,423
+308,2017,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,55 to 64,350
+309,2023,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,5
+310,2014,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,476
+311,2017,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,488
+312,2023,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,182
+313,2021,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,388
+314,2021,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,189
+315,2018,Crimes Against the Person,Burglary,N/A,M,Child,<12,166
+316,2022,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,392
+317,2017,Crimes Against the Person,Theft,N/A,U,Child,<12,270
+318,2014,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,263
+319,2016,Crimes Against the Person,Theft,N/A,U,Adult,45 to 54,111
+320,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Child,<12,471
+321,2014,Crimes Against the Person,Assault,Assault Peace Officer,M,Child,<12,34
+322,2023,Crimes Against the Person,Other,N/A,U,Child,<12,275
+323,2018,Crimes Against the Person,Burglary,N/A,M,Adult,25 to 34,500
+324,2019,Crimes Against the Person,Theft,N/A,U,Child,<12,139
+325,2015,Crimes Against the Person,Burglary,N/A,M,Adult,18 to 24,252
+326,2014,Crimes Against the Person,Burglary,N/A,F,Adult,45 to 54,112
+327,2023,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,420
+328,2020,Crimes Against the Person,Theft,N/A,M,Adult,35 to 44,61
+329,2016,Crimes Against the Person,Burglary,N/A,M,Adult,35 to 44,254
+330,2022,Crimes Against the Person,Burglary,N/A,F,Child,<12,49
+331,2023,Crimes Against the Person,Theft,N/A,F,Child,<12,76
+332,2017,Crimes Against the Person,Assault,Assault Resist Arrest,F,Youth,12 to 17,452
+333,2023,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,414
+334,2019,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,129
+335,2018,Crimes Against the Person,Burglary,N/A,U,Child,<12,131
+336,2021,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,107
+337,2016,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,351
+338,2018,Crimes Against the Person,Burglary,N/A,M,Adult,45 to 54,205
+339,2016,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,446
+340,2014,Crimes Against the Person,Other,N/A,U,Child,<12,404
+341,2020,Crimes Against the Person,Burglary,N/A,U,Adult,45 to 54,402
+342,2015,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,258
+343,2015,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,396
+344,2020,Crimes Against the Person,Burglary,N/A,U,Adult,55 to 64,117
+345,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,30
+346,2018,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,498
+347,2019,Crimes Against the Person,Other,N/A,M,Child,<12,428
+348,2014,Crimes Against the Person,Other,N/A,U,Adult,55 to 64,243
+349,2017,Crimes Against the Person,Burglary,N/A,F,Child,<12,126
+350,2020,Crimes Against the Person,Theft,N/A,F,Adult,65+,80
+351,2016,Crimes Against the Person,Other,N/A,M,Child,<12,14
+352,2023,Crimes Against the Person,Other,N/A,U,Child,<12,57
+353,2015,Crimes Against the Person,Burglary,N/A,U,Adult,55 to 64,53
+354,2016,Crimes Against the Person,Burglary,N/A,U,Adult,65+,64
+355,2021,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,329
+356,2023,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,32
+357,2016,Crimes Against the Person,Other,N/A,F,Child,<12,414
+358,2020,Crimes Against the Person,Assault,Assault Resist Arrest,U,Child,<12,182
+359,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,406
+360,2016,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,46
+361,2014,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Youth,12 to 17,391
+362,2014,Crimes Against the Person,Theft,N/A,F,Child,<12,390
+363,2018,Crimes Against the Person,Theft,N/A,M,Child,<12,299
+364,2019,Crimes Against the Person,Other,N/A,U,Child,<12,489
+365,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Youth,12 to 17,272
+366,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Unknown,Unknown,254
+367,2014,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,381
+368,2014,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,131
+369,2016,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,225
+370,2018,Crimes Against the Person,Other,N/A,M,Adult,45 to 54,76
+371,2014,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,446
+372,2015,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,97
+373,2015,Crimes Against the Person,Assault,Assault Peace Officer,U,Adult,25 to 34,285
+374,2019,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,225
+375,2016,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,453
+376,2019,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,135
+377,2015,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,365
+378,2020,Crimes Against the Person,Theft,N/A,U,Adult,55 to 64,376
+379,2022,Crimes Against the Person,Burglary,N/A,U,Adult,65+,394
+380,2020,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,321
+381,2016,Crimes Against the Person,Theft,N/A,F,Adult,18 to 24,110
+382,2015,Crimes Against the Person,Theft,N/A,M,Child,<12,214
+383,2020,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,336
+384,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,65+,235
+385,2021,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,320
+386,2014,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,268
+387,2020,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,306
+388,2020,Crimes Against the Person,Other,N/A,U,Adult,45 to 54,56
+389,2016,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,464
+390,2023,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,377
+391,2017,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,59
+392,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,475
+393,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,65+,298
+394,2018,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,35 to 44,345
+395,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,37
+396,2021,Crimes Against the Person,Burglary,N/A,F,Child,<12,458
+397,2020,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,466
+398,2023,Crimes Against the Person,Other,N/A,U,Child,<12,431
+399,2017,Crimes Against the Person,Burglary,N/A,U,Adult,18 to 24,265
+400,2021,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,218
+401,2017,Crimes Against the Person,Burglary,N/A,F,Child,<12,79
+402,2015,Crimes Against the Person,Burglary,N/A,M,Adult,25 to 34,152
+403,2017,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,102
+404,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,25 to 34,338
+405,2019,Crimes Against the Person,Assault,Assault Resist Arrest,F,Adult,35 to 44,135
+406,2020,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,438
+407,2020,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,147
+408,2021,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,443
+409,2021,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,137
+410,2014,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,402
+411,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Unknown,Unknown,132
+412,2016,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,112
+413,2016,Crimes Against the Person,Other,N/A,M,Child,<12,41
+414,2023,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,324
+415,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,110
+416,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,222
+417,2023,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,157
+418,2023,Crimes Against the Person,Burglary,N/A,U,Child,<12,111
+419,2018,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,391
+420,2023,Crimes Against the Person,Burglary,N/A,F,Child,<12,16
+421,2015,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,72
+422,2016,Crimes Against the Person,Theft,N/A,M,Adult,55 to 64,497
+423,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,311
+424,2015,Crimes Against the Person,Burglary,N/A,M,Child,<12,346
+425,2018,Crimes Against the Person,Theft,N/A,M,Adult,45 to 54,301
+426,2014,Crimes Against the Person,Burglary,N/A,M,Child,<12,495
+427,2019,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,28
+428,2017,Crimes Against the Person,Assault,Assault Resist Arrest,M,Adult,25 to 34,285
+429,2015,Crimes Against the Person,Other,N/A,M,Adult,18 to 24,41
+430,2015,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,487
+431,2023,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,387
+432,2015,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,361
+433,2017,Crimes Against the Person,Burglary,N/A,M,Child,<12,421
+434,2021,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,428
+435,2023,Crimes Against the Person,Other,N/A,M,Child,<12,325
+436,2015,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,350
+437,2017,Crimes Against the Person,Assault,Assault Peace Officer,F,Child,<12,250
+438,2018,Crimes Against the Person,Other,N/A,M,Child,<12,305
+439,2020,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,134
+440,2021,Crimes Against the Person,Other,N/A,M,Adult,65+,211
+441,2014,Crimes Against the Person,Other,N/A,M,Child,<12,50
+442,2014,Crimes Against the Person,Theft,N/A,U,Adult,65+,234
+443,2023,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,247
+444,2017,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,335
+445,2023,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,78
+446,2020,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,58
+447,2020,Crimes Against the Person,Theft,N/A,M,Adult,55 to 64,77
+448,2015,Crimes Against the Person,Assault,Assault Peace Officer,M,Adult,18 to 24,166
+449,2017,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,101
+450,2017,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,399
+451,2016,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,228
+452,2015,Crimes Against the Person,Theft,N/A,F,Child,<12,438
+453,2017,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,492
+454,2023,Crimes Against the Person,Theft,N/A,F,Adult,18 to 24,387
+455,2016,Crimes Against the Person,Theft,N/A,F,Adult,18 to 24,175
+456,2022,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,267
+457,2020,Crimes Against the Person,Assault,Assault Peace Officer,U,Child,<12,16
+458,2019,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,250
+459,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,6
+460,2023,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,190
+461,2022,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,73
+462,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Child,<12,44
+463,2023,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,331
+464,2019,Crimes Against the Person,Burglary,N/A,F,Child,<12,145
+465,2018,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,318
+466,2022,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,21
+467,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,31
+468,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,116
+469,2016,Crimes Against the Person,Burglary,N/A,F,Adult,35 to 44,130
+470,2021,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,27
+471,2020,Crimes Against the Person,Burglary,N/A,U,Child,<12,458
+472,2016,Crimes Against the Person,Assault,Assault Resist Arrest,F,Adult,55 to 64,204
+473,2023,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,499
+474,2018,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,452
+475,2021,Crimes Against the Person,Burglary,N/A,M,Child,<12,51
+476,2017,Crimes Against the Person,Burglary,N/A,M,Adult,25 to 34,84
+477,2022,Crimes Against the Person,Burglary,N/A,M,Child,<12,367
+478,2018,Crimes Against the Person,Assault,Assault Peace Officer,M,Youth,12 to 17,187
+479,2022,Crimes Against the Person,Other,N/A,U,Adult,55 to 64,30
+480,2014,Crimes Against the Person,Burglary,N/A,U,Child,<12,271
+481,2014,Crimes Against the Person,Burglary,N/A,M,Adult,18 to 24,245
+482,2014,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,474
+483,2016,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,243
+484,2014,Crimes Against the Person,Assault,Assault Resist Arrest,F,Youth,12 to 17,78
+485,2019,Crimes Against the Person,Theft,N/A,F,Child,<12,121
+486,2014,Crimes Against the Person,Burglary,N/A,U,Child,<12,475
+487,2019,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,291
+488,2015,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,265
+489,2014,Crimes Against the Person,Theft,N/A,M,Adult,18 to 24,299
+490,2017,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,323
+491,2016,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,136
+492,2023,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Youth,12 to 17,362
+493,2020,Crimes Against the Person,Other,N/A,M,Child,<12,175
+494,2016,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,23
+495,2017,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,45 to 54,118
+496,2022,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,124
+497,2022,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,275
+498,2020,Crimes Against the Person,Other,N/A,F,Child,<12,59
+499,2019,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,275
+500,2014,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,317
+501,2023,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,70
+502,2015,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,469
+503,2021,Crimes Against the Person,Theft,N/A,U,Adult,25 to 34,240
+504,2017,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,235
+505,2020,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,344
+506,2020,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,52
+507,2017,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,25 to 34,79
+508,2021,Crimes Against the Person,Burglary,N/A,M,Adult,25 to 34,167
+509,2017,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,397
+510,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,296
+511,2018,Crimes Against the Person,Burglary,N/A,F,Child,<12,156
+512,2014,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,356
+513,2018,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,380
+514,2015,Crimes Against the Person,Burglary,N/A,F,Adult,18 to 24,483
+515,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Youth,12 to 17,203
+516,2016,Crimes Against the Person,Theft,N/A,M,Child,<12,420
+517,2020,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,498
+518,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,82
+519,2020,Crimes Against the Person,Other,N/A,U,Adult,18 to 24,437
+520,2017,Crimes Against the Person,Burglary,N/A,U,Child,<12,427
+521,2022,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,356
+522,2023,Crimes Against the Person,Theft,N/A,U,Adult,35 to 44,276
+523,2014,Crimes Against the Person,Theft,N/A,U,Child,<12,264
+524,2023,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,200
+525,2019,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,410
+526,2017,Crimes Against the Person,Theft,N/A,M,Child,<12,455
+527,2022,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,376
+528,2019,Crimes Against the Person,Assault,Assault Peace Officer,M,Child,<12,445
+529,2018,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,430
+530,2016,Crimes Against the Person,Other,N/A,U,Child,<12,256
+531,2018,Crimes Against the Person,Assault,Assault Peace Officer,M,Youth,12 to 17,401
+532,2019,Crimes Against the Person,Other,N/A,U,Child,<12,460
+533,2022,Crimes Against the Person,Other,N/A,F,Child,<12,298
+534,2019,Crimes Against the Person,Assault,Assault Resist Arrest,M,Adult,45 to 54,405
+535,2022,Crimes Against the Person,Theft,N/A,F,Child,<12,245
+536,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Adult,65+,407
+537,2023,Crimes Against the Person,Other,N/A,U,Child,<12,185
+538,2018,Crimes Against the Person,Other,N/A,F,Child,<12,289
+539,2016,Crimes Against the Person,Theft,N/A,F,Child,<12,104
+540,2022,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,475
+541,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,171
+542,2020,Crimes Against the Person,Other,N/A,M,Adult,65+,42
+543,2023,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,399
+544,2021,Crimes Against the Person,Theft,N/A,F,Adult,45 to 54,60
+545,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,441
+546,2021,Crimes Against the Person,Theft,N/A,F,Adult,65+,303
+547,2014,Crimes Against the Person,Other,N/A,M,Adult,65+,450
+548,2018,Crimes Against the Person,Burglary,N/A,M,Child,<12,301
+549,2021,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,284
+550,2017,Crimes Against the Person,Theft,N/A,U,Child,<12,365
+551,2021,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,17
+552,2016,Crimes Against the Person,Assault,Assault Peace Officer,U,Child,<12,197
+553,2022,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,138
+554,2016,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,372
+555,2016,Crimes Against the Person,Theft,N/A,F,Child,<12,34
+556,2015,Crimes Against the Person,Burglary,N/A,U,Adult,45 to 54,80
+557,2021,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,130
+558,2022,Crimes Against the Person,Burglary,N/A,M,Child,<12,370
+559,2020,Crimes Against the Person,Theft,N/A,F,Child,<12,1
+560,2022,Crimes Against the Person,Other,N/A,M,Adult,35 to 44,459
+561,2019,Crimes Against the Person,Burglary,N/A,F,Adult,35 to 44,23
+562,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,239
+563,2022,Crimes Against the Person,Theft,N/A,F,Adult,45 to 54,484
+564,2023,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,392
+565,2018,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,49
+566,2016,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,55 to 64,314
+567,2019,Crimes Against the Person,Theft,N/A,M,Adult,45 to 54,307
+568,2019,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,329
+569,2016,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,174
+570,2015,Crimes Against the Person,Other,N/A,F,Child,<12,189
+571,2019,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,404
+572,2021,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,487
+573,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,200
+574,2015,Crimes Against the Person,Assault,Assault Resist Arrest,M,Unknown,Unknown,475
+575,2015,Crimes Against the Person,Burglary,N/A,M,Adult,25 to 34,450
+576,2019,Crimes Against the Person,Other,N/A,U,Adult,35 to 44,439
+577,2018,Crimes Against the Person,Assault,Assault Resist Arrest,F,Youth,12 to 17,157
+578,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,261
+579,2014,Crimes Against the Person,Assault,Assault Resist Arrest,M,Unknown,Unknown,131
+580,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,228
+581,2017,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,119
+582,2019,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,19
+583,2017,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,363
+584,2020,Crimes Against the Person,Burglary,N/A,U,Adult,55 to 64,84
+585,2020,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Child,<12,225
+586,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,417
+587,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Youth,12 to 17,24
+588,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,345
+589,2019,Crimes Against the Person,Burglary,N/A,U,Child,<12,268
+590,2022,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,222
+591,2018,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,284
+592,2017,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,334
+593,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Youth,12 to 17,345
+594,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Adult,65+,65
+595,2022,Crimes Against the Person,Assault,Assault Resist Arrest,M,Adult,55 to 64,310
+596,2015,Crimes Against the Person,Theft,N/A,U,Adult,55 to 64,160
+597,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Youth,12 to 17,16
+598,2014,Crimes Against the Person,Theft,N/A,F,Adult,45 to 54,432
+599,2014,Crimes Against the Person,Theft,N/A,M,Child,<12,312
+600,2021,Crimes Against the Person,Theft,N/A,M,Adult,65+,167
+601,2016,Crimes Against the Person,Theft,N/A,M,Child,<12,146
+602,2020,Crimes Against the Person,Theft,N/A,U,Child,<12,376
+603,2018,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,60
+604,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Child,<12,78
+605,2019,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,25
+606,2016,Crimes Against the Person,Burglary,N/A,M,Adult,35 to 44,420
+607,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,136
+608,2016,Crimes Against the Person,Burglary,N/A,F,Adult,25 to 34,128
+609,2018,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,72
+610,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,162
+611,2017,Crimes Against the Person,Theft,N/A,F,Child,<12,213
+612,2017,Crimes Against the Person,Theft,N/A,M,Adult,55 to 64,500
+613,2022,Crimes Against the Person,Other,N/A,U,Child,<12,214
+614,2016,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,304
+615,2023,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,172
+616,2022,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,149
+617,2020,Crimes Against the Person,Burglary,N/A,M,Child,<12,33
+618,2014,Crimes Against the Person,Burglary,N/A,U,Adult,25 to 34,366
+619,2023,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,3
+620,2014,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,459
+621,2020,Crimes Against the Person,Other,N/A,U,Child,<12,253
+622,2018,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,349
+623,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,298
+624,2017,Crimes Against the Person,Burglary,N/A,U,Child,<12,379
+625,2018,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,79
+626,2014,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,81
+627,2019,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,87
+628,2020,Crimes Against the Person,Theft,N/A,U,Adult,55 to 64,358
+629,2014,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,204
+630,2017,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Child,<12,306
+631,2018,Crimes Against the Person,Burglary,N/A,M,Child,<12,83
+632,2015,Crimes Against the Person,Burglary,N/A,U,Child,<12,299
+633,2019,Crimes Against the Person,Assault,Assault Resist Arrest,U,Adult,65+,150
+634,2021,Crimes Against the Person,Burglary,N/A,M,Adult,65+,173
+635,2021,Crimes Against the Person,Other,N/A,M,Child,<12,408
+636,2021,Crimes Against the Person,Other,N/A,M,Child,<12,482
+637,2023,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,253
+638,2019,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,289
+639,2023,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Adult,25 to 34,290
+640,2017,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,384
+641,2022,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,149
+642,2021,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,141
+643,2023,Crimes Against the Person,Other,N/A,U,Adult,35 to 44,228
+644,2023,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,30
+645,2019,Crimes Against the Person,Other,N/A,F,Child,<12,232
+646,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,386
+647,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,262
+648,2014,Crimes Against the Person,Assault,Assault Peace Officer,F,Youth,12 to 17,179
+649,2022,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,245
+650,2019,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,74
+651,2018,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,313
+652,2023,Crimes Against the Person,Theft,N/A,F,Adult,35 to 44,416
+653,2020,Crimes Against the Person,Burglary,N/A,M,Child,<12,486
+654,2019,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,447
+655,2014,Crimes Against the Person,Other,N/A,F,Child,<12,465
+656,2020,Crimes Against the Person,Assault,Assault Resist Arrest,U,Adult,45 to 54,305
+657,2016,Crimes Against the Person,Other,N/A,F,Adult,45 to 54,126
+658,2020,Crimes Against the Person,Assault,Assault Peace Officer,F,Child,<12,27
+659,2023,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,403
+660,2022,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,39
+661,2020,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Child,<12,430
+662,2023,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,436
+663,2022,Crimes Against the Person,Theft,N/A,M,Adult,45 to 54,420
+664,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,38
+665,2023,Crimes Against the Person,Assault,Assault Resist Arrest,M,Unknown,Unknown,289
+666,2018,Crimes Against the Person,Theft,N/A,U,Adult,65+,307
+667,2023,Crimes Against the Person,Theft,N/A,U,Adult,55 to 64,347
+668,2021,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,148
+669,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,33
+670,2018,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,84
+671,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,354
+672,2022,Crimes Against the Person,Theft,N/A,F,Child,<12,486
+673,2017,Crimes Against the Person,Theft,N/A,U,Child,<12,128
+674,2018,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,65+,216
+675,2023,Crimes Against the Person,Burglary,N/A,M,Child,<12,264
+676,2018,Crimes Against the Person,Burglary,N/A,M,Child,<12,366
+677,2021,Crimes Against the Person,Burglary,N/A,F,Child,<12,410
+678,2019,Crimes Against the Person,Assault,Assault Peace Officer,M,Youth,12 to 17,419
+679,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Unknown,Unknown,436
+680,2017,Crimes Against the Person,Burglary,N/A,F,Child,<12,63
+681,2015,Crimes Against the Person,Burglary,N/A,F,Child,<12,147
+682,2022,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,307
+683,2018,Crimes Against the Person,Burglary,N/A,M,Child,<12,38
+684,2022,Crimes Against the Person,Other,N/A,M,Child,<12,111
+685,2021,Crimes Against the Person,Theft,N/A,M,Adult,25 to 34,182
+686,2015,Crimes Against the Person,Burglary,N/A,F,Child,<12,393
+687,2023,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,121
+688,2015,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,249
+689,2018,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,295
+690,2020,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,202
+691,2020,Crimes Against the Person,Burglary,N/A,M,Child,<12,496
+692,2017,Crimes Against the Person,Other,N/A,F,Adult,18 to 24,328
+693,2018,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,207
+694,2021,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,6
+695,2015,Crimes Against the Person,Other,N/A,U,Child,<12,73
+696,2016,Crimes Against the Person,Theft,N/A,M,Adult,65+,140
+697,2021,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,452
+698,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Child,<12,231
+699,2021,Crimes Against the Person,Burglary,N/A,M,Child,<12,292
+700,2014,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,201
+701,2016,Crimes Against the Person,Burglary,N/A,M,Child,<12,226
+702,2020,Crimes Against the Person,Burglary,N/A,U,Child,<12,77
+703,2023,Crimes Against the Person,Theft,N/A,U,Adult,65+,262
+704,2018,Crimes Against the Person,Other,N/A,U,Child,<12,233
+705,2019,Crimes Against the Person,Other,N/A,M,Child,<12,147
+706,2020,Crimes Against the Person,Theft,N/A,U,Adult,25 to 34,69
+707,2016,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,299
+708,2020,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,442
+709,2014,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,471
+710,2015,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,40
+711,2019,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,111
+712,2019,Crimes Against the Person,Other,N/A,M,Child,<12,440
+713,2022,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,446
+714,2018,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,18 to 24,38
+715,2015,Crimes Against the Person,Other,N/A,U,Adult,18 to 24,209
+716,2015,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,436
+717,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Youth,12 to 17,366
+718,2020,Crimes Against the Person,Other,N/A,M,Child,<12,495
+719,2022,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,132
+720,2017,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,471
+721,2019,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,175
+722,2018,Crimes Against the Person,Burglary,N/A,M,Adult,25 to 34,306
+723,2023,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,164
+724,2015,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,109
+725,2023,Crimes Against the Person,Theft,N/A,F,Child,<12,266
+726,2014,Crimes Against the Person,Theft,N/A,U,Child,<12,142
+727,2014,Crimes Against the Person,Other,N/A,U,Child,<12,34
+728,2023,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,17
+729,2017,Crimes Against the Person,Other,N/A,F,Adult,55 to 64,451
+730,2015,Crimes Against the Person,Assault,Assault Peace Officer,M,Adult,35 to 44,370
+731,2014,Crimes Against the Person,Theft,N/A,F,Child,<12,99
+732,2014,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,349
+733,2015,Crimes Against the Person,Theft,N/A,F,Child,<12,340
+734,2022,Crimes Against the Person,Assault,Assault Resist Arrest,M,Unknown,Unknown,371
+735,2023,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,288
+736,2015,Crimes Against the Person,Burglary,N/A,F,Adult,25 to 34,22
+737,2019,Crimes Against the Person,Other,N/A,F,Adult,35 to 44,455
+738,2019,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,42
+739,2015,Crimes Against the Person,Theft,N/A,F,Adult,65+,414
+740,2021,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,338
+741,2020,Crimes Against the Person,Other,N/A,M,Adult,45 to 54,442
+742,2018,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,108
+743,2023,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,277
+744,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,174
+745,2017,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,96
+746,2022,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,82
+747,2016,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,324
+748,2014,Crimes Against the Person,Other,N/A,F,Adult,55 to 64,216
+749,2015,Crimes Against the Person,Theft,N/A,M,Child,<12,261
+750,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Child,<12,351
+751,2020,Crimes Against the Person,Burglary,N/A,U,Adult,45 to 54,4
+752,2016,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,45 to 54,150
+753,2014,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Youth,12 to 17,251
+754,2015,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,379
+755,2018,Crimes Against the Person,Theft,N/A,F,Child,<12,60
+756,2022,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,65+,406
+757,2022,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,113
+758,2019,Crimes Against the Person,Theft,N/A,F,Adult,65+,450
+759,2017,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,405
+760,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Child,<12,261
+761,2020,Crimes Against the Person,Other,N/A,U,Adult,45 to 54,49
+762,2014,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,35 to 44,199
+763,2015,Crimes Against the Person,Other,N/A,M,Child,<12,460
+764,2022,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,197
+765,2019,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,35 to 44,219
+766,2021,Crimes Against the Person,Other,N/A,F,Adult,55 to 64,106
+767,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Child,<12,67
+768,2020,Crimes Against the Person,Burglary,N/A,M,Adult,45 to 54,320
+769,2019,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,432
+770,2022,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,59
+771,2021,Crimes Against the Person,Burglary,N/A,U,Child,<12,280
+772,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Child,<12,239
+773,2023,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,60
+774,2014,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,55 to 64,478
+775,2018,Crimes Against the Person,Other,N/A,U,Child,<12,22
+776,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Unknown,Unknown,448
+777,2016,Crimes Against the Person,Assault,Assault Peace Officer,U,Unknown,Unknown,352
+778,2019,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,409
+779,2017,Crimes Against the Person,Theft,N/A,F,Child,<12,500
+780,2019,Crimes Against the Person,Other,N/A,M,Child,<12,418
+781,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Child,<12,61
+782,2019,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,219
+783,2022,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,9
+784,2023,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,498
+785,2015,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,221
+786,2019,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,412
+787,2015,Crimes Against the Person,Burglary,N/A,M,Adult,45 to 54,40
+788,2016,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Adult,55 to 64,485
+789,2018,Crimes Against the Person,Theft,N/A,U,Child,<12,61
+790,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,65+,198
+791,2016,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,25 to 34,165
+792,2022,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,434
+793,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Youth,12 to 17,47
+794,2019,Crimes Against the Person,Other,N/A,M,Child,<12,360
+795,2020,Crimes Against the Person,Other,N/A,F,Child,<12,389
+796,2015,Crimes Against the Person,Assault,Assault Resist Arrest,F,Youth,12 to 17,128
+797,2021,Crimes Against the Person,Burglary,N/A,M,Child,<12,311
+798,2021,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,272
+799,2019,Crimes Against the Person,Theft,N/A,F,Adult,35 to 44,385
+800,2018,Crimes Against the Person,Theft,N/A,F,Adult,65+,470
+801,2015,Crimes Against the Person,Theft,N/A,U,Child,<12,336
+802,2020,Crimes Against the Person,Burglary,N/A,F,Child,<12,64
+803,2022,Crimes Against the Person,Theft,N/A,M,Adult,55 to 64,237
+804,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,65+,95
+805,2015,Crimes Against the Person,Other,N/A,U,Child,<12,362
+806,2017,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,454
+807,2019,Crimes Against the Person,Theft,N/A,U,Child,<12,275
+808,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Unknown,Unknown,51
+809,2019,Crimes Against the Person,Other,N/A,M,Adult,35 to 44,7
+810,2016,Crimes Against the Person,Burglary,N/A,U,Adult,25 to 34,152
+811,2016,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,69
+812,2021,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,245
+813,2014,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,276
+814,2015,Crimes Against the Person,Assault,Assault Peace Officer,M,Youth,12 to 17,484
+815,2021,Crimes Against the Person,Burglary,N/A,F,Child,<12,110
+816,2015,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,51
+817,2021,Crimes Against the Person,Theft,N/A,M,Child,<12,156
+818,2019,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,251
+819,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Youth,12 to 17,159
+820,2014,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,147
+821,2020,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,337
+822,2020,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,171
+823,2016,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,370
+824,2014,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,496
+825,2020,Crimes Against the Person,Theft,N/A,U,Child,<12,161
+826,2020,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,142
+827,2017,Crimes Against the Person,Theft,N/A,U,Adult,45 to 54,89
+828,2022,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,496
+829,2019,Crimes Against the Person,Other,N/A,F,Child,<12,385
+830,2023,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,492
+831,2021,Crimes Against the Person,Other,N/A,F,Adult,35 to 44,59
+832,2021,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,397
+833,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,35 to 44,60
+834,2014,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,422
+835,2015,Crimes Against the Person,Other,N/A,F,Child,<12,368
+836,2016,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,447
+837,2019,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Child,<12,312
+838,2019,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,132
+839,2022,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,135
+840,2021,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,465
+841,2018,Crimes Against the Person,Other,N/A,M,Adult,45 to 54,449
+842,2021,Crimes Against the Person,Theft,N/A,U,Child,<12,391
+843,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,35 to 44,127
+844,2018,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,132
+845,2014,Crimes Against the Person,Assault,Assault Peace Officer,U,Adult,35 to 44,410
+846,2014,Crimes Against the Person,Other,N/A,U,Child,<12,475
+847,2014,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,360
+848,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,135
+849,2014,Crimes Against the Person,Theft,N/A,M,Adult,35 to 44,139
+850,2019,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Unknown,Unknown,282
+851,2014,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,350
+852,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Unknown,Unknown,390
+853,2017,Crimes Against the Person,Theft,N/A,F,Child,<12,356
+854,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,407
+855,2014,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Child,<12,104
+856,2019,Crimes Against the Person,Burglary,N/A,F,Adult,65+,436
+857,2021,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,37
+858,2015,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,490
+859,2022,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,301
+860,2022,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,480
+861,2019,Crimes Against the Person,Theft,N/A,U,Child,<12,369
+862,2017,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,54
+863,2022,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,201
+864,2023,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,471
+865,2020,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,109
+866,2014,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,240
+867,2016,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,453
+868,2020,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,24
+869,2021,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,34
+870,2017,Crimes Against the Person,Other,N/A,M,Adult,55 to 64,301
+871,2023,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,179
+872,2016,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,8
+873,2018,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,324
+874,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,45 to 54,445
+875,2015,Crimes Against the Person,Burglary,N/A,U,Adult,65+,417
+876,2017,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,121
+877,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,103
+878,2021,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,202
+879,2019,Crimes Against the Person,Assault,Assault Peace Officer,F,Unknown,Unknown,181
+880,2021,Crimes Against the Person,Burglary,N/A,M,Adult,45 to 54,253
+881,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,457
+882,2019,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,105
+883,2021,Crimes Against the Person,Other,N/A,U,Child,<12,127
+884,2014,Crimes Against the Person,Burglary,N/A,F,Adult,35 to 44,139
+885,2022,Crimes Against the Person,Burglary,N/A,U,Adult,18 to 24,211
+886,2015,Crimes Against the Person,Other,N/A,M,Child,<12,105
+887,2019,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,228
+888,2023,Crimes Against the Person,Burglary,N/A,F,Adult,25 to 34,154
+889,2014,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,464
+890,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Unknown,Unknown,175
+891,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,352
+892,2017,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,316
+893,2020,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,441
+894,2018,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,161
+895,2023,Crimes Against the Person,Theft,N/A,F,Adult,55 to 64,405
+896,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Unknown,Unknown,379
+897,2019,Crimes Against the Person,Theft,N/A,F,Child,<12,167
+898,2019,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,49
+899,2020,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,327
+900,2022,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,251
+901,2023,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,54
+902,2021,Crimes Against the Person,Other,N/A,M,Adult,25 to 34,328
+903,2018,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,18
+904,2014,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,381
+905,2022,Crimes Against the Person,Other,N/A,F,Child,<12,341
+906,2014,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,487
+907,2019,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,358
+908,2019,Crimes Against the Person,Theft,N/A,F,Child,<12,42
+909,2015,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,459
+910,2015,Crimes Against the Person,Burglary,N/A,F,Adult,65+,228
+911,2021,Crimes Against the Person,Other,N/A,M,Child,<12,80
+912,2014,Crimes Against the Person,Burglary,N/A,U,Adult,55 to 64,24
+913,2014,Crimes Against the Person,Theft,N/A,F,Adult,65+,397
+914,2014,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,212
+915,2018,Crimes Against the Person,Other,N/A,F,Child,<12,133
+916,2018,Crimes Against the Person,Assault,Assault Peace Officer,F,Youth,12 to 17,247
+917,2017,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,359
+918,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Youth,12 to 17,498
+919,2019,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,409
+920,2020,Crimes Against the Person,Assault,Assault Peace Officer,U,Adult,18 to 24,68
+921,2018,Crimes Against the Person,Burglary,N/A,F,Child,<12,88
+922,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,35 to 44,444
+923,2023,Crimes Against the Person,Assault,Assault Peace Officer,U,Adult,65+,41
+924,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Youth,12 to 17,19
+925,2021,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,127
+926,2014,Crimes Against the Person,Burglary,N/A,F,Adult,18 to 24,381
+927,2014,Crimes Against the Person,Assault,Assault Peace Officer,M,Adult,35 to 44,357
+928,2018,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,378
+929,2023,Crimes Against the Person,Other,N/A,F,Child,<12,287
+930,2022,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,120
+931,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Adult,25 to 34,87
+932,2016,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,306
+933,2021,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,14
+934,2015,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,312
+935,2021,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,1
+936,2019,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,319
+937,2019,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,322
+938,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,386
+939,2021,Crimes Against the Person,Burglary,N/A,F,Adult,18 to 24,185
+940,2015,Crimes Against the Person,Other,N/A,M,Adult,55 to 64,122
+941,2015,Crimes Against the Person,Burglary,N/A,F,Child,<12,292
+942,2016,Crimes Against the Person,Theft,N/A,M,Child,<12,97
+943,2016,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,416
+944,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,55 to 64,116
+945,2023,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,44
+946,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,401
+947,2022,Crimes Against the Person,Theft,N/A,F,Adult,65+,142
+948,2014,Crimes Against the Person,Burglary,N/A,U,Adult,35 to 44,253
+949,2023,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,64
+950,2018,Crimes Against the Person,Burglary,N/A,U,Child,<12,93
+951,2022,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,400
+952,2016,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,324
+953,2014,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,446
+954,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,484
+955,2016,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,95
+956,2021,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,35
+957,2014,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,344
+958,2017,Crimes Against the Person,Other,N/A,U,Adult,45 to 54,298
+959,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,326
+960,2017,Crimes Against the Person,Assault,Assault Resist Arrest,F,Youth,12 to 17,200
+961,2018,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,354
+962,2019,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,331
+963,2021,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,207
+964,2022,Crimes Against the Person,Other,N/A,U,Child,<12,339
+965,2018,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,249
+966,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,152
+967,2015,Crimes Against the Person,Burglary,N/A,F,Adult,25 to 34,91
+968,2021,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,21
+969,2019,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,168
+970,2020,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,433
+971,2020,Crimes Against the Person,Burglary,N/A,F,Adult,55 to 64,278
+972,2020,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,121
+973,2015,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,109
+974,2019,Crimes Against the Person,Other,N/A,M,Child,<12,35
+975,2023,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,51
+976,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,140
+977,2019,Crimes Against the Person,Theft,N/A,F,Adult,45 to 54,177
+978,2021,Crimes Against the Person,Theft,N/A,M,Adult,55 to 64,237
+979,2021,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,396
+980,2020,Crimes Against the Person,Theft,N/A,F,Adult,55 to 64,376
+981,2023,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,108
+982,2023,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,365
+983,2020,Crimes Against the Person,Theft,N/A,F,Child,<12,402
+984,2020,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,244
+985,2015,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,400
+986,2023,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,229
+987,2016,Crimes Against the Person,Burglary,N/A,F,Child,<12,247
+988,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,391
+989,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Unknown,Unknown,112
+990,2015,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,424
+991,2022,Crimes Against the Person,Theft,N/A,F,Adult,18 to 24,55
+992,2014,Crimes Against the Person,Other,N/A,U,Child,<12,287
+993,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,65+,378
+994,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Child,<12,10
+995,2015,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,14
+996,2020,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,195
+997,2021,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,109
+998,2014,Crimes Against the Person,Theft,N/A,F,Child,<12,403
+999,2014,Crimes Against the Person,Burglary,N/A,U,Adult,35 to 44,277
+1000,2020,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,454
+1001,2023,Crimes Against the Person,Assault,Assault Peace Officer,U,Youth,12 to 17,232
+1002,2014,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,317
+1003,2018,Crimes Against the Person,Burglary,N/A,F,Child,<12,338
+1004,2020,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,279
+1005,2015,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,472
+1006,2019,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,157
+1007,2016,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,275
+1008,2022,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,319
+1009,2022,Crimes Against the Person,Assault,Assault Resist Arrest,F,Adult,65+,184
+1010,2017,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,273
+1011,2014,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,135
+1012,2023,Crimes Against the Person,Other,N/A,M,Child,<12,41
+1013,2021,Crimes Against the Person,Other,N/A,M,Child,<12,49
+1014,2020,Crimes Against the Person,Burglary,N/A,M,Adult,65+,159
+1015,2022,Crimes Against the Person,Other,N/A,U,Child,<12,127
+1016,2020,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,65+,465
+1017,2018,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,186
+1018,2023,Crimes Against the Person,Theft,N/A,M,Child,<12,400
+1019,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Unknown,Unknown,426
+1020,2015,Crimes Against the Person,Theft,N/A,U,Child,<12,114
+1021,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,18 to 24,146
+1022,2016,Crimes Against the Person,Theft,N/A,F,Adult,25 to 34,54
+1023,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Unknown,Unknown,183
+1024,2015,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,404
+1025,2021,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,79
+1026,2014,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,424
+1027,2019,Crimes Against the Person,Burglary,N/A,F,Adult,55 to 64,4
+1028,2017,Crimes Against the Person,Assault,Assault Peace Officer,F,Child,<12,464
+1029,2023,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,302
+1030,2019,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Unknown,Unknown,107
+1031,2021,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,158
+1032,2021,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,282
+1033,2019,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,99
+1034,2022,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,36
+1035,2017,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,137
+1036,2023,Crimes Against the Person,Burglary,N/A,U,Child,<12,348
+1037,2015,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,332
+1038,2021,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,44
+1039,2021,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,108
+1040,2020,Crimes Against the Person,Other,N/A,M,Unknown,Unknown,471
+1041,2020,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,280
+1042,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Youth,12 to 17,144
+1043,2021,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,122
+1044,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,257
+1045,2017,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Adult,55 to 64,132
+1046,2019,Crimes Against the Person,Theft,N/A,U,Child,<12,324
+1047,2017,Crimes Against the Person,Theft,N/A,F,Child,<12,55
+1048,2016,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,493
+1049,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Adult,35 to 44,447
+1050,2023,Crimes Against the Person,Theft,N/A,M,Adult,18 to 24,88
+1051,2016,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,45 to 54,91
+1052,2017,Crimes Against the Person,Theft,N/A,M,Adult,25 to 34,295
+1053,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Child,<12,462
+1054,2018,Crimes Against the Person,Other,N/A,F,Adult,55 to 64,239
+1055,2019,Crimes Against the Person,Burglary,N/A,M,Child,<12,204
+1056,2017,Crimes Against the Person,Other,N/A,U,Child,<12,452
+1057,2014,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,219
+1058,2018,Crimes Against the Person,Theft,N/A,F,Child,<12,297
+1059,2018,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,331
+1060,2022,Crimes Against the Person,Theft,N/A,F,Child,<12,138
+1061,2019,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,11
+1062,2015,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,154
+1063,2019,Crimes Against the Person,Theft,N/A,F,Child,<12,289
+1064,2017,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,454
+1065,2019,Crimes Against the Person,Burglary,N/A,F,Adult,18 to 24,110
+1066,2018,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,38
+1067,2019,Crimes Against the Person,Other,N/A,M,Adult,45 to 54,366
+1068,2015,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,220
+1069,2023,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,54
+1070,2018,Crimes Against the Person,Other,N/A,F,Child,<12,43
+1071,2019,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,1
+1072,2016,Crimes Against the Person,Assault,Assault Peace Officer,M,Unknown,Unknown,470
+1073,2019,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,65
+1074,2015,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,170
+1075,2023,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,228
+1076,2020,Crimes Against the Person,Theft,N/A,U,Adult,18 to 24,191
+1077,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Unknown,Unknown,204
+1078,2019,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,439
+1079,2022,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Adult,55 to 64,375
+1080,2017,Crimes Against the Person,Burglary,N/A,M,Adult,18 to 24,438
+1081,2019,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,169
+1082,2021,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,427
+1083,2015,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,18
+1084,2021,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,82
+1085,2022,Crimes Against the Person,Other,N/A,F,Child,<12,3
+1086,2023,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,460
+1087,2018,Crimes Against the Person,Assault,Assault Resist Arrest,M,Unknown,Unknown,192
+1088,2019,Crimes Against the Person,Assault,Assault Peace Officer,F,Child,<12,173
+1089,2019,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Adult,55 to 64,355
+1090,2018,Crimes Against the Person,Theft,N/A,F,Child,<12,405
+1091,2019,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,235
+1092,2018,Crimes Against the Person,Assault,Assault Resist Arrest,U,Adult,18 to 24,98
+1093,2014,Crimes Against the Person,Theft,N/A,F,Adult,55 to 64,82
+1094,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Adult,65+,316
+1095,2019,Crimes Against the Person,Burglary,N/A,M,Adult,35 to 44,2
+1096,2016,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,373
+1097,2019,Crimes Against the Person,Theft,N/A,M,Adult,65+,485
+1098,2014,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,410
+1099,2019,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,362
+1100,2016,Crimes Against the Person,Other,N/A,U,Child,<12,498
+1101,2017,Crimes Against the Person,Assault,Assault Peace Officer,M,Child,<12,34
+1102,2020,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,348
+1103,2015,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,305
+1104,2016,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,223
+1105,2016,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,229
+1106,2020,Crimes Against the Person,Assault,Assault Peace Officer,F,Youth,12 to 17,180
+1107,2018,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Child,<12,111
+1108,2019,Crimes Against the Person,Assault,Assault Peace Officer,F,Youth,12 to 17,56
+1109,2022,Crimes Against the Person,Assault,Assault Resist Arrest,M,Adult,25 to 34,495
+1110,2018,Crimes Against the Person,Other,N/A,U,Child,<12,201
+1111,2014,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,176
+1112,2017,Crimes Against the Person,Assault,Assault Resist Arrest,U,Unknown,Unknown,216
+1113,2022,Crimes Against the Person,Theft,N/A,F,Adult,18 to 24,296
+1114,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,268
+1115,2017,Crimes Against the Person,Assault,Assault Peace Officer,M,Youth,12 to 17,160
+1116,2023,Crimes Against the Person,Theft,N/A,F,Child,<12,242
+1117,2016,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,142
+1118,2016,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,470
+1119,2021,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,213
+1120,2023,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,236
+1121,2023,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Adult,18 to 24,248
+1122,2021,Crimes Against the Person,Other,N/A,U,Adult,65+,139
+1123,2020,Crimes Against the Person,Other,N/A,F,Child,<12,230
+1124,2018,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,427
+1125,2017,Crimes Against the Person,Theft,N/A,M,Adult,35 to 44,389
+1126,2021,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,151
+1127,2015,Crimes Against the Person,Burglary,N/A,M,Adult,45 to 54,388
+1128,2019,Crimes Against the Person,Burglary,N/A,F,Adult,18 to 24,35
+1129,2021,Crimes Against the Person,Assault,Assault Peace Officer,M,Youth,12 to 17,176
+1130,2019,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,162
+1131,2021,Crimes Against the Person,Theft,N/A,U,Adult,35 to 44,325
+1132,2014,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,265
+1133,2017,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,343
+1134,2020,Crimes Against the Person,Theft,N/A,M,Adult,25 to 34,384
+1135,2023,Crimes Against the Person,Burglary,N/A,M,Youth,12 to 17,481
+1136,2017,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,234
+1137,2020,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,60
+1138,2017,Crimes Against the Person,Burglary,N/A,U,Child,<12,285
+1139,2017,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,385
+1140,2015,Crimes Against the Person,Assault,Assault Resist Arrest,M,Unknown,Unknown,423
+1141,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,335
+1142,2021,Crimes Against the Person,Assault,Assault Resist Arrest,F,Unknown,Unknown,358
+1143,2017,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,394
+1144,2022,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,419
+1145,2018,Crimes Against the Person,Other,N/A,M,Child,<12,245
+1146,2014,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Unknown,Unknown,394
+1147,2016,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,46
+1148,2020,Crimes Against the Person,Theft,N/A,U,Adult,45 to 54,235
+1149,2016,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Adult,35 to 44,354
+1150,2019,Crimes Against the Person,Other,N/A,M,Adult,18 to 24,497
+1151,2016,Crimes Against the Person,Theft,N/A,M,Adult,18 to 24,210
+1152,2015,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,204
+1153,2018,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Youth,12 to 17,278
+1154,2022,Crimes Against the Person,Assault,Assault Peace Officer,U,Child,<12,202
+1155,2018,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,281
+1156,2022,Crimes Against the Person,Theft,N/A,U,Unknown,Unknown,241
+1157,2019,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,158
+1158,2021,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,26
+1159,2019,Crimes Against the Person,Assault,Assault Peace Officer,U,Child,<12,73
+1160,2022,Crimes Against the Person,Burglary,N/A,F,Child,<12,385
+1161,2018,Crimes Against the Person,Burglary,N/A,U,Child,<12,449
+1162,2021,Crimes Against the Person,Burglary,N/A,U,Child,<12,392
+1163,2022,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,454
+1164,2017,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Adult,18 to 24,447
+1165,2021,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,18
+1166,2022,Crimes Against the Person,Burglary,N/A,U,Adult,45 to 54,112
+1167,2023,Crimes Against the Person,Theft,N/A,M,Unknown,Unknown,377
+1168,2017,Crimes Against the Person,Burglary,N/A,F,Adult,65+,121
+1169,2021,Crimes Against the Person,Theft,N/A,M,Adult,25 to 34,337
+1170,2019,Crimes Against the Person,Assault,Assault Resist Arrest,M,Unknown,Unknown,266
+1171,2023,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Adult,45 to 54,285
+1172,2020,Crimes Against the Person,Other,N/A,U,Adult,65+,421
+1173,2022,Crimes Against the Person,Assault,Aggravated Peace Officer,F,Adult,65+,109
+1174,2019,Crimes Against the Person,Theft,N/A,M,Child,<12,109
+1175,2018,Crimes Against the Person,Theft,N/A,F,Adult,25 to 34,483
+1176,2023,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,334
+1177,2015,Crimes Against the Person,Burglary,N/A,U,Adult,25 to 34,377
+1178,2014,Crimes Against the Person,Burglary,N/A,M,Unknown,Unknown,219
+1179,2020,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,382
+1180,2023,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,490
+1181,2021,Crimes Against the Person,Other,N/A,U,Adult,35 to 44,387
+1182,2015,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,102
+1183,2021,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,477
+1184,2015,Crimes Against the Person,Other,N/A,F,Unknown,Unknown,365
+1185,2014,Crimes Against the Person,Assault,Assault Peace Officer,U,Adult,18 to 24,243
+1186,2016,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,81
+1187,2023,Crimes Against the Person,Theft,N/A,F,Child,<12,160
+1188,2021,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Unknown,Unknown,390
+1189,2015,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,188
+1190,2016,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,467
+1191,2017,Crimes Against the Person,Theft,N/A,M,Child,<12,480
+1192,2015,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,223
+1193,2019,Crimes Against the Person,Assault,Assault Peace Officer,F,Unknown,Unknown,222
+1194,2015,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Youth,12 to 17,440
+1195,2019,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,244
+1196,2017,Crimes Against the Person,Theft,N/A,M,Adult,45 to 54,448
+1197,2015,Crimes Against the Person,Assault,Assault Resist Arrest,F,Child,<12,331
+1198,2015,Crimes Against the Person,Burglary,N/A,F,Child,<12,153
+1199,2022,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,133
+1200,2021,Crimes Against the Person,Burglary,N/A,M,Adult,35 to 44,338
+1201,2021,Crimes Against the Person,Burglary,N/A,F,Child,<12,439
+1202,2016,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,281
+1203,2021,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,436
+1204,2023,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,353
+1205,2022,Crimes Against the Person,Burglary,N/A,M,Adult,35 to 44,223
+1206,2020,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,F,Youth,12 to 17,64
+1207,2015,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,266
+1208,2014,Crimes Against the Person,Theft,N/A,F,Child,<12,357
+1209,2015,Crimes Against the Person,Theft,N/A,M,Adult,45 to 54,15
+1210,2016,Crimes Against the Person,Theft,N/A,F,Youth,12 to 17,273
+1211,2015,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,189
+1212,2021,Crimes Against the Person,Assault,Assault Resist Arrest,M,Child,<12,249
+1213,2014,Crimes Against the Person,Burglary,N/A,U,Child,<12,499
+1214,2022,Crimes Against the Person,Burglary,N/A,F,Unknown,Unknown,339
+1215,2019,Crimes Against the Person,Other,N/A,U,Unknown,Unknown,368
+1216,2016,Crimes Against the Person,Burglary,N/A,U,Youth,12 to 17,250
+1217,2020,Crimes Against the Person,Theft,N/A,U,Youth,12 to 17,11
+1218,2022,Crimes Against the Person,Theft,N/A,F,Unknown,Unknown,172
+1219,2017,Crimes Against the Person,Other,N/A,M,Youth,12 to 17,72
+1220,2021,Crimes Against the Person,Assault,Assault Peace Officer,F,Adult,25 to 34,316
+1221,2015,Crimes Against the Person,Theft,N/A,M,Adult,18 to 24,235
+1222,2016,Crimes Against the Person,Other,N/A,F,Adult,25 to 34,17
+1223,2015,Crimes Against the Person,Assault,Assault Resist Arrest,M,Youth,12 to 17,336
+1224,2023,Crimes Against the Person,Assault,Assault Resist Arrest,M,Adult,25 to 34,43
+1225,2021,Crimes Against the Person,Burglary,N/A,M,Adult,55 to 64,38
+1226,2019,Crimes Against the Person,Theft,N/A,U,Child,<12,242
+1227,2014,Crimes Against the Person,Other,N/A,F,Youth,12 to 17,314
+1228,2020,Crimes Against the Person,Other,N/A,U,Youth,12 to 17,438
+1229,2023,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,U,Child,<12,487
+1230,2015,Crimes Against the Person,Assault,Assault Peace Officer,M,Youth,12 to 17,105
+1231,2015,Crimes Against the Person,Burglary,N/A,U,Unknown,Unknown,69
+1232,2015,Crimes Against the Person,Assault,Assault Peace Officer Weapon/Bodily Harm,M,Unknown,Unknown,93
+1233,2014,Crimes Against the Person,Other,N/A,U,Adult,25 to 34,356
+1234,2018,Crimes Against the Person,Theft,N/A,M,Adult,35 to 44,435
+1235,2018,Crimes Against the Person,Other,N/A,M,Adult,18 to 24,355
+1236,2023,Crimes Against the Person,Burglary,N/A,F,Youth,12 to 17,489
+1237,2015,Crimes Against the Person,Assault,Assault Peace Officer,U,Unknown,Unknown,123
+1238,2023,Crimes Against the Person,Assault,Aggravated Peace Officer,U,Youth,12 to 17,496
+1239,2023,Crimes Against the Person,Burglary,N/A,F,Adult,65+,77
+1240,2014,Crimes Against the Person,Burglary,N/A,F,Child,<12,460
+1241,2020,Crimes Against the Person,Other,N/A,U,Child,<12,304
+1242,2018,Crimes Against the Person,Assault,Aggravated Peace Officer,M,Youth,12 to 17,498
+1243,2023,Crimes Against the Person,Theft,N/A,M,Youth,12 to 17,64
+1244,2018,Crimes Against the Person,Burglary,N/A,U,Adult,55 to 64,151
