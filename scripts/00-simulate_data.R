@@ -1,38 +1,68 @@
 #### Preamble ####
 # Purpose: Simulates data
-# Author: Rohan Alexander
-# Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Author: Kevin Roe
+# Date: 21 September 2024
+# Contact: kevin.roe@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: None
 # Any other information needed? None
 
 
 #### Workspace setup ####
+
+# install.packages("tidyverse")
 library(tidyverse)
 
 
 #### Simulate data ####
-set.seed(304)
+set.seed(369)
 
-# Define the start and end date
-start_date <- as.Date("2018-01-01")
-end_date <- as.Date("2023-12-31")
-
-# Set the number of random dates you want to generate
-number_of_dates <- 100
-
-data <-
+data <- 
   tibble(
-    dates = as.Date(
-      runif(
-        n = number_of_dates,
-        min = as.numeric(start_date),
-        max = as.numeric(end_date)
-      ),
-      origin = "1970-01-01"
+    # Use 1 through to 1244 to represent unique IDs
+    "id" = 1:1244,
+    
+    # Randomly assign years
+    "report_year" = sample(2014:2023, size = 1244, replace = TRUE),
+    
+    # Set category to "Crimes Against the Person" for all rows
+    "category" = "Crimes Against the Person",
+    
+    # Randomly pick subtypes
+    "subtype" = sample(c("Assault", "Theft", "Burglary", "Other"), size = 1244, 
+                       replace = TRUE),
+    
+    # Randomly assign assault_subtype and N/A to other crimes
+    "assault_subtype" = case_when("subtype" =="Assault" ~
+                                    sample(c("Assault Peace Officer", 
+                                             "Assault Resist Arrest", 
+                                             "Assault Peace Officer Weapon/Bodily Harm", 
+                                             "Aggravated Peace Officer"), 
+                                           size = 1244, replace = TRUE), 
+                                  TRUE ~ "N/A"),
+    
+    # Randomly assign sex 
+    "sex" = sample(c("M", "F", "U"), size = 1244, replace = TRUE), 
+    
+    # Randomly assign age_group
+    "age_group" = sample(c("Adult", "Unknown", "Child", "Youth"), size = 151, 
+                         replace = TRUE),
+    
+    # Assign age_cohort based on age_group
+    "age_cohort" = case_when(
+      "age_group" == "Child"   ~ "<12",
+      "age_group" == "Unknown" ~ "Unknown",
+      "age_group" == "Youth"   ~ "12 to 17",
+      "age_group" == "Adult"   ~ sample(c("18 to 24", "25 to 34", 
+                                          "35 to 44", "45 to 54", 
+                                          "55 to 64", "65+"), 
+                                        size = 151, replace = TRUE)
     ),
-    number_of_marriage = rpois(n = number_of_dates, lambda = 15)
+  
+    
+  
+    # Randomly generate count values (based on reasonable estimates from data)
+    "count" = sample(1:500, size = 1244, replace = TRUE)
   )
 
 
