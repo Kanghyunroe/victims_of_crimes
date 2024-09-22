@@ -45,7 +45,7 @@ data <-
     "sex" = sample(c("M", "F", "U"), size = 1244, replace = TRUE), 
     
     # Randomly assign age_group
-    "age_group" = sample(c("Adult", "Unknown", "Child", "Youth"), size = 151, 
+    "age_group" = sample(c("Adult", "Unknown", "Child", "Youth"), size = 1244, 
                          replace = TRUE),
     
     # Assign age_cohort based on age_group
@@ -56,7 +56,7 @@ data <-
       "age_group" == "Adult"   ~ sample(c("18 to 24", "25 to 34", 
                                           "35 to 44", "45 to 54", 
                                           "55 to 64", "65+"), 
-                                        size = 151, replace = TRUE)
+                                        size = 1244, replace = TRUE)
     ),
   
     
