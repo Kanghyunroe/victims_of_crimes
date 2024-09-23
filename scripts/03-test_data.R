@@ -1,7 +1,7 @@
 #### Preamble ####
-# Purpose: Sanity check of the data
-# Author: Rohan Alexander
-# Date: 19 September 2024
+# Purpose: Check Victims of Crime Data for Any Issues 
+# Author: Kevin Roe
+# Date: 22 September 2024
 # Contact: rohan.alexander@utoronto.ca
 # License: MIT
 # Pre-requisites: Need to have simulated data
@@ -11,15 +11,16 @@
 #### Workspace setup ####
 library(tidyverse)
 
-
 #### Test data ####
 data <- read_csv("data/raw_data/simulated.csv")
 
 # Test for negative numbers
-data$number_of_marriage |> min() <= 0
+data$count |> min() <= 0
 
 # Test for NAs
-all(is.na(data$number_of_marriage))
+all(is.na(data$count))
+all(is.na(data$AssaultType))
+
 
 
 
