@@ -2,7 +2,7 @@
 # Purpose: Check Victims of Crime Data for Any Issues 
 # Author: Kevin Roe
 # Date: 22 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Contact: kevin.roe@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: Need to have simulated data
 # Any other information needed? None.
