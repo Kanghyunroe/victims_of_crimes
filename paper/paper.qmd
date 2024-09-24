@@ -1,88 +1,226 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Analysis of Crime Victims by Type and Gender from 2014 to 2023"
 author: 
-  - Rohan Alexander
-thanks: "Code and data are available at: LINK."
+  - Kevin Roe
+thanks: "All data, R code, and other files are available in the following GitHub repository: <https://github.com/Kanghyunroe/victims_of_crimes/tree/master>"
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "This paper analyzes data from the Police Annual Statistical Report – Victims of Crime for the years 2014 to 2023 in the City of Toronto. The paper reveals there are 2% more male victims overall, but women are disproportionately affected in certain crime categories: female victims outnumber males by 78 percentage points in sexual crimes and by 9 percentage points in other crimes. These differences show how vulnerability to specific crimes varies by sex. Further research should focus on victims of fatal crimes to explore these disparities."
 format: pdf
 number-sections: true
+toc: true
 bibliography: references.bib
 ---
+
+```{r}
+#| echo: false
+#| warning: false
+#### Preamble ####
+
+# Purpose: Generates a paper titled "Analysis of Crime Victims by Type and gender from 2014 to 2023" in PDF format when rendered.
+# Author: Kevin Roe
+# Date: 24 September 2024
+# Contact: kevin.roe@mail.utoronto.ca
+# License: MIT
+# Pre-requisites: Run the files "01-download_data.R" and "02-data_cleaning.R"
+# Any other information needed? None.
+```
+
 
 ```{r}
 #| include: false
 #| warning: false
 #| message: false
 
+#### Loading packages ####
+#install.packages("scales")
+#install.packages("tidyverse")
+# You can and should cross-reference sections and sub-sections. We use @talia, @opendatatorotno, and @rohan.
+# The remainder of this paper is structured as follows. @sec-mydatasection
 library(tidyverse)
+library(ggplot2)
+library(scales)
 
-data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
+cleaned_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
 ```
 
+# Introduction {#sec-introduction}
 
-# Introduction
+In every society, keeping crime at a minimum has been a critical priority. Notably, certain demographic groups have been more affected by crime than others. For example, in the United States in 2008, there were a greater number of female nonfatal violent domestic violence victims than male ones (Catalano et al.). Similarly, Toronto is no exception to this phenomenon. The City of Toronto notes that certain groups of people are more susceptible to Gender-based violence than others.
 
-You can and should cross-reference sections and sub-sections. We use @talia, @opendatatorotno, and @rohan.
+In this paper, I analyze the number of crime victims by sex in Toronto from 2014 to 2023. I categorize crime into four different areas: Assault, Sexual Violation, Robbery, and Other. Furthermore, assault is further broken down into different types of assault noted by the Toronto Police Department: assault on a peace officer, aggravated assault on a peace officer, resisting arrest, and assault on a peace officer with a weapon. We find that there are more female victims of sexual crimes and other broad crimes than men, there are more male victims for non-fatal crimes such as assault or robbery. 
 
-The remainder of this paper is structured as follows. @sec-mydatasection
+The remainder of the paper is structured as follows: Section 2 discusses the data; Section 3 presents the results; and Section 4 discusses our findings and highlights key weaknesses in the study.  
 
+# Data {#sec-data}
 
+## Overview {#sec-data-overview}
 
-# Data {#sec-mydatasection}
+This dataset, “Police Annual Statistical Report – Victims of Crime”, was published and refreshed on August 2nd, 2024, by the Toronto Police Services. The Toronto Police Service publishes various datasets on public safety to inform the public with information regarding public safety and self-awareness. Following the Municipal Freedom of Information and Protection of Privacy Act, the Toronto Police Service ensured to also protect the privacy of individuals involved in the reported crimes.  The dataset is updated annually, is open data, and can be used if an attribution statement @sec-appendix-attribution and is properly cited (Insert Citation). 
 
-Some of our data is of penguins (@fig-marriage), from @palmerpenguins.
+The variables of interest in the paper are CrimeType (named “CATEGORY” in the original dataset), which categories the type of crime into the four areas of Assault, Sexual Violation, Robberty and Other; AssaultType (named “ASSAULT_SUBTYPE” in the original dataset), which specifies assault on peace officers into the subtypes noted in the Introduction (INSERT LINK); Sex (named “SEX” in the original dataset), which is broken down into Male, Female and Unknown, where Unknown means the victim’s sex is not known by the Toronto Police Service; and Count, which notes the number of identified victims who share the same demographic characteristics reported in the dataset. Other characteristics such as age group, reported year and age cohort were not included as the variables were beyond the scope of the paper. 
+
+The paper uses the R programming language (insert citation) to analyze the dataset. The 'tidyverse' package was used to simulate the dataset and generate tests. The 'tidyverse' (Citation) and 'opendatatoronto' (citation) packages were used to download the Victims of Crime dataset. Then, the 'tidyverse' package (citation) was to clean and test the raw dataset. Finally, 'ggplot2' (citation), 'tidyverse' (citation), and 'scales' (citation) packages were used to create data visualization figures to highlight the results.  
+
+## Results {#sec-data-results}
 
 ```{r}
-#| label: fig-marriage
-#| fig-cap: Bills of penguins
-#| echo: false
+#| include: false
+#| warning: false
+#| message: false
 
-data |> 
-  ggplot(aes(x = date, y = marriage_licenses)) +
-  geom_point()
+#### Load cleaned dataset ####
+
+cleaned_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
 ```
 
-Talk more about it.
+After loading the dataset using the R programming language (citation), I used the 'tidyverse' (citation) package, and the 'ggplot2' (citation) package. The R code to do so was adapted from Alexander (insert citation).
 
-And also planes (@fig-planes). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
+```{r}
+#| echo: false
+#| warning: false
 
+#### Organizing data for graph use ####
+summary <- cleaned_data %>%
+  group_by(Sex) %>%
+  summarise(Victims_of_Crimes = sum(Count))
 
+```
 
+```{r}
+#| label: fig-total
+#| fig-cap: Victims of Crimes by Sex from 2014 to 2023
+#| echo: false
+#| warning: false
 
+#### First Graph ####
+ggplot(summary, aes(x = Sex, y = Victims_of_Crimes, fill = Sex)) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = Victims_of_Crimes),
+            position = position_dodge(width = 0.9),
+            vjust = -0.2,
+            size = 3.5) +
+  labs(x = "Sex",
+       y = "Victims of Crimes") +
+  scale_y_continuous(labels = comma) +
+  theme_classic()
+
+```
+
+@fig-total shows that there are 137,527 male victims of crime from 2014 to 2023 and 134726 female ones, representing  a difference of 2,801 people or 2.1\%. @fig-total shows that there are more male crime victims than female ones, albeit the difference does not seem to be economically significant.  
+
+\newpage
+
+```{r}
+#| echo: false
+#| warning: false
+
+#### Organizing information for graphical use ####
+summary_crime <- cleaned_data %>%
+  group_by(CrimeType, Sex) %>%
+  summarise(Victims_of_Crimes = sum(Count)) %>%
+  ungroup() %>%
+  mutate(CrimeType = fct_relevel(CrimeType, setdiff(unique(CrimeType), "Other"),
+                                           "Other"))
+```
+
+```{r}
+#| label: fig-crimetype
+#| fig-cap: Breakdown of Different Categories of Crime by Gender from 2014 to 2023
+#| echo: false
+#| warning: false
+
+#### Second Graph ####
+ggplot(summary_crime, aes(x = CrimeType, y = Victims_of_Crimes, fill = Sex)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  geom_text(aes(label = Victims_of_Crimes),
+            position = position_dodge(width = 0.9),
+            vjust = -0.2,
+            size = 2.5) +
+  labs(x = "Crime Type", 
+       y = "Number of Victims") +
+  scale_y_continuous(labels = comma) +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust =1))
+
+```
+
+@fig-crimetype shows that while there are more assault and robbery male victims, the number of female victims for sexual crimes and other crimes remain significantly higher than male ones. Female victims outnumber males by 78 percentage points in sexual crimes and by 9 percentage points in other crimes. 
+
+\newpage
+
+```{r}
+#| echo: false
+#| warning: false
+
+#### Organizing information for graphical use ####
+cleaned_assault <- cleaned_data %>%
+  filter(AssaultType != "N/A")
+
+summary_assault <- cleaned_assault %>%
+  group_by(AssaultType, Sex) %>%
+  summarise(Victims_of_Crimes = sum(Count)) %>%
+  mutate(AssaultType = str_wrap(AssaultType, width = 15)) %>%
+  ungroup() %>%
+  mutate(AssaultType = fct_relevel(AssaultType, setdiff(unique(AssaultType), 
+                                                        "Other"), "Other"))
+```
+
+```{r}
+#| label: fig-assault
+#| fig-cap: Victims of Crimes by Assault Type from 2014 to 2023
+#| echo: false
+#| warning: false
+
+#### Third Graph ####
+ggplot(summary_assault, aes(x = AssaultType, y = Victims_of_Crimes, 
+                            fill = Sex)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  geom_text(aes(label = Victims_of_Crimes),
+            position = position_dodge(width = 0.9),
+            vjust = -0.2,
+            size = 2.5) +
+  labs(x = "Assault Type",
+       y = "Number of Victims") +
+  scale_y_continuous(labels = comma) +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust =1))
+
+```
+@fig-assault shows that diving deeper into the different crimes under assault shows that there are more male assault victims than female ones  across all types of assault, including different types of assault to a peace officer. 
+
+\newpage
 
 # Discussion
 
-## First discussion point {#sec-first-point}
+@fig-total showed that there were 2.1\% more reported male crime victims than female ones. However, when we break this down, the number of female victims outnumber males by 78 percentage points and 9 percentage points for sexual and other crimes, respectively. Further, when dissecting assault victims, we don’t see this same differential and there are more male victims than female ones. 
 
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
+Analyzing the data shows that vulnerability to specific crimes varies by sex. @fig-crimetype shows that women are more susceptible to gender-based violence such as sexual assault or harassment. According to Statistics Canada, approximately 4.7 million or 30\% of all women aged 15 or older have been sexually assaulted outside of an intimate relationship at least once. The data in figure 2 shows that from 2014 to 2023 there were 21,515 instances of sexual violence to women in the city of Toronto and only 3,181 for men, a disproportionate difference. 
 
-## Second discussion point
+However, @fig-crimetype shows that men are also more susceptible to being victims of assault, and robbery  compared to women. @fig-crimetype shows that, across the past nine years, there were 11,169 more male assault victims than female. When broken into different categories, @fig-assault highlights that there are more male victims across all subsections of assault than female. Because assault is the most common category of crime in Toronto, the 2\% difference between male and female victims in @fig-total is fueled by the difference underlined in the assault category. Overall, the data analyzed today shows that both sexes are susceptible to different crimes. While males represent a greater proportion of total crime victims, women are disproportionately affected in sexual crimes.  
 
-## Third discussion point
-
-## Weaknesses and next steps
-
-Weaknesses and next steps should also be included.
+When working with the dataset, there are a few limitations and next steps to keep in mind. First, the data may have some duplicates because the "Count"(INSERT CHANGE) variable could include the same person if they were victimized for the same offence during the same period. In addition, the dataset does not breakdown other into specific crimes under "CrimeType", making it difficult to analyze fatal victims of crime. Further research should look at if women or men are more susceptible to fatal crimes such as manslaughter or first-degree murder. 
 
 \newpage
 
 \appendix
 
-# Appendix {-}
+# Appendix {#sec-appendix}
 
+## Dataset and Graph Sketches {#sec-appendix-sketches}
 
-# Additional data details
+Sketches for the desired data set and the graphs are available in the GitHub Repository.
 
+## Data Cleaning Methodology {#sec-appendix-cleaning}
 
+Select columns from the raw data set were filtered out and data entries were renamed for simplicity.
+
+## Data Attribution Statement {#sec-appendix-attributiojn}
+
+"This data contains information licensed under the Open Government License - Toronto" (insert citation).
 
 \newpage
 
-
-# References
-
-
+# References (To be added) {#sec-references}
