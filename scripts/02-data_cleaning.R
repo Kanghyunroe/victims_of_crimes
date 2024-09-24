@@ -28,15 +28,28 @@ cleaned_data <-
          'AssaultType' = 'ASSAULT_SUBTYPE',
          'Sex' = 'SEX',
          'AgeGroup' = 'AGE_COHORT',
-         'Count' = 'COUNT_') |>
+         'Number of Victims' = 'COUNT_') |>
   
 # Rename Sex for clarity purposes
   mutate(Sex = case_when(
     Sex == "M" ~ "Male",
     Sex == "F" ~ "Female",
     Sex == "U" ~ "Unknown",
-    TRUE ~ "Unknown"  # Default case if none match
-  )) 
+    TRUE ~ "Unknown"
+  )) |>
+
+# Rename Assault Type for Clarity Purposes
+mutate(AssaultType = case_when(
+  AssaultType == "Assault Peace Officer" ~ "Assault on a Peace Officer",
+  AssaultType == "Assault Resist Arrest" ~ "Resisting Arrest",
+  AssaultType == "Other" ~ "Other",
+  AssaultType == "N/A" ~ "N/A",
+  AssaultType == "Assault Peace Officer Weapon/Bodily Harm" ~ 
+    "Assaulting a Peace Officer with a Weapon",
+  AssaultType == "Aggravated Peace Officer" ~ 
+    "Aggravated Assault on a Peace Officer",
+  TRUE ~ AssaultType
+))
   
 #### Suppress the column type messages ####
 options(tibble.show_col_types = FALSE)
