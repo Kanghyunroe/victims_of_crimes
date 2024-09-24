@@ -27,7 +27,7 @@ cleaned_data <-
          'CrimeType' = 'SUBTYPE',
          'AssaultType' = 'ASSAULT_SUBTYPE',
          'Sex' = 'SEX',
-         'Number of Victims' = 'COUNT_') |>
+         'Count' = 'COUNT_') |>
   
 # Rename Sex for clarity purposes
   mutate(Sex = case_when(
