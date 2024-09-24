@@ -39,8 +39,8 @@ cleaned_data <-
 
 # Rename Assault Type for Clarity Purposes
 mutate(AssaultType = case_when(
-  AssaultType == "Assault Peace Officer" ~ "Assault on a Peace Officer",
-  AssaultType == "Assault Resist Arrest" ~ "Resisting Arrest",
+  AssaultType == "Assault Peace Officer" ~ "Assault Peace Officer",
+  AssaultType == "Assault Resist Arrest" ~ "Assault While Resisting Arrest",
   AssaultType == "Other" ~ "Other",
   AssaultType == "N/A" ~ "N/A",
   AssaultType == "Assault Peace Officer Weapon/Bodily Harm" ~ 
