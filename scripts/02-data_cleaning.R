@@ -19,7 +19,7 @@ cleaned_data <-
   
   # Only include the columns of interest 
   select('_id','REPORT_YEAR','SUBTYPE','ASSAULT_SUBTYPE','SEX',
-         'AGE_COHORT','COUNT_') |>
+         'COUNT_') |>
   
   # Rename column headers for clarity
   rename('id' = '_id',
@@ -27,7 +27,6 @@ cleaned_data <-
          'CrimeType' = 'SUBTYPE',
          'AssaultType' = 'ASSAULT_SUBTYPE',
          'Sex' = 'SEX',
-         'AgeGroup' = 'AGE_COHORT',
          'Number of Victims' = 'COUNT_') |>
   
 # Rename Sex for clarity purposes
