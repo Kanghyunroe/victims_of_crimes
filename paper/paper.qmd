@@ -137,7 +137,7 @@ summary_crime <- cleaned_data %>%
 ggplot(summary_crime, aes(x = CrimeType, y = Victims_of_Crimes, fill = Sex)) +
   geom_bar(stat = "identity", position = "dodge") +
   geom_text(aes(label = Victims_of_Crimes),
-            position = position_dodge(width = 0.9),
+            position = position_dodge(width = 0.95),
             vjust = -0.2,
             size = 2.5) +
   labs(x = "Crime Type", 
@@ -180,7 +180,7 @@ ggplot(summary_assault, aes(x = AssaultType, y = Victims_of_Crimes,
                             fill = Sex)) +
   geom_bar(stat = "identity", position = "dodge") +
   geom_text(aes(label = Victims_of_Crimes),
-            position = position_dodge(width = 0.9),
+            position = position_dodge(width = 1.05),
             vjust = -0.2,
             size = 2.5) +
   labs(x = "Assault Type",
@@ -226,7 +226,7 @@ Select columns from the raw data set were filtered out and data entries were ren
 
 ```{r}
 #| label: tbl-head
-#| tbl-cap: First 5 rows of cleaned data 
+#| tbl-cap: First 5 Rows of Cleaned Data 
 #| echo: false
 #| warning: false
 #| message: false
