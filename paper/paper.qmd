@@ -1,5 +1,5 @@
 ---
-title: "Analysis of Crime Victims by Type and Gender from 2014 to 2023"
+title: "Who are Toronto’s Crime Victims? A Gender and Crime Type Analysis from 2014 to 2023"
 author: 
   - Kevin Roe
 thanks: "All data, R code, and other files are available in the following GitHub repository: <https://github.com/Kanghyunroe/victims_of_crimes/tree/master>"
@@ -40,6 +40,7 @@ bibliography: references.bib
 library(tidyverse)
 library(ggplot2)
 library(scales)
+library(knitr)
 
 cleaned_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
@@ -220,6 +221,27 @@ Select columns from the raw data set were filtered out and data entries were ren
 ## Data Attribution Statement {#sec-appendix-attribution}
 
 "This data contains information licensed under the Open Government License - Toronto" (insert citation).
+
+## Data Sample {#sec-appendix-sample}
+
+```{r}
+#| label: tbl-head
+#| tbl-cap: First 5 rows of cleaned data 
+#| echo: false
+#| warning: false
+#| message: false
+
+#### Table Example ####
+cleaned_data |>
+  slice(1:5) |>
+  kable(
+    digits = 1,
+    booktabs = TRUE,
+    linesep = ""
+  )
+
+```
+
 
 \newpage
 
