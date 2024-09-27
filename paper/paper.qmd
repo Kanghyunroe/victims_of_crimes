@@ -5,7 +5,7 @@ author:
 thanks: "All data, R code, and other files are available in the following GitHub repository: <https://github.com/Kanghyunroe/victims_of_crimes/tree/master>"
 date: today
 date-format: long
-abstract: "This paper analyzes data from the Police Annual Statistical Report – Victims of Crime for the years 2014 to 2023 in the City of Toronto. The paper reveals there are 2% more male victims overall, but women are disproportionately affected in certain crime categories: female victims outnumber males by 78 percentage points in sexual crimes and by 9 percentage points in other crimes. These differences show how vulnerability to specific crimes varies by sex. Further research should focus on victims of fatal crimes to explore these disparities."
+abstract: "This paper analyzes data from the Toronto Police Service's Annual Statistical Reporton Crime Victims from 2014 to 2023, focusing on the relationship between sex and crime victimization in the city. The paper reveals there are 2% more male victims overall, but women are disproportionately affected in certain crime categories: female victims outnumber males by 78% in sexual crimes and by 9% in other crimes. These findings highlight how vulnerability to certain crimes is influenced by sex, underscoring the need for targeted policy interventions to strengthen victim support services. Further research should focus on victims of fatal crimes, particularly those linked to Intimate Partner Violence (IPV)."
 format: pdf
 number-sections: true
 toc: true
@@ -17,7 +17,7 @@ bibliography: references.bib
 #| warning: false
 #### Preamble ####
 
-# Purpose: Generates a paper titled "Analysis of Crime Victims by Type and gender from 2014 to 2023" in PDF format when rendered.
+# Purpose: Generates a paper titled "Who are Toronto’s Crime Victims? A Gender and Crime Type Analysis from 2014 to 2023" in PDF format when rendered.
 # Author: Kevin Roe
 # Date: 24 September 2024
 # Contact: kevin.roe@mail.utoronto.ca
@@ -35,9 +35,12 @@ bibliography: references.bib
 #### Loading packages ####
 #install.packages("scales")
 #install.packages("tidyverse")
-# You can and should cross-reference sections and sub-sections. We use @talia, @opendatatorotno, and @rohan.
-# The remainder of this paper is structured as follows. @sec-mydatasection
+#install.packages("ggplot2")
+#install.packages("here")
+#install.packages("knitr)
+
 library(tidyverse)
+library(here)
 library(ggplot2)
 library(scales)
 library(knitr)
@@ -48,21 +51,26 @@ cleaned_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
 # Introduction {#sec-introduction}
 
-In every society, keeping crime at a minimum has been a critical priority. Notably, certain demographic groups have been more affected by crime than others. For example, in the United States in 2008, there were a greater number of female nonfatal violent domestic violence victims than male ones (Catalano et al. INSERT STATS). Similarly, Toronto is no exception to this phenomenon. The City of Toronto notes that certain groups of people are more susceptible to Gender-based violence than others.
+In every society, keeping crime at a minimum has been a critical priority. Notably, certain demographic groups have been more affected by crime than others. For example, in the United States in 2008, there were a greater number of female nonfatal violent domestic violence victims than male ones [@dojfemalevictims]. Similarly, Toronto is no exception to this phenomenon. The City of Toronto notes that certain groups of people are more susceptible to Gender-based violence than others.
+
+Similarly, Toronto is no exception to this. The City of Toronto notes that certain groups of people are more susceptible to Gender-based violence than others [@toronto_gbv]. While the relationship between one’s sex and crime has been studied at the national level, there have been no studies or reports specific to Toronto, leading the paper to explore this gap. For Toronto to develop effective policies and build robust victim support and recovery, it is important to analyze the disparities in the types of crimes the different sexes face [@canada_family_violence]. 
 
 In this paper, I analyze the number of crime victims by sex in Toronto from 2014 to 2023. I categorize crime into four different areas: Assault, Sexual Violation, Robbery, and Other. Furthermore, assault is further broken down into different types of assault noted by the Toronto Police Department: assault on a peace officer, aggravated assault on a peace officer, resisting arrest, and assault on a peace officer with a weapon. We find that there are more female victims of sexual crimes and other broad crimes than men, there are more male victims for non-fatal crimes such as assault or robbery. 
 
-The remainder of the paper is structured as follows: @sec-data-overview discusses the data; @sec-data-results presents the results; and @sec-discussion discusses our findings and highlights key weaknesses in the study.  
+The remainder of the paper is structured as follows: @sec-data-overview discusses the data and the relevant measurement methodologies; @sec-data-results presents the data's results; and @sec-discussion discusses our findings, highlights the implications of them, and notes any key weaknesses in the study. 
+
+\newpage
 
 # Data {#sec-data}
 
 ## Overview {#sec-data-overview}
 
-This dataset, “Police Annual Statistical Report – Victims of Crime”, was published and refreshed on August 2nd, 2024, by the Toronto Police Services. The Toronto Police Service publishes various datasets on public safety to inform the public with information regarding public safety and self-awareness. Following the Municipal Freedom of Information and Protection of Privacy Act, the Toronto Police Service ensured to also protect the privacy of individuals involved in the reported crimes.  The dataset is updated annually, is open data, and can be used if an attribution statement @sec-appendix-attribution and is properly cited (Insert Citation). 
+This dataset, “Police Annual Statistical Report – Victims of Crime”, was published and refreshed on August 2nd, 2024, by the Toronto Police Services [@victimsofcrime]. The Toronto Police Service publishes various datasets on public safety to inform the public with information regarding public safety and self-awareness [@annual_statistics_report]. Data on the victims of crime is part of the overall Toronto Police Service’s Annual Statistic Report and also reports on reported crimes, victims of crimes, search of persons, firearms, and the Police Service’s budget [@victimsofcrime]. The data is collected using historical arrest data in the City of Toronto to report on the victims age, reported year, gender, and their crime then counts the number of people who fit these categories into one entry.The Toronto Police Service publishes various datasets on public safety to inform the public with information regarding public safety and self-awareness [@victimsofcrime]. Following the Municipal Freedom of Information and Protection of Privacy Act, the Toronto Police Service ensured to also protect the privacy of individuals involved in the reported crimes.  The dataset is updated annually, is open data, and can be used if an attribution statement @sec-appendix-attribution and is properly cited [@tphlicense]. 
 
-The variables of interest in the paper are CrimeType (named “CATEGORY” in the original dataset), which categories the type of crime into the four areas of Assault, Sexual Violation, Robberty and Other; AssaultType (named “ASSAULT_SUBTYPE” in the original dataset), which specifies assault on peace officers into the subtypes noted in @sec-introduction; Sex (named “SEX” in the original dataset), which is broken down into Male, Female and Unknown, where Unknown means the victim’s sex is not known by the Toronto Police Service; and Count, which notes the number of identified victims who share the same demographic characteristics reported in the dataset. Other characteristics such as age group, reported year and age cohort were not included as the variables were beyond the scope of the paper. 
+The variables of interest in the paper are CrimeType (named SUBTYPE in the original dataset, which categories the type of crime into the four areas of Assault, Sexual Violation, Robbery and Other; AssaultType (named ASSAULT_SUBTYPE in the original dataset), which specifies assault on peace officers into the subtypes noted in @sec-introduction; Sex (named SEX in the original dataset), which is broken down into Male, Female and Unknown, where Unknown means the victim’s sex is not known by the Toronto Police Service; and Count (named COUNT in the original dataset), which counts the number of identified victims who share the same demographic characteristics previously. Each entry in the dataset does not represent a unique person but notes the numbre of people who share the same characteristics, such as Sex and CrimeType. Other characteristics such as age group, reported year and age cohort were not included as the variables were beyond the scope of the paper. Using knitr [@citeknitr], the first 10 lines of the dataset used for analysis is shown in @sec-appendix-sample under @tbl-head for clarity purposes.  
 
-The paper uses the R programming language [@citeR] to analyze the dataset. The 'tidyverse' package was used to simulate the dataset and generate tests. The 'tidyverse' (Citation) and 'opendatatoronto' [@opendatatoronto] packages were used to download the Victims of Crime dataset. Then, the 'tidyverse' package (citation) was to clean and test the raw dataset. Finally, 'ggplot2' (citation), 'tidyverse' (citation), and 'scales' (citation) packages were used to create data visualization figures to highlight the results.  
+The paper uses the R programming language [@citeR] to analyze the dataset. The tidyverse package was used to simulate the dataset and generate tests. The tidyverse [@citetidyverse] and opendatatoronto [@citeopendatatoronto] packages were used to download the Victims of Crime dataset. Then, the tidyverse[@citetidyverse] package was to clean and test the raw dataset. Finally, ggplot2 [@citeggplot2], tidyverse [@citetidyverse], knitr [@citeknitr] and scales [@citescales] packages were used to create the tables and graphs to highlight the results.
+\newpage
 
 ## Results {#sec-data-results}
 
@@ -77,7 +85,7 @@ cleaned_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
 
 ```
 
-After loading the dataset using the R programming language [@citeR], I used the 'tidyverse' (citation) package, and the 'ggplot2' (citation) package. The R code to do so was adapted from Alexander (insert citation).
+After loading the dataset using the R programming language [@citeR] and the here package [@citehere], I used the tidyverse [@citetidyverse] package, and the ggplot2 [@citeggplot2] package. The R code to do so was adapted from @tellingstorieswithdata.
 
 ```{r}
 #| echo: false
@@ -148,7 +156,7 @@ ggplot(summary_crime, aes(x = CrimeType, y = Victims_of_Crimes, fill = Sex)) +
 
 ```
 
-@fig-crimetype shows that while there are more assault and robbery male victims, the number of female victims for sexual crimes and other crimes remain significantly higher than male ones. Female victims outnumber males by 78 percentage points in sexual crimes and by 9 percentage points in other crimes. 
+@fig-crimetype shows that while there are more assault and robbery male victims, the number of female victims for sexual crimes and other crimes remain significantly higher than male ones. Female victims outnumber males by 78\% in sexual crimes and by around 9\% in other crimes. 
 
 \newpage
 
@@ -190,19 +198,27 @@ ggplot(summary_assault, aes(x = AssaultType, y = Victims_of_Crimes,
   theme(axis.text.x = element_text(angle = 45, hjust =1))
 
 ```
-@fig-assault shows that diving deeper into the different crimes under assault shows that there are more male assault victims than female ones  across all types of assault, including different types of assault to a peace officer. 
+@fig-assault shows that diving deeper into the different crimes under assault shows that there are more male assault victims than female ones  across all types of assault, including different types of assault to a peace officer. The specified assault categories are crimes to police officers and the Other subcategory is the more prevalent one compared to the others.   
 
 \newpage
 
 # Discussion {#sec-discussion}
 
-@fig-total showed that there were 2.1\% more reported male crime victims than female ones. However, when we break this down, the number of female victims outnumber males by 78 percentage points and 9 percentage points for sexual and other crimes, respectively. Further, when dissecting assault victims, we don’t see this same differential and there are more male victims than female ones. 
+## Main Findings {#sec-discussion-findings}
 
-Analyzing the data shows that vulnerability to specific crimes varies by sex. @fig-crimetype shows that women are more susceptible to gender-based violence such as sexual assault or harassment. According to Statistics Canada, approximately 4.7 million or 30\% of all women aged 15 or older have been sexually assaulted outside of an intimate relationship at least once. The data in figure 2 shows that from 2014 to 2023 there were 21,515 instances of sexual violence to women in the city of Toronto and only 3,181 for men, a disproportionate difference. 
+@fig-total showed that there were 2.1\% more reported male crime victims than female ones. However, when we break this down, the number of female victims outnumber males by 78\% and 9\% for sexual and other crimes, respectively. Further, when dissecting assault victims, we don’t see this same differential and there are more male victims than female ones. 
 
-However, @fig-crimetype shows that men are also more susceptible to being victims of assault, and robbery  compared to women. @fig-crimetype shows that, across the past nine years, there were 11,169 more male assault victims than female. When broken into different categories, @fig-assault highlights that there are more male victims across all subsections of assault than female. Because assault is the most common category of crime in Toronto, the 2\% difference between male and female victims in @fig-total is fueled by the difference underlined in the assault category. Overall, the data analyzed today shows that both sexes are susceptible to different crimes. While males represent a greater proportion of total crime victims, women are disproportionately affected in sexual crimes.  
+Analyzing the data shows that vulnerability to specific crimes varies by sex. @fig-crimetype shows that women are more susceptible to gender-based violence such as sexual assault or harassment. According to Cotter, approximately 4.7 million or 30\% of all women aged 15 or older have been sexually assaulted outside of an intimate relationship at least once [@ipv_statcan]. The data in figure 2 shows that, from 2014 to 2023, there were 21,515 instances of sexual violence to women in the city of Toronto and only 3,181 for men, a disproportionate difference. 
 
-When working with the dataset, there are a few limitations and next steps to keep in mind. First, the data may have some duplicates because the "Count"(INSERT CHANGE) variable could include the same person if they were victimized for the same offence during the same period. In addition, the dataset does not breakdown other into specific crimes under "CrimeType", making it difficult to analyze fatal victims of crime. Further research should look at if women or men are more susceptible to fatal crimes such as manslaughter or first-degree murder. 
+However, @fig-crimetype shows that men are also more susceptible to being victims of assault, and robbery  compared to women. @fig-crimetype shows that, across the past nine years, there were 11,169 more male assault victims than female. When broken into different categories, @fig-assault highlights that there are more male victims across all subsections of assault than female.@fig-assault also shows that most crimes in assault are not to police officers but fall under a more broad group of assault charges. Figure 3 is particularly highlighted because the dataset is generated by the Toronto Police Department, and for the Department, it is useful to highlight how many cases of assault were on on-duty police officers.  Because assault is the most common category of crime in Toronto, the 2\% difference between male and female victims in @fig-total is fueled by the difference underlined in the assault category. Overall, the data analyzed today shows that both sexes are susceptible to different crimes. While males represent a greater proportion of total crime victims, women are disproportionately affected in sexual crimes.  
+
+## Implications {#sec-discussion-implications}
+
+The result of this study has numerous implications in policy making, victim support, and overall social justice initiatives. Most importantly, by highlighting these differences, the study highlights specific vulnerabilities, such as women to sexual crimes or men to assault. In particular, the results are important to municipal policy makers designing legal protections, interventions and support services, which is important for aiding victims [@coe_gender_violence]. Further, understanding the specific crimes that affect different sexes will empower victim support services. While further study is needed to evaluate the different sexes’ responses to crimes, the study still highlights these differences in the meaningful way that is specific to the Toronto community. Finally, the result of the study opens up broader discussions on systemic issues like misogyny and toxic gender roles that make discussion on the higher crime rates against specific sexes possible [@canadian_womens_foundation]. Overall, there are various legislative and social implications of the study.
+
+## Limitations and Next Steps {#sec-discussion-limitations}
+
+When working with the dataset, there are a few limitations and next steps to keep in mind. First, the data may have some duplicates because the Count could include the same person if they were victimized for the same offence during the same period. In addition, the dataset does not breakdown other into specific crimes under CrimeType, making it difficult to analyze fatal victims of crime. Similarly, the data set does not distinguish or note the severity of crime and generalizes it into different categories and makes it difficult to show that women in Toronto are more susceptible to more fatal crimes. For example, research by the Government of Canada suggests that women are more susceptible to Intimate Partner Violence (IPV), such as being choked, assaulted, or sexually assaulted [@statcan_gbv_2019]. Further research should investigate not only fatal crimes such as manslaughter and murder, but should also investigate if women in Toronto are more susceptible to IPV than men, a key area in gender-based violence.  
 
 \newpage
 
@@ -220,7 +236,7 @@ Select columns from the raw data set were filtered out and data entries were ren
 
 ## Data Attribution Statement {#sec-appendix-attribution}
 
-"This data contains information licensed under the Open Government License - Toronto" (insert citation).
+"This data contains information licensed under the Open Government License - Toronto" [@tphlicense].
 
 ## Data Sample {#sec-appendix-sample}
 
