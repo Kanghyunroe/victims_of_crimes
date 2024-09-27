@@ -1,8 +1,8 @@
-# Analysis of Crime Victims by Type and Gender from 2014 to 2023
+# Who are Toronto’s Crime Victims? A Gender and Crime Type Analysis from 2014 to 2023
 
 ## Description
 
-This GitHub repository contains all files used to generate the paper *Analysis of Crime Victims by Type and Gender from 2014 to 2023*.
+This GitHub repository contains all files used to generate the paper *Who are Toronto’s Crime Victims? A Gender and Crime Type Analysis from 2014 to 2023*.
 
 Some of the R code used to create this work was adapted from Alexander (2023).
 
