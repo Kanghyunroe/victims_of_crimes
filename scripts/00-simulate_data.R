@@ -29,18 +29,18 @@ data <-
     category = "Crimes Against the Person",
     
     # Randomly pick subtype
-    subtype = sample(c("Assault", "Theft", "Burglary", "Other"), size = 1244, 
-                       replace = TRUE),
+    subtype = sample(c("Assault", "Theft", "Burglary", "Other"), size = 1244,
+                     replace = TRUE),
     
     # Randomly assign assault_subtype and N/A to other crimes
     assault_subtype = ifelse(
       subtype == "Assault", 
-      sample( c("Assault Peace Officer", 
+      sample(c("Assault Peace Officer", 
                 "Assault Resist Arrest", 
                 "Assault Peace Officer Weapon/Bodily Harm", 
                 "Aggravated Peace Officer"),
-              size = sum(subtype == "Assault"), 
-              replace = TRUE),"N/A"),
+              size = sum(subtype == "Assault"),  
+              replace = TRUE),"N/A"), 
       
     # Randomly assign sex 
     sex = sample(c("M", "F", "U"), size = 1244, replace = TRUE), 

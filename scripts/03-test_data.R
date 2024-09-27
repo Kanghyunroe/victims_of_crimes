@@ -16,28 +16,28 @@ data <- read_csv("data/analysis_data/analysis_data.csv")
 
 # Check the class of the columns
 
-data$'CrimeType' |> class() == "character"
+data$"CrimeType" |> class() == "character"
 
-data$'AssaultType' |> class() == "character"
+data$"AssaultType" |> class() == "character"
 
-data$'Sex' |> class() == "character"
+data$"Sex" |> class() == "character"
 
-data$'AgeGroup' |> class() == "character"
+data$"AgeGroup" |> class() == "character"
 
-data$'Count' |> class() == "numeric"
+data$"Count" |> class() == "numeric"
 
 
 # Test for negative numbers
-data$'Count' |> min() <= 0
+data$"Count" |> min() <= 0
 
 # Test for NAs
-all(is.na(data$'Count'))
-all(is.na(data$'AssaultType'))
+all(is.na(data$"Count"))
+all(is.na(data$"AssaultType"))
 
 # Check that the only Sex types listed are  Male, Female, and Unknown
-data$'Sex' |> 
+data$"Sex" |> 
   unique() |>
-sort() ==  sort(c("Male", "Female", "Unknown"))
+  sort() ==  sort(c("Male", "Female", "Unknown"))
 
 
 
