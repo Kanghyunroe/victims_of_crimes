@@ -5,7 +5,7 @@ author:
 thanks: "All data, R code, and other files are available in the following GitHub repository: <https://github.com/Kanghyunroe/victims_of_crimes/tree/master>"
 date: today
 date-format: long
-abstract: "This paper analyzes data from the Toronto Police Service's Annual Statistical Report on Crime Victims from 2014 to 2023, focusing on the relationship between sex and crime victimization in the city. Overall, male victims outnumber female victims by 2%, but women are disproportionately affected in certain crime categories: female victims outnumber males by 78% in sexual crimes and by 9% in other crimes. These findings highlight how vulnerability to certain crimes is influenced by sex, underscoring the need for targeted policy interventions to strengthen victim support services. Further research should focus on victims of fatal crimes, particularly those linked to Intimate Partner Violence (IPV)."
+abstract: "This paper analyzes data from the Toronto Police Service's Annual Statistical Report on Crime Victims from 2014 to 2023, focusing on the relationship between sex and crime victimization in the city. Overall, male victims outnumber female victims by 2%, but women are disproportionately affected in certain crime categories: female victims outnumber males by 78% in sexual crimes and by 9% in other crimes. These findings highlight how vulnerability to certain crimes is influenced by sex, underscoring the need for targeted policy initiatives to strengthen victim support services. Further research should focus on victims of fatal crimes, particularly those linked to Intimate Partner Violence (IPV) to address the limitations of the dataset."
 format: pdf
 number-sections: true
 toc: true
@@ -233,7 +233,7 @@ Sketches for the desired data set and the graphs are available in the GitHub Rep
 
 ## Data Cleaning Methodology {#sec-appendix-cleaning}
 
-Select columns from the raw data set were filtered out and data entries were renamed for simplicity.
+Select columns from the raw data set were filtered out and data entries were renamed for clarity purposes.
 
 ## Data Attribution Statement {#sec-appendix-attribution}
 
